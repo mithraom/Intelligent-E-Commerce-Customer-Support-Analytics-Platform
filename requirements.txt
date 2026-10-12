@@ -1,0 +1,17 @@
+pandas
+scikit-learn
+spacy
+nltk
+mlxtend
+langdetect
+joblib
+fastapi
+uvicorn[standard]
+python-multipart
+
+# ---- optional extras (the app runs without them) ----
+# Offline machine translation (MarianMT / NLLB-200):
+#   transformers  sentencepiece  torch
+# Offline speech-to-text (Whisper), used for Firefox / no-internet voice input:
+#   faster-whisper
+# After installing spaCy, run:  python -m spacy download en_core_web_sm

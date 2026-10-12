@@ -1,0 +1,601 @@
+ticket_id,text,category,sentiment,order_id_used,order_exists
+T00001,"Can I get a refund of $160.58 for order ORD80678, the item never arrived?",Billing,neutral,ORD80678,True
+T00002,I received the wrong address confirmation for order ORD49618. great support so far.,Shipping,positive,ORD49618,True
+T00003,The Wireless Mouse I received in order ORD80545 is damaged. unacceptable.,Product,negative,ORD80545,True
+T00004,The tracking for order ORD43065 hasn't updated in 5 days.,Shipping,neutral,ORD43065,True
+T00005,Does the Phone Case come with a warranty card? really appreciate it.,Product,positive,,
+T00006,I need a GST invoice for order ORD29342 placed on 22/8/2026.,Billing,neutral,ORD29342,True
+T00007,Return pickup for order ORD39045 was missed twice.,Returns,neutral,ORD39045,True
+T00008,I received the wrong address confirmation for order ORD91226.,Shipping,neutral,ORD91226,True
+T00009,Why was my card charged $344.82 when the listed price was different? unacceptable.,Billing,negative,,
+T00010,Please update my email address on file. unacceptable.,Account,negative,,
+T00011,Any update on order ORD37742? frustrated.,Shipping,negative,ORD37742,True
+T00012,Order ORD84029 shows delivered but I never received the package. unacceptable.,Shipping,negative,ORD84029,False
+T00013,"Can I get a refund of $500.50 for order ORD47015, the item never arrived? great support so far.",Billing,positive,ORD47015,False
+T00014,The tracking for order ORD20527 hasn't updated in 5 days. angry.,Shipping,negative,ORD20527,True
+T00015,How do I change my registered phone number? frustrated.,Account,negative,,
+T00016,I received the wrong address confirmation for order ORD38569.,Shipping,neutral,ORD38569,True
+T00017,Does the Mechanical Keyboard come with a warranty card? angry.,Product,negative,,
+T00018,I received the wrong address confirmation for order ORD84304. unacceptable.,Shipping,negative,ORD84304,False
+T00019,"I want to return the Power Bank from order ORD88907, it doesn't fit. thanks so much.",Returns,positive,ORD88907,True
+T00020,My invoice for order ORD24993 shows the wrong tax amount.,Billing,neutral,ORD24993,True
+T00021,Can I cancel order ORD45018? It hasn't shipped yet. great support so far.,Returns,positive,ORD45018,True
+T00022,Return pickup for order ORD73624 was missed twice. frustrated.,Returns,negative,ORD73624,True
+T00023,Any update on order ORD50135? great support so far.,Shipping,positive,ORD50135,True
+T00024,"I can't log into my account, it says password incorrect. very disappointed.",Account,negative,,
+T00025,Why was my card charged $215.42 when the listed price was different?,Billing,neutral,,
+T00026,Where is my order ORD49251? thanks so much.,Shipping,positive,ORD49251,True
+T00027,Can I cancel order ORD57381? It hasn't shipped yet. frustrated.,Returns,negative,ORD57381,False
+T00028,I want to delete my account and all associated data. really appreciate it.,Account,positive,,
+T00029,My account was locked after too many login attempts. angry.,Account,negative,,
+T00030,"The Water Bottle stopped working after 2 days, order ORD25012.",Product,neutral,ORD25012,True
+T00031,I want to delete my account and all associated data.,Account,neutral,,
+T00032,What happened to order ORD80539? angry.,Shipping,negative,ORD80539,True
+T00033,I want to know the battery life of the Wireless Mouse.,Product,neutral,,
+T00034,My invoice for order ORD94607 shows the wrong tax amount. very disappointed.,Billing,negative,ORD94607,True
+T00035,"My order ORD71993 has not been delivered yet, it was expected on 17/2/2026.",Shipping,neutral,ORD71993,True
+T00036,My account was locked after too many login attempts. thanks so much.,Account,positive,,
+T00037,My account was locked after too many login attempts. really appreciate it.,Account,positive,,
+T00038,I want to delete my account and all associated data. angry.,Account,negative,,
+T00039,Why was my card charged $334.56 when the listed price was different?,Billing,neutral,,
+T00040,Please update my email address on file.,Account,neutral,,
+T00041,Does the Phone Case come with a warranty card?,Product,neutral,,
+T00042,"The Smart Watch I ordered (ORD44671) is not what I expected, how do I exchange it? angry.",Returns,negative,ORD44671,True
+T00043,"I was charged twice for order ORD34727, please refund the extra amount. really appreciate it.",Billing,positive,ORD34727,True
+T00044,Please update my email address on file.,Account,neutral,,
+T00045,Can I cancel order ORD61172? It hasn't shipped yet.,Returns,neutral,ORD61172,False
+T00046,My invoice for order ORD24621 shows the wrong tax amount. great support so far.,Billing,positive,ORD24621,True
+T00047,The tracking for order ORD67954 hasn't updated in 5 days. worst experience.,Shipping,negative,ORD67954,True
+T00048,I need a GST invoice for order ORD51180 placed on 21/11/2026. really appreciate it.,Billing,positive,ORD51180,True
+T00049,Order ORD82063 shows delivered but I never received the package.,Shipping,neutral,ORD82063,True
+T00050,The Laptop Stand I received in order ORD15273 is damaged. thanks so much.,Product,positive,ORD15273,True
+T00051,"The Power Bank stopped working after 2 days, order ORD71261.",Product,neutral,ORD71261,True
+T00052,Why was my card charged $330.09 when the listed price was different?,Billing,neutral,,
+T00053,Please update my email address on file.,Account,neutral,,
+T00054,"Can I get a refund of $91.66 for order ORD19602, the item never arrived? thanks so much.",Billing,positive,ORD19602,True
+T00055,"I want to return the Webcam from order ORD83060, it doesn't fit. very disappointed.",Returns,negative,ORD83060,True
+T00056,The tracking for order ORD94259 hasn't updated in 5 days. really appreciate it.,Shipping,positive,ORD94259,True
+T00057,My account was locked after too many login attempts. unacceptable.,Account,negative,,
+T00058,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00059,"The Power Bank I ordered (ORD91691) is not what I expected, how do I exchange it?",Returns,neutral,ORD91691,True
+T00060,Why was my card charged $500.65 when the listed price was different?,Billing,neutral,,
+T00061,"The Screen Protector I ordered (ORD42325) is not what I expected, how do I exchange it? really appreciate it.",Returns,positive,ORD42325,True
+T00062,"The Smart Watch stopped working after 2 days, order ORD72296. really appreciate it.",Product,positive,ORD72296,True
+T00063,Is the Notebook Set compatible with my old charger? great support so far.,Product,positive,,
+T00064,"I want to return the Yoga Mat from order ORD83579, it doesn't fit. angry.",Returns,negative,ORD83579,True
+T00065,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00066,"My order ORD73654 has not been delivered yet, it was expected on 10/3/2026.",Shipping,neutral,ORD73654,True
+T00067,Return pickup for order ORD34164 was missed twice. great support so far.,Returns,positive,ORD34164,True
+T00068,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00069,"I can't log into my account, it says password incorrect. great support so far.",Account,positive,,
+T00070,Please update my email address on file.,Account,neutral,,
+T00071,"I was charged twice for order ORD15646, please refund the extra amount.",Billing,neutral,ORD15646,False
+T00072,I want to delete my account and all associated data. really appreciate it.,Account,positive,,
+T00073,My account was locked after too many login attempts.,Account,neutral,,
+T00074,Does the Running Shoes come with a warranty card? worst experience.,Product,negative,,
+T00075,I received the wrong address confirmation for order ORD67711. angry.,Shipping,negative,ORD67711,True
+T00076,Where is my order ORD98184? great support so far.,Shipping,positive,ORD98184,True
+T00077,Any update on order ORD38676?,Shipping,neutral,ORD38676,False
+T00078,Please update my email address on file.,Account,neutral,,
+T00079,My invoice for order ORD59823 shows the wrong tax amount.,Billing,neutral,ORD59823,True
+T00080,Can I cancel order ORD77715? It hasn't shipped yet. worst experience.,Returns,negative,ORD77715,True
+T00081,How do I change my registered phone number? angry.,Account,negative,,
+T00082,Please update my email address on file.,Account,neutral,,
+T00083,"I can't log into my account, it says password incorrect. frustrated.",Account,negative,,
+T00084,"The Webcam I ordered (ORD87924) is not what I expected, how do I exchange it? thanks so much.",Returns,positive,ORD87924,True
+T00085,Order ORD97500 shows delivered but I never received the package.,Shipping,neutral,ORD97500,True
+T00086,My invoice for order ORD91542 shows the wrong tax amount. unacceptable.,Billing,negative,ORD91542,False
+T00087,My invoice for order ORD24371 shows the wrong tax amount. great support so far.,Billing,positive,ORD24371,True
+T00088,My invoice for order ORD67422 shows the wrong tax amount. thanks so much.,Billing,positive,ORD67422,True
+T00089,"The Yoga Mat I ordered (ORD49446) is not what I expected, how do I exchange it? unacceptable.",Returns,negative,ORD49446,True
+T00090,My account was locked after too many login attempts. great support so far.,Account,positive,,
+T00091,"The Water Bottle stopped working after 2 days, order ORD49240.",Product,neutral,ORD49240,True
+T00092,What's going on with order ORD88047?,Shipping,neutral,ORD88047,True
+T00093,I want to delete my account and all associated data.,Account,neutral,,
+T00094,Can I cancel order ORD70142? It hasn't shipped yet.,Returns,neutral,ORD70142,True
+T00095,Is the Bluetooth Headphones compatible with my old charger? angry.,Product,negative,,
+T00096,"The Yoga Mat I ordered (ORD74789) is not what I expected, how do I exchange it?",Returns,neutral,ORD74789,True
+T00097,I want to know the battery life of the Notebook Set. unacceptable.,Product,negative,,
+T00098,Why was my card charged $154.75 when the listed price was different? great support so far.,Billing,positive,,
+T00099,"I was charged twice for order ORD42007, please refund the extra amount. frustrated.",Billing,negative,ORD42007,True
+T00100,Is the Yoga Mat compatible with my old charger? unacceptable.,Product,negative,,
+T00101,What's going on with order ORD37535?,Shipping,neutral,ORD37535,True
+T00102,I want to know the battery life of the Mechanical Keyboard. great support so far.,Product,positive,,
+T00103,"Can I get a refund of $410.55 for order ORD69429, the item never arrived?",Billing,neutral,ORD69429,True
+T00104,"The Power Bank I ordered (ORD19071) is not what I expected, how do I exchange it? great support so far.",Returns,positive,ORD19071,True
+T00105,My invoice for order ORD81582 shows the wrong tax amount. great support so far.,Billing,positive,ORD81582,True
+T00106,What's going on with order ORD83792?,Shipping,neutral,ORD83792,True
+T00107,"Can I get a refund of $363.42 for order ORD73464, the item never arrived? worst experience.",Billing,negative,ORD73464,True
+T00108,"I want to return the Blender from order ORD26704, it doesn't fit. great support so far.",Returns,positive,ORD26704,True
+T00109,Why was my card charged $44.00 when the listed price was different?,Billing,neutral,,
+T00110,I received the wrong address confirmation for order ORD24592.,Shipping,neutral,ORD24592,True
+T00111,Any update on order ORD91609?,Shipping,neutral,ORD91609,True
+T00112,Can you expedite shipping for order ORD42018? I need it before 10/5/2026.,Shipping,neutral,ORD42018,True
+T00113,I want to delete my account and all associated data.,Account,neutral,,
+T00114,"My order ORD76562 has not been delivered yet, it was expected on 19/5/2026. worst experience.",Shipping,negative,ORD76562,True
+T00115,"I can't log into my account, it says password incorrect. very disappointed.",Account,negative,,
+T00116,I want to know the battery life of the Webcam. thanks so much.,Product,positive,,
+T00117,I want to know the battery life of the Desk Lamp. really appreciate it.,Product,positive,,
+T00118,My account was locked after too many login attempts.,Account,neutral,,
+T00119,"The Screen Protector I ordered (ORD22833) is not what I expected, how do I exchange it? frustrated.",Returns,negative,ORD22833,True
+T00120,I received the wrong address confirmation for order ORD10221.,Shipping,neutral,ORD10221,True
+T00121,The tracking for order ORD34050 hasn't updated in 5 days. really appreciate it.,Shipping,positive,ORD34050,True
+T00122,Why was my card charged $333.03 when the listed price was different? angry.,Billing,negative,,
+T00123,Please update my email address on file. really appreciate it.,Account,positive,,
+T00124,What's going on with order ORD49651? thanks so much.,Shipping,positive,ORD49651,True
+T00125,"My order ORD89457 has not been delivered yet, it was expected on 22/12/2026.",Shipping,neutral,ORD89457,True
+T00126,Can I cancel order ORD30926? It hasn't shipped yet.,Returns,neutral,ORD30926,True
+T00127,The tracking for order ORD49251 hasn't updated in 5 days. worst experience.,Shipping,negative,ORD49251,True
+T00128,The Notebook Set I received in order ORD62994 is damaged. unacceptable.,Product,negative,ORD62994,True
+T00129,Does the Backpack come with a warranty card? really appreciate it.,Product,positive,,
+T00130,Return pickup for order ORD53369 was missed twice.,Returns,neutral,ORD53369,True
+T00131,The Blender I received in order ORD43386 is damaged. worst experience.,Product,negative,ORD43386,True
+T00132,The Yoga Mat I received in order ORD28894 is damaged.,Product,neutral,ORD28894,True
+T00133,Can I cancel order ORD80697? It hasn't shipped yet. unacceptable.,Returns,negative,ORD80697,True
+T00134,My account was locked after too many login attempts.,Account,neutral,,
+T00135,I need a GST invoice for order ORD51347 placed on 14/12/2026. great support so far.,Billing,positive,ORD51347,True
+T00136,I need a GST invoice for order ORD54092 placed on 8/4/2026. frustrated.,Billing,negative,ORD54092,True
+T00137,What's going on with order ORD41385? very disappointed.,Shipping,negative,ORD41385,True
+T00138,Please update my email address on file.,Account,neutral,,
+T00139,What's going on with order ORD25915?,Shipping,neutral,ORD25915,True
+T00140,Is the Screen Protector compatible with my old charger?,Product,neutral,,
+T00141,"The Smart Watch I ordered (ORD50888) is not what I expected, how do I exchange it?",Returns,neutral,ORD50888,True
+T00142,My invoice for order ORD41635 shows the wrong tax amount. very disappointed.,Billing,negative,ORD41635,True
+T00143,My invoice for order ORD14722 shows the wrong tax amount. really appreciate it.,Billing,positive,ORD14722,True
+T00144,I want to delete my account and all associated data. angry.,Account,negative,,
+T00145,My account was locked after too many login attempts. great support so far.,Account,positive,,
+T00146,I need a GST invoice for order ORD89788 placed on 27/5/2026.,Billing,neutral,ORD89788,False
+T00147,"Can I get a refund of $485.94 for order ORD73654, the item never arrived?",Billing,neutral,ORD73654,True
+T00148,I want to know the battery life of the Screen Protector.,Product,neutral,,
+T00149,Please update my email address on file.,Account,neutral,,
+T00150,"The Notebook Set stopped working after 2 days, order ORD86931.",Product,neutral,ORD86931,True
+T00151,"I want to return the Webcam from order ORD87278, it doesn't fit. thanks so much.",Returns,positive,ORD87278,True
+T00152,"I can't log into my account, it says password incorrect. frustrated.",Account,negative,,
+T00153,I want to know the battery life of the Notebook Set.,Product,neutral,,
+T00154,Does the Mechanical Keyboard come with a warranty card? really appreciate it.,Product,positive,,
+T00155,My invoice for order ORD76317 shows the wrong tax amount. unacceptable.,Billing,negative,ORD76317,True
+T00156,The Coffee Maker I received in order ORD51347 is damaged. angry.,Product,negative,ORD51347,True
+T00157,I need a GST invoice for order ORD56112 placed on 27/11/2026.,Billing,neutral,ORD56112,True
+T00158,Is the Wireless Mouse compatible with my old charger? great support so far.,Product,positive,,
+T00159,"I want to return the Blender from order ORD84668, it doesn't fit. very disappointed.",Returns,negative,ORD84668,True
+T00160,I want to know the battery life of the Webcam. really appreciate it.,Product,positive,,
+T00161,What's going on with order ORD39436?,Shipping,neutral,ORD39436,False
+T00162,I need a GST invoice for order ORD20735 placed on 15/6/2026.,Billing,neutral,ORD20735,True
+T00163,Is the Desk Lamp compatible with my old charger?,Product,neutral,,
+T00164,My invoice for order ORD84691 shows the wrong tax amount.,Billing,neutral,ORD84691,True
+T00165,How do I change my registered phone number?,Account,neutral,,
+T00166,What is the return window for order ORD63955? great support so far.,Returns,positive,ORD63955,True
+T00167,How do I change my registered phone number?,Account,neutral,,
+T00168,My invoice for order ORD36680 shows the wrong tax amount. frustrated.,Billing,negative,ORD36680,True
+T00169,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00170,Is the Water Bottle compatible with my old charger?,Product,neutral,,
+T00171,I want to know the battery life of the USB-C Charger.,Product,neutral,,
+T00172,I want to delete my account and all associated data.,Account,neutral,,
+T00173,My invoice for order ORD36130 shows the wrong tax amount. really appreciate it.,Billing,positive,ORD36130,True
+T00174,"The Phone Case I ordered (ORD11025) is not what I expected, how do I exchange it?",Returns,neutral,ORD11025,True
+T00175,I want to delete my account and all associated data. very disappointed.,Account,negative,,
+T00176,How do I change my registered phone number? great support so far.,Account,positive,,
+T00177,Does the Screen Protector come with a warranty card?,Product,neutral,,
+T00178,Order ORD80236 shows delivered but I never received the package. frustrated.,Shipping,negative,ORD80236,True
+T00179,Return pickup for order ORD95477 was missed twice.,Returns,neutral,ORD95477,True
+T00180,Where is my order ORD25720? very disappointed.,Shipping,negative,ORD25720,False
+T00181,The Running Shoes I received in order ORD83259 is damaged.,Product,neutral,ORD83259,True
+T00182,Does the Webcam come with a warranty card?,Product,neutral,,
+T00183,"I can't log into my account, it says password incorrect. frustrated.",Account,negative,,
+T00184,Can you expedite shipping for order ORD61856? I need it before 9/8/2026. very disappointed.,Shipping,negative,ORD61856,True
+T00185,I want to delete my account and all associated data. thanks so much.,Account,positive,,
+T00186,How do I change my registered phone number?,Account,neutral,,
+T00187,What happened to order ORD97026?,Shipping,neutral,ORD97026,True
+T00188,My account was locked after too many login attempts. unacceptable.,Account,negative,,
+T00189,My account was locked after too many login attempts. thanks so much.,Account,positive,,
+T00190,Does the Mechanical Keyboard come with a warranty card? great support so far.,Product,positive,,
+T00191,What is the return window for order ORD42527?,Returns,neutral,ORD42527,True
+T00192,I want to delete my account and all associated data. great support so far.,Account,positive,,
+T00193,Please update my email address on file.,Account,neutral,,
+T00194,Is the Notebook Set compatible with my old charger? unacceptable.,Product,negative,,
+T00195,I want to know the battery life of the Laptop Stand.,Product,neutral,,
+T00196,Can I cancel order ORD44675? It hasn't shipped yet. very disappointed.,Returns,negative,ORD44675,True
+T00197,"I was charged twice for order ORD70637, please refund the extra amount. unacceptable.",Billing,negative,ORD70637,True
+T00198,The Notebook Set I received in order ORD48829 is damaged. angry.,Product,negative,ORD48829,True
+T00199,Please update my email address on file.,Account,neutral,,
+T00200,"I was charged twice for order ORD88504, please refund the extra amount. worst experience.",Billing,negative,ORD88504,True
+T00201,"The Screen Protector stopped working after 2 days, order ORD54236. worst experience.",Product,negative,ORD54236,True
+T00202,My account was locked after too many login attempts. really appreciate it.,Account,positive,,
+T00203,Return pickup for order ORD45325 was missed twice.,Returns,neutral,ORD45325,True
+T00204,"I want to return the Power Bank from order ORD23104, it doesn't fit. really appreciate it.",Returns,positive,ORD23104,True
+T00205,"I was charged twice for order ORD97670, please refund the extra amount.",Billing,neutral,ORD97670,True
+T00206,Return pickup for order ORD92544 was missed twice. great support so far.,Returns,positive,ORD92544,True
+T00207,Return pickup for order ORD84341 was missed twice.,Returns,neutral,ORD84341,True
+T00208,Is the Desk Lamp compatible with my old charger?,Product,neutral,,
+T00209,"I was charged twice for order ORD10074, please refund the extra amount. thanks so much.",Billing,positive,ORD10074,True
+T00210,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00211,Can I cancel order ORD99593? It hasn't shipped yet. great support so far.,Returns,positive,ORD99593,True
+T00212,What is the return window for order ORD47353? great support so far.,Returns,positive,ORD47353,True
+T00213,What happened to order ORD52504? frustrated.,Shipping,negative,ORD52504,True
+T00214,"Can I get a refund of $285.58 for order ORD17355, the item never arrived? angry.",Billing,negative,ORD17355,True
+T00215,What is the return window for order ORD63528? very disappointed.,Returns,negative,ORD63528,True
+T00216,"The Desk Lamp stopped working after 2 days, order ORD39256.",Product,neutral,ORD39256,True
+T00217,The tracking for order ORD43862 hasn't updated in 5 days. worst experience.,Shipping,negative,ORD43862,True
+T00218,Can I cancel order ORD20527? It hasn't shipped yet.,Returns,neutral,ORD20527,True
+T00219,Please update my email address on file. very disappointed.,Account,negative,,
+T00220,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00221,I want to delete my account and all associated data.,Account,neutral,,
+T00222,I want to delete my account and all associated data.,Account,neutral,,
+T00223,Is the Phone Case compatible with my old charger?,Product,neutral,,
+T00224,I want to delete my account and all associated data. great support so far.,Account,positive,,
+T00225,Any update on order ORD51904?,Shipping,neutral,ORD51904,True
+T00226,I need a GST invoice for order ORD90173 placed on 17/1/2026. great support so far.,Billing,positive,ORD90173,True
+T00227,My account was locked after too many login attempts.,Account,neutral,,
+T00228,How do I change my registered phone number?,Account,neutral,,
+T00229,"Can I get a refund of $371.94 for order ORD69470, the item never arrived? frustrated.",Billing,negative,ORD69470,True
+T00230,Why was my card charged $59.69 when the listed price was different?,Billing,neutral,,
+T00231,"The Smart Watch stopped working after 2 days, order ORD86919.",Product,neutral,ORD86919,False
+T00232,"I was charged twice for order ORD79352, please refund the extra amount. frustrated.",Billing,negative,ORD79352,True
+T00233,I want to know the battery life of the Yoga Mat.,Product,neutral,,
+T00234,"The Mechanical Keyboard stopped working after 2 days, order ORD48974. angry.",Product,negative,ORD48974,True
+T00235,"I was charged twice for order ORD88172, please refund the extra amount.",Billing,neutral,ORD88172,True
+T00236,My invoice for order ORD54020 shows the wrong tax amount.,Billing,neutral,ORD54020,True
+T00237,Can you expedite shipping for order ORD68991? I need it before 5/10/2026. thanks so much.,Shipping,positive,ORD68991,True
+T00238,Is the Smart Watch compatible with my old charger? unacceptable.,Product,negative,,
+T00239,"The Laptop Stand I ordered (ORD81482) is not what I expected, how do I exchange it? worst experience.",Returns,negative,ORD81482,True
+T00240,Please update my email address on file.,Account,neutral,,
+T00241,Is the Desk Lamp compatible with my old charger? very disappointed.,Product,negative,,
+T00242,Is the Screen Protector compatible with my old charger?,Product,neutral,,
+T00243,How do I change my registered phone number? thanks so much.,Account,positive,,
+T00244,The Water Bottle I received in order ORD78522 is damaged. great support so far.,Product,positive,ORD78522,True
+T00245,What is the return window for order ORD75435?,Returns,neutral,ORD75435,True
+T00246,Order ORD76540 shows delivered but I never received the package.,Shipping,neutral,ORD76540,True
+T00247,"I want to return the Mechanical Keyboard from order ORD40433, it doesn't fit. worst experience.",Returns,negative,ORD40433,True
+T00248,Order ORD38746 shows delivered but I never received the package.,Shipping,neutral,ORD38746,True
+T00249,"Can I get a refund of $212.21 for order ORD54942, the item never arrived? thanks so much.",Billing,positive,ORD54942,True
+T00250,"The Water Bottle stopped working after 2 days, order ORD15229. worst experience.",Product,negative,ORD15229,True
+T00251,The Yoga Mat I received in order ORD42007 is damaged.,Product,neutral,ORD42007,True
+T00252,My account was locked after too many login attempts. great support so far.,Account,positive,,
+T00253,How do I change my registered phone number?,Account,neutral,,
+T00254,Can you expedite shipping for order ORD72296? I need it before 20/10/2026.,Shipping,neutral,ORD72296,True
+T00255,Can you expedite shipping for order ORD16764? I need it before 3/6/2026. thanks so much.,Shipping,positive,ORD16764,True
+T00256,"The Screen Protector stopped working after 2 days, order ORD47752. worst experience.",Product,negative,ORD47752,True
+T00257,Why was my card charged $361.93 when the listed price was different?,Billing,neutral,,
+T00258,My invoice for order ORD40595 shows the wrong tax amount.,Billing,neutral,ORD40595,True
+T00259,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00260,How do I change my registered phone number? thanks so much.,Account,positive,,
+T00261,How do I change my registered phone number?,Account,neutral,,
+T00262,Is the Webcam compatible with my old charger? great support so far.,Product,positive,,
+T00263,I want to delete my account and all associated data. thanks so much.,Account,positive,,
+T00264,"The Desk Lamp I ordered (ORD51145) is not what I expected, how do I exchange it?",Returns,neutral,ORD51145,True
+T00265,The Bluetooth Headphones I received in order ORD79352 is damaged. very disappointed.,Product,negative,ORD79352,True
+T00266,My account was locked after too many login attempts.,Account,neutral,,
+T00267,Return pickup for order ORD93307 was missed twice.,Returns,neutral,ORD93307,True
+T00268,Why was my card charged $182.81 when the listed price was different? really appreciate it.,Billing,positive,,
+T00269,The Phone Case I received in order ORD35119 is damaged.,Product,neutral,ORD35119,False
+T00270,"My order ORD97580 has not been delivered yet, it was expected on 9/12/2026. really appreciate it.",Shipping,positive,ORD97580,True
+T00271,I need a GST invoice for order ORD98894 placed on 1/7/2026. angry.,Billing,negative,ORD98894,False
+T00272,Order ORD24662 shows delivered but I never received the package. really appreciate it.,Shipping,positive,ORD24662,True
+T00273,I want to know the battery life of the Screen Protector.,Product,neutral,,
+T00274,"I want to return the Blender from order ORD66450, it doesn't fit.",Returns,neutral,ORD66450,True
+T00275,What is the return window for order ORD82544?,Returns,neutral,ORD82544,True
+T00276,My invoice for order ORD91987 shows the wrong tax amount. really appreciate it.,Billing,positive,ORD91987,True
+T00277,What happened to order ORD63476? really appreciate it.,Shipping,positive,ORD63476,True
+T00278,What's going on with order ORD63545? very disappointed.,Shipping,negative,ORD63545,True
+T00279,How do I change my registered phone number?,Account,neutral,,
+T00280,"Can I get a refund of $125.51 for order ORD81987, the item never arrived?",Billing,neutral,ORD81987,True
+T00281,Can you expedite shipping for order ORD12671? I need it before 25/8/2026.,Shipping,neutral,ORD12671,True
+T00282,Why was my card charged $220.24 when the listed price was different? really appreciate it.,Billing,positive,,
+T00283,"I want to return the Phone Case from order ORD52601, it doesn't fit.",Returns,neutral,ORD52601,False
+T00284,The Webcam I received in order ORD53515 is damaged. great support so far.,Product,positive,ORD53515,True
+T00285,What happened to order ORD45954? worst experience.,Shipping,negative,ORD45954,True
+T00286,Please update my email address on file.,Account,neutral,,
+T00287,I received the wrong address confirmation for order ORD56105.,Shipping,neutral,ORD56105,True
+T00288,My account was locked after too many login attempts. worst experience.,Account,negative,,
+T00289,"I want to return the Backpack from order ORD25014, it doesn't fit.",Returns,neutral,ORD25014,True
+T00290,"Can I get a refund of $332.83 for order ORD24663, the item never arrived? great support so far.",Billing,positive,ORD24663,True
+T00291,"I want to return the Power Bank from order ORD70142, it doesn't fit. frustrated.",Returns,negative,ORD70142,True
+T00292,The Screen Protector I received in order ORD74431 is damaged.,Product,neutral,ORD74431,False
+T00293,Does the Coffee Maker come with a warranty card? unacceptable.,Product,negative,,
+T00294,My invoice for order ORD18326 shows the wrong tax amount. really appreciate it.,Billing,positive,ORD18326,True
+T00295,I want to delete my account and all associated data. thanks so much.,Account,positive,,
+T00296,"The Power Bank I ordered (ORD20500) is not what I expected, how do I exchange it?",Returns,neutral,ORD20500,True
+T00297,How do I change my registered phone number? great support so far.,Account,positive,,
+T00298,Any update on order ORD15482? very disappointed.,Shipping,negative,ORD15482,True
+T00299,Can you expedite shipping for order ORD76162? I need it before 12/8/2026.,Shipping,neutral,ORD76162,True
+T00300,I need a GST invoice for order ORD65933 placed on 13/11/2026. unacceptable.,Billing,negative,ORD65933,True
+T00301,"I want to return the Water Bottle from order ORD44237, it doesn't fit. really appreciate it.",Returns,positive,ORD44237,True
+T00302,What is the return window for order ORD37549? angry.,Returns,negative,ORD37549,True
+T00303,"My order ORD49240 has not been delivered yet, it was expected on 24/2/2026. great support so far.",Shipping,positive,ORD49240,True
+T00304,My invoice for order ORD89840 shows the wrong tax amount. really appreciate it.,Billing,positive,ORD89840,True
+T00305,My invoice for order ORD65518 shows the wrong tax amount.,Billing,neutral,ORD65518,True
+T00306,I want to know the battery life of the Wireless Mouse. really appreciate it.,Product,positive,,
+T00307,Can I cancel order ORD70142? It hasn't shipped yet. worst experience.,Returns,negative,ORD70142,True
+T00308,How do I change my registered phone number? unacceptable.,Account,negative,,
+T00309,Return pickup for order ORD34983 was missed twice.,Returns,neutral,ORD34983,True
+T00310,My account was locked after too many login attempts.,Account,neutral,,
+T00311,I want to delete my account and all associated data. worst experience.,Account,negative,,
+T00312,"The Bluetooth Headphones stopped working after 2 days, order ORD39831. thanks so much.",Product,positive,ORD39831,True
+T00313,Please update my email address on file.,Account,neutral,,
+T00314,I want to delete my account and all associated data.,Account,neutral,,
+T00315,Does the Blender come with a warranty card? angry.,Product,negative,,
+T00316,Why was my card charged $422.17 when the listed price was different? very disappointed.,Billing,negative,,
+T00317,Order ORD95990 shows delivered but I never received the package.,Shipping,neutral,ORD95990,True
+T00318,I received the wrong address confirmation for order ORD42406.,Shipping,neutral,ORD42406,True
+T00319,Can I cancel order ORD92960? It hasn't shipped yet.,Returns,neutral,ORD92960,True
+T00320,"I can't log into my account, it says password incorrect. great support so far.",Account,positive,,
+T00321,The tracking for order ORD64234 hasn't updated in 5 days.,Shipping,neutral,ORD64234,False
+T00322,"I want to return the Blender from order ORD68153, it doesn't fit. thanks so much.",Returns,positive,ORD68153,True
+T00323,"The Smart Watch stopped working after 2 days, order ORD39817. really appreciate it.",Product,positive,ORD39817,True
+T00324,"The Desk Lamp stopped working after 2 days, order ORD65771.",Product,neutral,ORD65771,True
+T00325,I need a GST invoice for order ORD70637 placed on 28/6/2026.,Billing,neutral,ORD70637,True
+T00326,"The Screen Protector I ordered (ORD89516) is not what I expected, how do I exchange it? worst experience.",Returns,negative,ORD89516,True
+T00327,I need a GST invoice for order ORD27601 placed on 25/11/2026. great support so far.,Billing,positive,ORD27601,True
+T00328,What happened to order ORD92960?,Shipping,neutral,ORD92960,True
+T00329,Why was my card charged $329.49 when the listed price was different? angry.,Billing,negative,,
+T00330,Order ORD79822 shows delivered but I never received the package. worst experience.,Shipping,negative,ORD79822,True
+T00331,I want to know the battery life of the Mechanical Keyboard. frustrated.,Product,negative,,
+T00332,Return pickup for order ORD51467 was missed twice.,Returns,neutral,ORD51467,True
+T00333,Order ORD57301 shows delivered but I never received the package. angry.,Shipping,negative,ORD57301,True
+T00334,Why was my card charged $454.95 when the listed price was different? frustrated.,Billing,negative,,
+T00335,My account was locked after too many login attempts. thanks so much.,Account,positive,,
+T00336,Return pickup for order ORD96706 was missed twice.,Returns,neutral,ORD96706,True
+T00337,Please update my email address on file. great support so far.,Account,positive,,
+T00338,"I was charged twice for order ORD87236, please refund the extra amount.",Billing,neutral,ORD87236,True
+T00339,I want to delete my account and all associated data. great support so far.,Account,positive,,
+T00340,The Blender I received in order ORD52906 is damaged. angry.,Product,negative,ORD52906,True
+T00341,"I was charged twice for order ORD88504, please refund the extra amount. really appreciate it.",Billing,positive,ORD88504,True
+T00342,Can you expedite shipping for order ORD37742? I need it before 1/8/2026. angry.,Shipping,negative,ORD37742,True
+T00343,"The Webcam stopped working after 2 days, order ORD27892. great support so far.",Product,positive,ORD27892,True
+T00344,I need a GST invoice for order ORD49618 placed on 1/6/2026. thanks so much.,Billing,positive,ORD49618,True
+T00345,Why was my card charged $448.68 when the listed price was different?,Billing,neutral,,
+T00346,"Can I get a refund of $75.41 for order ORD80798, the item never arrived?",Billing,neutral,ORD80798,True
+T00347,Why was my card charged $110.16 when the listed price was different? very disappointed.,Billing,negative,,
+T00348,The tracking for order ORD84364 hasn't updated in 5 days. very disappointed.,Shipping,negative,ORD84364,True
+T00349,"The Laptop Stand stopped working after 2 days, order ORD87992. thanks so much.",Product,positive,ORD87992,True
+T00350,"I want to return the Desk Lamp from order ORD97670, it doesn't fit. very disappointed.",Returns,negative,ORD97670,True
+T00351,What's going on with order ORD26299?,Shipping,neutral,ORD26299,True
+T00352,My account was locked after too many login attempts. unacceptable.,Account,negative,,
+T00353,"The Desk Lamp I ordered (ORD34421) is not what I expected, how do I exchange it?",Returns,neutral,ORD34421,False
+T00354,"Can I get a refund of $228.82 for order ORD59968, the item never arrived? very disappointed.",Billing,negative,ORD59968,True
+T00355,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00356,I need a GST invoice for order ORD38010 placed on 27/11/2026. frustrated.,Billing,negative,ORD38010,True
+T00357,What happened to order ORD25670? thanks so much.,Shipping,positive,ORD25670,True
+T00358,What is the return window for order ORD68008? very disappointed.,Returns,negative,ORD68008,True
+T00359,Return pickup for order ORD48427 was missed twice.,Returns,neutral,ORD48427,True
+T00360,My account was locked after too many login attempts.,Account,neutral,,
+T00361,Is the Laptop Stand compatible with my old charger? thanks so much.,Product,positive,,
+T00362,Please update my email address on file. unacceptable.,Account,negative,,
+T00363,What's going on with order ORD65771?,Shipping,neutral,ORD65771,True
+T00364,The Water Bottle I received in order ORD49240 is damaged.,Product,neutral,ORD49240,True
+T00365,The Power Bank I received in order ORD16028 is damaged. thanks so much.,Product,positive,ORD16028,True
+T00366,I want to delete my account and all associated data.,Account,neutral,,
+T00367,I want to delete my account and all associated data.,Account,neutral,,
+T00368,Where is my order ORD80855?,Shipping,neutral,ORD80855,True
+T00369,"The Power Bank I ordered (ORD20322) is not what I expected, how do I exchange it?",Returns,neutral,ORD20322,True
+T00370,Can I cancel order ORD79621? It hasn't shipped yet.,Returns,neutral,ORD79621,True
+T00371,Can I cancel order ORD25860? It hasn't shipped yet.,Returns,neutral,ORD25860,True
+T00372,I need a GST invoice for order ORD15075 placed on 22/12/2026.,Billing,neutral,ORD15075,True
+T00373,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00374,My account was locked after too many login attempts. great support so far.,Account,positive,,
+T00375,Why was my card charged $429.87 when the listed price was different? great support so far.,Billing,positive,,
+T00376,"Can I get a refund of $144.98 for order ORD25713, the item never arrived? worst experience.",Billing,negative,ORD25713,True
+T00377,Does the Backpack come with a warranty card?,Product,neutral,,
+T00378,What happened to order ORD79827? great support so far.,Shipping,positive,ORD79827,True
+T00379,Order ORD69087 shows delivered but I never received the package. thanks so much.,Shipping,positive,ORD69087,True
+T00380,Order ORD35242 shows delivered but I never received the package. worst experience.,Shipping,negative,ORD35242,True
+T00381,My invoice for order ORD71433 shows the wrong tax amount. thanks so much.,Billing,positive,ORD71433,True
+T00382,"I can't log into my account, it says password incorrect. really appreciate it.",Account,positive,,
+T00383,Order ORD18675 shows delivered but I never received the package. thanks so much.,Shipping,positive,ORD18675,True
+T00384,Is the Wireless Mouse compatible with my old charger?,Product,neutral,,
+T00385,Please update my email address on file.,Account,neutral,,
+T00386,"The USB-C Charger stopped working after 2 days, order ORD15209. really appreciate it.",Product,positive,ORD15209,True
+T00387,Any update on order ORD25043? unacceptable.,Shipping,negative,ORD25043,True
+T00388,What is the return window for order ORD34586? thanks so much.,Returns,positive,ORD34586,True
+T00389,I need a GST invoice for order ORD19359 placed on 16/12/2026. unacceptable.,Billing,negative,ORD19359,True
+T00390,"Can I get a refund of $375.76 for order ORD13614, the item never arrived?",Billing,neutral,ORD13614,False
+T00391,Please update my email address on file.,Account,neutral,,
+T00392,Can I cancel order ORD79588? It hasn't shipped yet. great support so far.,Returns,positive,ORD79588,True
+T00393,"I want to return the Yoga Mat from order ORD29973, it doesn't fit. worst experience.",Returns,negative,ORD29973,True
+T00394,Can you expedite shipping for order ORD51180? I need it before 11/2/2026. angry.,Shipping,negative,ORD51180,True
+T00395,Can I cancel order ORD82420? It hasn't shipped yet. great support so far.,Returns,positive,ORD82420,True
+T00396,Does the Laptop Stand come with a warranty card?,Product,neutral,,
+T00397,"Can I get a refund of $141.02 for order ORD28643, the item never arrived? great support so far.",Billing,positive,ORD28643,True
+T00398,My invoice for order ORD11648 shows the wrong tax amount. worst experience.,Billing,negative,ORD11648,False
+T00399,"The Laptop Stand I ordered (ORD34704) is not what I expected, how do I exchange it?",Returns,neutral,ORD34704,False
+T00400,My invoice for order ORD49139 shows the wrong tax amount. angry.,Billing,negative,ORD49139,True
+T00401,I need a GST invoice for order ORD25765 placed on 10/2/2026. really appreciate it.,Billing,positive,ORD25765,False
+T00402,The tracking for order ORD95461 hasn't updated in 5 days. great support so far.,Shipping,positive,ORD95461,True
+T00403,I need a GST invoice for order ORD28758 placed on 27/8/2026. angry.,Billing,negative,ORD28758,True
+T00404,"Can I get a refund of $425.84 for order ORD72970, the item never arrived? worst experience.",Billing,negative,ORD72970,False
+T00405,"Can I get a refund of $282.66 for order ORD44993, the item never arrived? thanks so much.",Billing,positive,ORD44993,True
+T00406,Please update my email address on file. frustrated.,Account,negative,,
+T00407,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00408,The Smart Watch I received in order ORD13617 is damaged.,Product,neutral,ORD13617,True
+T00409,What happened to order ORD75612? really appreciate it.,Shipping,positive,ORD75612,True
+T00410,How do I change my registered phone number? very disappointed.,Account,negative,,
+T00411,Why was my card charged $374.40 when the listed price was different? very disappointed.,Billing,negative,,
+T00412,Return pickup for order ORD65724 was missed twice. very disappointed.,Returns,negative,ORD65724,True
+T00413,Is the Water Bottle compatible with my old charger? very disappointed.,Product,negative,,
+T00414,"The Bluetooth Headphones I ordered (ORD37607) is not what I expected, how do I exchange it?",Returns,neutral,ORD37607,True
+T00415,Does the Wireless Mouse come with a warranty card? great support so far.,Product,positive,,
+T00416,I want to know the battery life of the Wireless Mouse. really appreciate it.,Product,positive,,
+T00417,The tracking for order ORD80575 hasn't updated in 5 days. unacceptable.,Shipping,negative,ORD80575,True
+T00418,I want to delete my account and all associated data. thanks so much.,Account,positive,,
+T00419,I need a GST invoice for order ORD24371 placed on 4/2/2026. angry.,Billing,negative,ORD24371,True
+T00420,The tracking for order ORD65771 hasn't updated in 5 days.,Shipping,neutral,ORD65771,True
+T00421,What is the return window for order ORD53357? thanks so much.,Returns,positive,ORD53357,True
+T00422,Does the Yoga Mat come with a warranty card?,Product,neutral,,
+T00423,Can you expedite shipping for order ORD48254? I need it before 28/8/2026. very disappointed.,Shipping,negative,ORD48254,True
+T00424,Return pickup for order ORD97684 was missed twice.,Returns,neutral,ORD97684,True
+T00425,"I want to return the Desk Lamp from order ORD16006, it doesn't fit. thanks so much.",Returns,positive,ORD16006,True
+T00426,"I want to return the Smart Watch from order ORD38864, it doesn't fit. worst experience.",Returns,negative,ORD38864,True
+T00427,"I was charged twice for order ORD94513, please refund the extra amount.",Billing,neutral,ORD94513,False
+T00428,Where is my order ORD25915? great support so far.,Shipping,positive,ORD25915,True
+T00429,What's going on with order ORD58244? angry.,Shipping,negative,ORD58244,False
+T00430,How do I change my registered phone number?,Account,neutral,,
+T00431,My account was locked after too many login attempts.,Account,neutral,,
+T00432,Any update on order ORD93130?,Shipping,neutral,ORD93130,True
+T00433,How do I change my registered phone number? frustrated.,Account,negative,,
+T00434,Can I cancel order ORD91735? It hasn't shipped yet.,Returns,neutral,ORD91735,False
+T00435,How do I change my registered phone number? worst experience.,Account,negative,,
+T00436,Order ORD30181 shows delivered but I never received the package. really appreciate it.,Shipping,positive,ORD30181,True
+T00437,Where is my order ORD28726?,Shipping,neutral,ORD28726,True
+T00438,"I was charged twice for order ORD16914, please refund the extra amount. very disappointed.",Billing,negative,ORD16914,False
+T00439,Order ORD96706 shows delivered but I never received the package. thanks so much.,Shipping,positive,ORD96706,True
+T00440,What is the return window for order ORD97900?,Returns,neutral,ORD97900,True
+T00441,Is the USB-C Charger compatible with my old charger? great support so far.,Product,positive,,
+T00442,My account was locked after too many login attempts. great support so far.,Account,positive,,
+T00443,Return pickup for order ORD86503 was missed twice.,Returns,neutral,ORD86503,True
+T00444,The Power Bank I received in order ORD28301 is damaged.,Product,neutral,ORD28301,True
+T00445,What happened to order ORD23173? worst experience.,Shipping,negative,ORD23173,True
+T00446,Please update my email address on file. great support so far.,Account,positive,,
+T00447,"My order ORD46585 has not been delivered yet, it was expected on 11/1/2026.",Shipping,neutral,ORD46585,True
+T00448,"I can't log into my account, it says password incorrect. worst experience.",Account,negative,,
+T00449,"Can I get a refund of $204.49 for order ORD52247, the item never arrived?",Billing,neutral,ORD52247,True
+T00450,"The Power Bank stopped working after 2 days, order ORD23473.",Product,neutral,ORD23473,True
+T00451,What is the return window for order ORD96951?,Returns,neutral,ORD96951,True
+T00452,"I want to return the Wireless Mouse from order ORD69429, it doesn't fit. worst experience.",Returns,negative,ORD69429,True
+T00453,The tracking for order ORD41890 hasn't updated in 5 days. worst experience.,Shipping,negative,ORD41890,True
+T00454,I want to delete my account and all associated data. frustrated.,Account,negative,,
+T00455,The tracking for order ORD97670 hasn't updated in 5 days.,Shipping,neutral,ORD97670,True
+T00456,Where is my order ORD91351?,Shipping,neutral,ORD91351,True
+T00457,Why was my card charged $13.10 when the listed price was different?,Billing,neutral,,
+T00458,What is the return window for order ORD16175? great support so far.,Returns,positive,ORD16175,True
+T00459,"The Power Bank I ordered (ORD41963) is not what I expected, how do I exchange it?",Returns,neutral,ORD41963,True
+T00460,"The Coffee Maker stopped working after 2 days, order ORD39045.",Product,neutral,ORD39045,True
+T00461,Why was my card charged $55.40 when the listed price was different?,Billing,neutral,,
+T00462,I need a GST invoice for order ORD43082 placed on 24/8/2026. great support so far.,Billing,positive,ORD43082,True
+T00463,I want to know the battery life of the Yoga Mat.,Product,neutral,,
+T00464,I want to delete my account and all associated data. angry.,Account,negative,,
+T00465,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00466,Can you expedite shipping for order ORD37802? I need it before 5/5/2026. great support so far.,Shipping,positive,ORD37802,True
+T00467,Order ORD73653 shows delivered but I never received the package.,Shipping,neutral,ORD73653,True
+T00468,Where is my order ORD97410? really appreciate it.,Shipping,positive,ORD97410,True
+T00469,Please update my email address on file. really appreciate it.,Account,positive,,
+T00470,How do I change my registered phone number?,Account,neutral,,
+T00471,What happened to order ORD38010?,Shipping,neutral,ORD38010,True
+T00472,Does the Coffee Maker come with a warranty card?,Product,neutral,,
+T00473,I want to know the battery life of the Running Shoes.,Product,neutral,,
+T00474,"Can I get a refund of $394.18 for order ORD60350, the item never arrived? angry.",Billing,negative,ORD60350,False
+T00475,How do I change my registered phone number? thanks so much.,Account,positive,,
+T00476,The Bluetooth Headphones I received in order ORD69614 is damaged. great support so far.,Product,positive,ORD69614,True
+T00477,Does the Desk Lamp come with a warranty card? worst experience.,Product,negative,,
+T00478,"I want to return the Running Shoes from order ORD67424, it doesn't fit.",Returns,neutral,ORD67424,True
+T00479,"I can't log into my account, it says password incorrect. angry.",Account,negative,,
+T00480,"Can I get a refund of $238.80 for order ORD58368, the item never arrived? angry.",Billing,negative,ORD58368,True
+T00481,The Webcam I received in order ORD30052 is damaged. very disappointed.,Product,negative,ORD30052,True
+T00482,The Phone Case I received in order ORD23069 is damaged.,Product,neutral,ORD23069,True
+T00483,"I want to return the Water Bottle from order ORD83259, it doesn't fit. really appreciate it.",Returns,positive,ORD83259,True
+T00484,I need a GST invoice for order ORD10336 placed on 3/3/2026. worst experience.,Billing,negative,ORD10336,True
+T00485,I received the wrong address confirmation for order ORD96846.,Shipping,neutral,ORD96846,True
+T00486,"I want to return the Water Bottle from order ORD23577, it doesn't fit.",Returns,neutral,ORD23577,True
+T00487,"Can I get a refund of $36.82 for order ORD60968, the item never arrived? frustrated.",Billing,negative,ORD60968,True
+T00488,My invoice for order ORD28045 shows the wrong tax amount.,Billing,neutral,ORD28045,False
+T00489,I need a GST invoice for order ORD99974 placed on 14/9/2026. very disappointed.,Billing,negative,ORD99974,True
+T00490,"I want to return the Blender from order ORD58434, it doesn't fit. thanks so much.",Returns,positive,ORD58434,True
+T00491,Please update my email address on file.,Account,neutral,,
+T00492,Can I cancel order ORD29536? It hasn't shipped yet.,Returns,neutral,ORD29536,True
+T00493,"I can't log into my account, it says password incorrect. frustrated.",Account,negative,,
+T00494,Why was my card charged $112.97 when the listed price was different?,Billing,neutral,,
+T00495,Order ORD98184 shows delivered but I never received the package. frustrated.,Shipping,negative,ORD98184,True
+T00496,The Blender I received in order ORD30032 is damaged.,Product,neutral,ORD30032,True
+T00497,How do I change my registered phone number?,Account,neutral,,
+T00498,The tracking for order ORD14089 hasn't updated in 5 days.,Shipping,neutral,ORD14089,False
+T00499,Does the Water Bottle come with a warranty card? very disappointed.,Product,negative,,
+T00500,I want to delete my account and all associated data.,Account,neutral,,
+T00501,Is the Coffee Maker compatible with my old charger?,Product,neutral,,
+T00502,Please update my email address on file.,Account,neutral,,
+T00503,"The Laptop Stand I ordered (ORD71537) is not what I expected, how do I exchange it? frustrated.",Returns,negative,ORD71537,True
+T00504,My account was locked after too many login attempts.,Account,neutral,,
+T00505,"I want to return the Laptop Stand from order ORD46808, it doesn't fit. unacceptable.",Returns,negative,ORD46808,False
+T00506,"Can I get a refund of $424.00 for order ORD65069, the item never arrived?",Billing,neutral,ORD65069,True
+T00507,How do I change my registered phone number?,Account,neutral,,
+T00508,My account was locked after too many login attempts. really appreciate it.,Account,positive,,
+T00509,Does the Smart Watch come with a warranty card? really appreciate it.,Product,positive,,
+T00510,How do I change my registered phone number? great support so far.,Account,positive,,
+T00511,My account was locked after too many login attempts.,Account,neutral,,
+T00512,What happened to order ORD33834? great support so far.,Shipping,positive,ORD33834,True
+T00513,I need a GST invoice for order ORD46930 placed on 9/9/2026. thanks so much.,Billing,positive,ORD46930,True
+T00514,Does the USB-C Charger come with a warranty card?,Product,neutral,,
+T00515,What happened to order ORD66959? very disappointed.,Shipping,negative,ORD66959,True
+T00516,I need a GST invoice for order ORD25118 placed on 8/7/2026. really appreciate it.,Billing,positive,ORD25118,True
+T00517,My invoice for order ORD48829 shows the wrong tax amount. unacceptable.,Billing,negative,ORD48829,True
+T00518,"I can't log into my account, it says password incorrect. great support so far.",Account,positive,,
+T00519,Order ORD87110 shows delivered but I never received the package.,Shipping,neutral,ORD87110,True
+T00520,I want to delete my account and all associated data.,Account,neutral,,
+T00521,How do I change my registered phone number?,Account,neutral,,
+T00522,Why was my card charged $57.10 when the listed price was different?,Billing,neutral,,
+T00523,Why was my card charged $133.77 when the listed price was different?,Billing,neutral,,
+T00524,Please update my email address on file.,Account,neutral,,
+T00525,Can I cancel order ORD29080? It hasn't shipped yet.,Returns,neutral,ORD29080,True
+T00526,"Can I get a refund of $99.57 for order ORD31632, the item never arrived? worst experience.",Billing,negative,ORD31632,True
+T00527,Does the USB-C Charger come with a warranty card? very disappointed.,Product,negative,,
+T00528,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00529,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00530,Does the Wireless Mouse come with a warranty card?,Product,neutral,,
+T00531,"Can I get a refund of $44.08 for order ORD71605, the item never arrived?",Billing,neutral,ORD71605,True
+T00532,My account was locked after too many login attempts. worst experience.,Account,negative,,
+T00533,I received the wrong address confirmation for order ORD88222. very disappointed.,Shipping,negative,ORD88222,True
+T00534,Can I cancel order ORD39871? It hasn't shipped yet. great support so far.,Returns,positive,ORD39871,True
+T00535,I need a GST invoice for order ORD19329 placed on 1/5/2026. thanks so much.,Billing,positive,ORD19329,True
+T00536,Please update my email address on file. angry.,Account,negative,,
+T00537,Return pickup for order ORD46208 was missed twice.,Returns,neutral,ORD46208,True
+T00538,I need a GST invoice for order ORD39466 placed on 12/4/2026.,Billing,neutral,ORD39466,True
+T00539,"I can't log into my account, it says password incorrect. really appreciate it.",Account,positive,,
+T00540,Can you expedite shipping for order ORD77033? I need it before 21/11/2026. worst experience.,Shipping,negative,ORD77033,True
+T00541,"The Desk Lamp I ordered (ORD53540) is not what I expected, how do I exchange it?",Returns,neutral,ORD53540,True
+T00542,"My order ORD59968 has not been delivered yet, it was expected on 26/6/2026.",Shipping,neutral,ORD59968,True
+T00543,"The Desk Lamp stopped working after 2 days, order ORD57472.",Product,neutral,ORD57472,True
+T00544,Return pickup for order ORD23446 was missed twice.,Returns,neutral,ORD23446,True
+T00545,"The Running Shoes stopped working after 2 days, order ORD66626.",Product,neutral,ORD66626,True
+T00546,"The Phone Case stopped working after 2 days, order ORD24371. really appreciate it.",Product,positive,ORD24371,True
+T00547,Order ORD40495 shows delivered but I never received the package. angry.,Shipping,negative,ORD40495,True
+T00548,Return pickup for order ORD11504 was missed twice.,Returns,neutral,ORD11504,True
+T00549,Where is my order ORD80292? really appreciate it.,Shipping,positive,ORD80292,True
+T00550,"Can I get a refund of $211.00 for order ORD82179, the item never arrived? great support so far.",Billing,positive,ORD82179,False
+T00551,How do I change my registered phone number? angry.,Account,negative,,
+T00552,How do I change my registered phone number? frustrated.,Account,negative,,
+T00553,The Webcam I received in order ORD44438 is damaged. frustrated.,Product,negative,ORD44438,True
+T00554,Please update my email address on file.,Account,neutral,,
+T00555,"The Laptop Stand stopped working after 2 days, order ORD25014. thanks so much.",Product,positive,ORD25014,True
+T00556,"My order ORD91691 has not been delivered yet, it was expected on 7/9/2026.",Shipping,neutral,ORD91691,True
+T00557,I need a GST invoice for order ORD95649 placed on 28/7/2026. angry.,Billing,negative,ORD95649,True
+T00558,What is the return window for order ORD46630?,Returns,neutral,ORD46630,False
+T00559,Can I cancel order ORD38906? It hasn't shipped yet. great support so far.,Returns,positive,ORD38906,True
+T00560,Can I cancel order ORD74251? It hasn't shipped yet.,Returns,neutral,ORD74251,True
+T00561,The Power Bank I received in order ORD95477 is damaged.,Product,neutral,ORD95477,True
+T00562,Can I cancel order ORD23710? It hasn't shipped yet.,Returns,neutral,ORD23710,True
+T00563,What's going on with order ORD99979?,Shipping,neutral,ORD99979,False
+T00564,Why was my card charged $205.02 when the listed price was different?,Billing,neutral,,
+T00565,Why was my card charged $127.34 when the listed price was different? really appreciate it.,Billing,positive,,
+T00566,Return pickup for order ORD37802 was missed twice. very disappointed.,Returns,negative,ORD37802,True
+T00567,I need a GST invoice for order ORD30926 placed on 15/3/2026.,Billing,neutral,ORD30926,True
+T00568,Is the Running Shoes compatible with my old charger? frustrated.,Product,negative,,
+T00569,"I want to return the Power Bank from order ORD23446, it doesn't fit. very disappointed.",Returns,negative,ORD23446,True
+T00570,"I want to return the Power Bank from order ORD53719, it doesn't fit.",Returns,neutral,ORD53719,True
+T00571,Is the Mechanical Keyboard compatible with my old charger? great support so far.,Product,positive,,
+T00572,"I want to return the Coffee Maker from order ORD78765, it doesn't fit.",Returns,neutral,ORD78765,True
+T00573,What happened to order ORD13201? worst experience.,Shipping,negative,ORD13201,True
+T00574,"I was charged twice for order ORD94659, please refund the extra amount. really appreciate it.",Billing,positive,ORD94659,True
+T00575,How do I change my registered phone number?,Account,neutral,,
+T00576,I want to delete my account and all associated data. frustrated.,Account,negative,,
+T00577,The tracking for order ORD41890 hasn't updated in 5 days. great support so far.,Shipping,positive,ORD41890,True
+T00578,"My order ORD88135 has not been delivered yet, it was expected on 26/12/2026. unacceptable.",Shipping,negative,ORD88135,True
+T00579,Please update my email address on file.,Account,neutral,,
+T00580,I want to delete my account and all associated data.,Account,neutral,,
+T00581,"Can I get a refund of $475.49 for order ORD42527, the item never arrived? unacceptable.",Billing,negative,ORD42527,True
+T00582,I want to know the battery life of the Notebook Set. really appreciate it.,Product,positive,,
+T00583,"My order ORD37760 has not been delivered yet, it was expected on 2/1/2026.",Shipping,neutral,ORD37760,True
+T00584,The Running Shoes I received in order ORD10726 is damaged. really appreciate it.,Product,positive,ORD10726,True
+T00585,"I want to return the Water Bottle from order ORD72493, it doesn't fit.",Returns,neutral,ORD72493,True
+T00586,Return pickup for order ORD30097 was missed twice.,Returns,neutral,ORD30097,False
+T00587,Is the Mechanical Keyboard compatible with my old charger? great support so far.,Product,positive,,
+T00588,My invoice for order ORD10425 shows the wrong tax amount.,Billing,neutral,ORD10425,True
+T00589,"My order ORD21226 has not been delivered yet, it was expected on 16/2/2026. very disappointed.",Shipping,negative,ORD21226,True
+T00590,"I can't log into my account, it says password incorrect.",Account,neutral,,
+T00591,I want to know the battery life of the Notebook Set.,Product,neutral,,
+T00592,Return pickup for order ORD47828 was missed twice.,Returns,neutral,ORD47828,True
+T00593,Does the Water Bottle come with a warranty card? very disappointed.,Product,negative,,
+T00594,What is the return window for order ORD42602? really appreciate it.,Returns,positive,ORD42602,False
+T00595,My account was locked after too many login attempts.,Account,neutral,,
+T00596,"Can I get a refund of $88.53 for order ORD35825, the item never arrived? great support so far.",Billing,positive,ORD35825,True
+T00597,Where is my order ORD61949? really appreciate it.,Shipping,positive,ORD61949,False
+T00598,What happened to order ORD57576? frustrated.,Shipping,negative,ORD57576,True
+T00599,Any update on order ORD87128? thanks so much.,Shipping,positive,ORD87128,True
+T00600,My invoice for order ORD58072 shows the wrong tax amount.,Billing,neutral,ORD58072,False

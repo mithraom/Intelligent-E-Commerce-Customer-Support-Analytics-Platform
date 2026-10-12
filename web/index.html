@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IECSAP · Support Intelligence</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='6' fill='%232A4BA0'/%3E%3Cpath d='M7 14v-4M10.5 17V7M14 15V9M17.5 13v-2' stroke='white' stroke-width='1.8' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+<script>
+  // apply the saved theme before first paint to avoid a flash
+  try { const t = localStorage.getItem("iecsap-theme"); if (t) document.documentElement.dataset.theme = t;
+        else if (matchMedia("(prefers-color-scheme: dark)").matches) document.documentElement.dataset.theme = "dark"; } catch (e) {}
+</script>
+</head>
+<body>
+
+<!-- ============ ICON SPRITE ============ -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-chat" viewBox="0 0 24 24"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4h13A1.5 1.5 0 0 1 20 5.5v9a1.5 1.5 0 0 1-1.5 1.5H10l-4.2 3.4a.5.5 0 0 1-.8-.4V16h-.5A1.5 1.5 0 0 1 3 14.5z" transform="translate(.5 0)"/></symbol>
+    <symbol id="i-lang" viewBox="0 0 24 24"><path d="M4 6h9M8.5 4v2M6 6c.5 3 2.5 5.5 5.5 7M12 6c-.5 3-3 6-7 7.5M13 20l4-9 4 9M14.4 17h5.2"/></symbol>
+    <symbol id="i-chart" viewBox="0 0 24 24"><path d="M4 20V4M4 20h16M8 16v-4M12 16V8M16 16v-6"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8L12 16.8l-5.2 2.8 1-5.8L3.5 9.7l5.9-.9z"/></symbol>
+    <symbol id="i-cpu" viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12" rx="2"/><path d="M9.5 9.5h5v5h-5zM9 3v3M15 3v3M9 18v3M15 18v3M3 9h3M3 15h3M18 9h3M18 15h3"/></symbol>
+    <symbol id="i-mic" viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5.5 11.5a6.5 6.5 0 0 0 13 0M12 18v3"/></symbol>
+    <symbol id="i-stop" viewBox="0 0 24 24"><rect x="7" y="7" width="10" height="10" rx="2"/></symbol>
+    <symbol id="i-send" viewBox="0 0 24 24"><path d="M5 12h13M13 6l6 6-6 6"/></symbol>
+    <symbol id="i-speaker" viewBox="0 0 24 24"><path d="M4 9.5h3l4.5-3.5v12L7 14.5H4zM15 9a4 4 0 0 1 0 6M17.5 6.5a7.5 7.5 0 0 1 0 11"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="11" height="11" rx="2"/><path d="M5 15V6a2 2 0 0 1 2-2h9"/></symbol>
+    <symbol id="i-swap" viewBox="0 0 24 24"><path d="M7 4L3.5 7.5 7 11M3.5 7.5h14M17 13l3.5 3.5L17 20M20.5 16.5h-14"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6L7 7M17 17l1.4 1.4M5.6 18.4L7 17M17 7l1.4-1.4"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5z"/></symbol>
+    <symbol id="i-sparkle" viewBox="0 0 24 24"><path d="M12 4l1.6 4.4L18 10l-4.4 1.6L12 16l-1.6-4.4L6 10l4.4-1.6zM18.5 16l.7 1.8 1.8.7-1.8.7-.7 1.8-.7-1.8-1.8-.7 1.8-.7z"/></symbol>
+    <symbol id="i-file" viewBox="0 0 24 24"><path d="M7 3.5h7l4 4V20a.5.5 0 0 1-.5.5h-10A.5.5 0 0 1 7 20zM14 3.5V8h4M9.5 12.5h5M9.5 16h5"/></symbol>
+    <symbol id="i-trash" viewBox="0 0 24 24"><path d="M5 7h14M10 7V4.5h4V7M7 7l.8 12.5h8.4L17 7M10 11v5M14 11v5"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 4v11M7.5 11l4.5 4.5 4.5-4.5M5 19.5h14"/></symbol>
+    <symbol id="i-panel" viewBox="0 0 24 24"><rect x="3.5" y="4.5" width="17" height="15" rx="2"/><path d="M14.5 4.5v15"/></symbol>
+  </defs>
+</svg>
+
+<div class="app">
+
+  <!-- ============ SIDEBAR ============ -->
+  <aside class="sidebar">
+    <div class="brand">
+      <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="6"/><path d="M7 14v-4M10.5 17V7M14 15V9M17.5 13v-2"/></svg>
+      <div class="brand-text"><span class="brand-name">IECSAP</span><span class="brand-sub">Support Intelligence</span></div>
+    </div>
+
+    <nav class="nav" aria-label="Main">
+      <div class="nav-label">Workspace</div>
+      <button class="nav-item active" data-view="console"><svg class="ico"><use href="#i-chat"/></svg><span>Support console</span></button>
+      <button class="nav-item" data-view="translate"><svg class="ico"><use href="#i-lang"/></svg><span>Voice &amp; translate</span></button>
+      <div class="nav-label">Insights</div>
+      <button class="nav-item" data-view="analytics"><svg class="ico"><use href="#i-chart"/></svg><span>Analytics</span></button>
+      <button class="nav-item" data-view="feedback"><svg class="ico"><use href="#i-star"/></svg><span>Feedback</span><span class="nav-badge" id="fbBadge" hidden></span></button>
+      <div class="nav-label">Platform</div>
+      <button class="nav-item" data-view="system"><svg class="ico"><use href="#i-cpu"/></svg><span>System</span></button>
+    </nav>
+
+    <div class="sidebar-foot">
+      <div class="health" id="health">
+        <div class="health-row"><span class="dot" id="dotApi"></span><span>API</span><span class="health-val" id="valApi">…</span></div>
+        <div class="health-row"><span class="dot" id="dotLlm"></span><span>LLM</span><span class="health-val" id="valLlm">…</span></div>
+        <div class="health-row"><span class="dot" id="dotStt"></span><span>Speech</span><span class="health-val" id="valStt">…</span></div>
+      </div>
+      <button class="theme-toggle" id="themeToggle" aria-label="Toggle colour theme">
+        <svg class="ico ico-sun"><use href="#i-sun"/></svg><svg class="ico ico-moon"><use href="#i-moon"/></svg>
+        <span class="theme-label">Theme</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="main">
+
+    <!-- ============ CONSOLE ============ -->
+    <section class="view active" id="view-console">
+      <header class="page-head">
+        <div>
+          <h1>Support <em>console</em></h1>
+          <p class="page-sub">Type or speak as a customer. Every reply shows the pipeline that produced it.</p>
+        </div>
+        <div class="head-actions">
+          <label class="switch" id="llmSwitchWrap" title="Let the language model phrase replies from verified facts">
+            <input type="checkbox" id="llmSwitch" checked>
+            <span class="switch-track"><span class="switch-thumb"></span></span>
+            <span class="switch-text">AI phrasing</span>
+          </label>
+          <button class="btn btn-ghost" id="summarizeBtn"><svg class="ico"><use href="#i-file"/></svg>Hand-off summary</button>
+          <button class="btn btn-ghost" id="clearBtn"><svg class="ico"><use href="#i-trash"/></svg>Clear</button>
+          <button class="btn btn-ghost inspector-toggle" id="inspectorToggle" aria-label="Toggle inspector"><svg class="ico"><use href="#i-panel"/></svg></button>
+        </div>
+      </header>
+
+      <div class="console">
+        <section class="chat">
+          <div class="chat-scroll" id="chatScroll">
+            <div class="chat-empty" id="chatEmpty">
+              <h2>How can we help today?</h2>
+              <p>Try one of these, or use the microphone and speak in your own language.</p>
+              <div class="suggestions" id="suggestions"></div>
+            </div>
+          </div>
+
+          <div class="composer-wrap">
+            <div class="voice-bar" id="voiceBar" hidden>
+              <span class="rec-dot"></span>
+              <span class="bars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span>
+              <span class="voice-text" id="voiceText">Listening…</span>
+              <button class="link-btn" id="voiceCancel" type="button">Cancel</button>
+            </div>
+            <form class="composer" id="chatForm" autocomplete="off">
+              <select id="voiceLang" class="lang-select" aria-label="Spoken language" title="Language you will speak"></select>
+              <button type="button" class="icon-btn mic" id="micBtn" aria-label="Speak a message" title="Speak a message"><svg class="ico"><use href="#i-mic"/></svg></button>
+              <textarea id="chatInput" rows="1" placeholder="Describe the issue, ask a question, or press the microphone…" maxlength="2000"></textarea>
+              <button type="submit" class="btn btn-primary send" id="sendBtn"><span>Send</span><svg class="ico"><use href="#i-send"/></svg></button>
+            </form>
+            <div class="composer-foot">
+              <label class="check"><input type="checkbox" id="autoSend" checked><span>Send automatically when I stop speaking</span></label>
+              <span id="engineNote" class="muted-xs"></span>
+            </div>
+          </div>
+        </section>
+
+        <aside class="inspector" id="inspector">
+          <div class="inspector-head">
+            <h3>Pipeline inspector</h3>
+            <span class="muted-xs" id="inspectorMeta">Waiting for a message</span>
+          </div>
+          <div class="inspector-body" id="inspectorBody">
+            <div class="empty-note">
+              <svg class="ico ico-lg"><use href="#i-cpu"/></svg>
+              <p>Send a message to see language detection, translation, classification, entities, order lookup and the final reply composition.</p>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ VOICE & TRANSLATE ============ -->
+    <section class="view" id="view-translate">
+      <header class="page-head">
+        <div>
+          <h1>Voice &amp; <em>translate</em></h1>
+          <p class="page-sub">Speak or type in one language, read and hear it in another.</p>
+        </div>
+        <div class="head-actions"><span class="chip" id="trEngineChip">Engine: —</span></div>
+      </header>
+
+      <div class="studio">
+        <div class="steps-strip" aria-hidden="true">
+          <span class="step-pill">1 · Speech</span><i></i><span class="step-pill">2 · Transcript</span><i></i><span class="step-pill">3 · Translation</span><i></i><span class="step-pill">4 · Spoken output</span>
+        </div>
+
+        <div class="studio-grid">
+          <div class="card studio-card">
+            <div class="studio-head">
+              <label class="field-label" for="trSource">From</label>
+              <select id="trSource" class="select"></select>
+            </div>
+            <textarea id="trInput" class="studio-text" placeholder="Press the microphone and speak, or type here…" rows="7"></textarea>
+            <div class="studio-foot">
+              <button class="btn btn-mic" id="trMic" type="button"><svg class="ico"><use href="#i-mic"/></svg><span>Start speaking</span></button>
+              <span class="bars bars-inline" id="trBars" hidden aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span>
+              <span class="muted-xs" id="trCount">0 / 4000</span>
+            </div>
+          </div>
+
+          <button class="swap-btn" id="trSwap" aria-label="Swap languages" title="Swap languages"><svg class="ico"><use href="#i-swap"/></svg></button>
+
+          <div class="card studio-card studio-out">
+            <div class="studio-head">
+              <label class="field-label" for="trTarget">To</label>
+              <select id="trTarget" class="select"></select>
+            </div>
+            <div class="studio-text out" id="trOutput" aria-live="polite"><span class="placeholder">The translation appears here.</span></div>
+            <div class="studio-foot">
+              <button class="btn btn-primary" id="trGo" type="button"><svg class="ico"><use href="#i-lang"/></svg>Translate</button>
+              <button class="btn btn-ghost" id="trSpeak" type="button" disabled><svg class="ico"><use href="#i-speaker"/></svg>Listen</button>
+              <button class="btn btn-ghost" id="trCopy" type="button" disabled><svg class="ico"><use href="#i-copy"/></svg>Copy</button>
+              <button class="btn btn-ghost" id="trToChat" type="button" disabled>Send to console</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-head"><h3>Recent translations</h3><span class="muted-xs">This session</span></div>
+          <div id="trHistory" class="history"><p class="muted">Nothing yet.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ ANALYTICS ============ -->
+    <section class="view" id="view-analytics">
+      <header class="page-head">
+        <div><h1>Ticket <em>analytics</em></h1><p class="page-sub">Historical support volume and the cross-sell patterns mined from order baskets.</p></div>
+      </header>
+      <div class="kpi-row" id="kpiRow"></div>
+      <div class="grid-2">
+        <div class="card"><div class="card-head"><h3>Tickets by category</h3></div><div class="chart-box"><canvas id="categoryChart"></canvas></div></div>
+        <div class="card"><div class="card-head"><h3>Customer sentiment</h3></div><div class="chart-box"><canvas id="sentimentChart"></canvas></div></div>
+      </div>
+      <div class="card">
+        <div class="card-head"><h3>Cross-sell rules</h3><span class="muted-xs">Apriori · ranked by lift</span></div>
+        <div class="table-wrap"><table class="table" id="rulesTable"><thead><tr><th>Customer bought</th><th>Recommend</th><th class="num">Support</th><th class="num">Confidence</th><th class="num">Lift</th></tr></thead><tbody></tbody></table></div>
+      </div>
+      <div class="card">
+        <div class="card-head"><h3>Knowledge base</h3><span class="muted-xs">Indexed by the QA system</span></div>
+        <div class="faq-list" id="faqList"></div>
+      </div>
+    </section>
+
+    <!-- ============ FEEDBACK ============ -->
+    <section class="view" id="view-feedback">
+      <header class="page-head">
+        <div><h1>Customer <em>feedback</em></h1><p class="page-sub">Ratings and comments collected from the console, with context for every reply.</p></div>
+        <div class="head-actions"><button class="btn btn-ghost" id="fbRefresh">Refresh</button><a class="btn btn-ghost" href="/api/feedback/export"><svg class="ico"><use href="#i-download"/></svg>Export CSV</a></div>
+      </header>
+      <div id="fbRoot"></div>
+    </section>
+
+    <!-- ============ SYSTEM ============ -->
+    <section class="view" id="view-system">
+      <header class="page-head">
+        <div><h1>System <em>status</em></h1><p class="page-sub">What is running, what is configured, and how to turn on the optional parts.</p></div>
+        <div class="head-actions"><button class="btn btn-ghost" id="sysRefresh">Refresh</button></div>
+      </header>
+      <div id="sysRoot"></div>
+    </section>
+
+  </main>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="vendor/chart.umd.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

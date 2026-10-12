@@ -1,0 +1,1201 @@
+order_id,customer_id,items,status,order_date,total_amount
+ORD10053,CUST8529,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,13/09/2026,99.74
+ORD10074,CUST3588,Yoga Mat|Water Bottle|Running Shoes,Shipped,04/09/2026,98.85
+ORD10150,CUST8484,Water Bottle,Cancelled,25/09/2026,11.68
+ORD10221,CUST6881,Screen Protector|Phone Case|Water Bottle,Shipped,26/08/2026,31.1
+ORD10282,CUST1803,Power Bank|Blender|Running Shoes,Delivered,09/09/2026,124.4
+ORD10336,CUST4115,Screen Protector|Phone Case,Delivered,19/08/2026,18.61
+ORD10350,CUST2591,Bluetooth Headphones|Blender|Screen Protector,Processing,08/09/2026,90.04
+ORD10425,CUST2476,Phone Case|Smart Watch,Shipped,28/08/2026,103.76
+ORD10464,CUST6994,Yoga Mat|Water Bottle|Running Shoes,Shipped,01/09/2026,101.53
+ORD10726,CUST5835,Yoga Mat|Water Bottle|Running Shoes,Delivered,27/09/2026,93.52
+ORD10772,CUST4696,Water Bottle|Backpack|Laptop Stand,Delivered,01/10/2026,73.23
+ORD10851,CUST3024,Screen Protector|Phone Case,Shipped,07/09/2026,18.58
+ORD10942,CUST7086,Bluetooth Headphones|Power Bank|Phone Case,Delivered,27/08/2026,81.57
+ORD11025,CUST4626,Screen Protector|Phone Case,Delayed,12/09/2026,18.27
+ORD11220,CUST2911,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Power Bank,Processing,16/09/2026,130.88
+ORD11267,CUST3222,Yoga Mat|Water Bottle|Running Shoes,Delivered,28/08/2026,96.22
+ORD11330,CUST3531,USB-C Charger|Power Bank|Phone Case,Delayed,14/09/2026,50.52
+ORD11504,CUST7070,Coffee Maker|Blender,Cancelled,25/09/2026,78.61
+ORD11607,CUST7018,Screen Protector|Phone Case|Water Bottle,Shipped,24/09/2026,31.35
+ORD11658,CUST8450,Bluetooth Headphones|Power Bank|Phone Case,Delivered,30/09/2026,79.27
+ORD11792,CUST6464,Bluetooth Headphones|Power Bank|Phone Case,Shipped,27/08/2026,80.57
+ORD11854,CUST4538,Desk Lamp,Delivered,24/08/2026,20.91
+ORD11934,CUST3370,Coffee Maker|Smart Watch|USB-C Charger,Delivered,30/09/2026,139.66
+ORD12011,CUST6869,Desk Lamp,Processing,15/09/2026,21.02
+ORD12260,CUST7897,Screen Protector|Phone Case,Delivered,30/08/2026,18.17
+ORD12540,CUST8405,Webcam|Desk Lamp|Notebook Set,Out for Delivery,21/08/2026,65.92
+ORD12552,CUST1996,Phone Case|USB-C Charger,Delivered,03/09/2026,23.93
+ORD12560,CUST2323,Bluetooth Headphones|Power Bank|Phone Case|Coffee Maker,Delivered,25/08/2026,123.59
+ORD12671,CUST6327,Webcam|Desk Lamp|Notebook Set,Delivered,24/08/2026,62.56
+ORD12719,CUST2874,Notebook Set|Yoga Mat|Phone Case,Delivered,17/09/2026,38.66
+ORD12757,CUST8430,Screen Protector|Phone Case,Out for Delivery,15/09/2026,17.77
+ORD13101,CUST3500,Coffee Maker|Blender|Laptop Stand,Processing,25/09/2026,102.45
+ORD13201,CUST7105,Bluetooth Headphones|Desk Lamp|USB-C Charger,Delivered,20/08/2026,85.62
+ORD13248,CUST7929,Bluetooth Headphones|Blender|Webcam,Out for Delivery,26/08/2026,112.08
+ORD13278,CUST3535,Bluetooth Headphones|Power Bank|Phone Case,Out for Delivery,27/08/2026,81.9
+ORD13365,CUST5564,Smart Watch|Power Bank,Delivered,23/08/2026,119.34
+ORD13390,CUST1430,Screen Protector|Phone Case,Shipped,20/09/2026,17.59
+ORD13478,CUST6062,Wireless Mouse|Smart Watch,Cancelled,26/08/2026,109.7
+ORD13534,CUST2140,Screen Protector|Phone Case,Processing,29/08/2026,17.49
+ORD13552,CUST7878,Bluetooth Headphones|Power Bank|Phone Case|Desk Lamp,Delivered,26/08/2026,106.01
+ORD13617,CUST1861,Smart Watch|Power Bank,Delivered,14/09/2026,117.33
+ORD13761,CUST7947,Coffee Maker|Blender,Shipped,30/08/2026,72.1
+ORD13783,CUST8043,Screen Protector|Phone Case,Delivered,20/08/2026,17.66
+ORD13794,CUST4612,Webcam|Desk Lamp|Notebook Set|Yoga Mat,Out for Delivery,18/09/2026,85.22
+ORD13804,CUST5186,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Phone Case,Shipped,07/09/2026,108.35
+ORD13905,CUST4770,Smart Watch|Power Bank,Out for Delivery,06/09/2026,122.27
+ORD14067,CUST1693,Coffee Maker|Blender,Cancelled,26/08/2026,74.47
+ORD14117,CUST7626,Coffee Maker|Blender|Water Bottle,Processing,11/09/2026,84.15
+ORD14165,CUST8538,Laptop Stand|Phone Case,Delivered,16/09/2026,34.77
+ORD14207,CUST7560,Coffee Maker|Blender,Delivered,17/09/2026,73.75
+ORD14278,CUST3754,Screen Protector|Phone Case|Webcam,Shipped,09/09/2026,49.26
+ORD14705,CUST3419,Bluetooth Headphones|Power Bank|Phone Case|Smart Watch,Delivered,21/08/2026,165.65
+ORD14722,CUST9095,Webcam|Desk Lamp|Notebook Set,Delivered,26/08/2026,63.9
+ORD14809,CUST6295,Desk Lamp|Mechanical Keyboard|Screen Protector,Processing,03/09/2026,86.12
+ORD14852,CUST5500,Yoga Mat|Water Bottle|Running Shoes,Out for Delivery,03/09/2026,92.51
+ORD15014,CUST7041,Laptop Stand,Delivered,30/08/2026,24.71
+ORD15075,CUST1672,Smart Watch|Power Bank,Shipped,24/08/2026,117.71
+ORD15209,CUST3471,USB-C Charger|Desk Lamp,Delayed,26/09/2026,37.02
+ORD15224,CUST3827,Screen Protector|Phone Case,Delivered,29/08/2026,18.2
+ORD15229,CUST6962,Yoga Mat|Water Bottle|Running Shoes|Desk Lamp,Delivered,28/09/2026,122.44
+ORD15273,CUST6482,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Out for Delivery,15/09/2026,100.19
+ORD15276,CUST3463,Webcam|Desk Lamp|Notebook Set,Delayed,12/09/2026,65.95
+ORD15383,CUST7421,Screen Protector|Phone Case,Out for Delivery,07/09/2026,18.26
+ORD15482,CUST6381,Webcam|Laptop Stand|Phone Case,Delivered,30/09/2026,66.08
+ORD15695,CUST3953,Power Bank|Yoga Mat,Shipped,23/09/2026,46.34
+ORD15720,CUST5846,Webcam,Delivered,29/08/2026,30.52
+ORD15778,CUST6517,Mechanical Keyboard|Water Bottle|Notebook Set,Shipped,18/08/2026,78.06
+ORD15817,CUST3712,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,16/09/2026,102.6
+ORD15965,CUST5668,Running Shoes|Notebook Set,Out for Delivery,01/09/2026,76.99
+ORD16006,CUST4178,Webcam|Desk Lamp|Notebook Set,Delivered,13/09/2026,64.75
+ORD16028,CUST9239,Bluetooth Headphones|Power Bank|Phone Case,Delivered,23/09/2026,86.1
+ORD16057,CUST1854,Smart Watch|Power Bank|USB-C Charger,Delivered,29/08/2026,137.67
+ORD16175,CUST5670,Bluetooth Headphones|Power Bank|Phone Case|Webcam,Shipped,04/09/2026,110.3
+ORD16572,CUST4637,Wireless Mouse|Phone Case,Processing,30/08/2026,27.65
+ORD16582,CUST7326,Running Shoes|Wireless Mouse,Out for Delivery,25/09/2026,85.82
+ORD16590,CUST6493,Bluetooth Headphones,Shipped,01/09/2026,45.88
+ORD16630,CUST3273,Screen Protector|Wireless Mouse,Delayed,30/09/2026,25.37
+ORD16658,CUST3449,Screen Protector|Phone Case,Delivered,13/09/2026,17.53
+ORD16734,CUST2996,Coffee Maker|Blender,Delivered,27/09/2026,72.08
+ORD16764,CUST9189,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,17/08/2026,94.51
+ORD16826,CUST8032,Yoga Mat|Water Bottle|Running Shoes|Phone Case,Shipped,20/08/2026,102.57
+ORD17026,CUST6908,Webcam|Desk Lamp|Notebook Set,Delivered,30/08/2026,63.34
+ORD17100,CUST7397,Water Bottle,Delayed,15/09/2026,12.3
+ORD17104,CUST6850,Running Shoes|USB-C Charger,Delivered,10/09/2026,77.07
+ORD17146,CUST6772,Smart Watch|Power Bank,Delivered,19/08/2026,117.58
+ORD17331,CUST8840,Smart Watch|Power Bank|Screen Protector,Processing,19/09/2026,120.25
+ORD17355,CUST4268,Blender|Webcam,Out for Delivery,28/08/2026,66.82
+ORD17455,CUST1599,Blender,Out for Delivery,28/09/2026,36.28
+ORD17492,CUST6438,Smart Watch|Power Bank|Water Bottle,Delivered,07/09/2026,127.91
+ORD17592,CUST4060,Coffee Maker|Blender|Webcam,Shipped,26/09/2026,109.43
+ORD17665,CUST2293,Smart Watch|Power Bank|Blender,Out for Delivery,26/09/2026,150.37
+ORD17685,CUST5843,Webcam|Desk Lamp|Notebook Set,Shipped,03/09/2026,62.06
+ORD17716,CUST1693,Yoga Mat|Water Bottle|Running Shoes,Delivered,22/08/2026,101.66
+ORD17816,CUST1939,Screen Protector|Phone Case,Delivered,19/08/2026,17.39
+ORD17894,CUST1510,Webcam|Desk Lamp|Notebook Set,Delivered,23/09/2026,60.27
+ORD17944,CUST7001,Webcam|Desk Lamp|Notebook Set|Mechanical Keyboard,Delivered,08/09/2026,116.49
+ORD17989,CUST2259,Webcam|Desk Lamp|Notebook Set,Delivered,16/09/2026,65.9
+ORD18161,CUST1424,Coffee Maker|Blender,Delayed,24/09/2026,73.21
+ORD18326,CUST5264,Bluetooth Headphones|Power Bank|Phone Case,Shipped,31/08/2026,80.51
+ORD18392,CUST3223,Smart Watch|Screen Protector,Delayed,19/08/2026,102.58
+ORD18418,CUST6236,Screen Protector|Phone Case|Notebook Set,Shipped,12/09/2026,27.95
+ORD18564,CUST3852,Running Shoes|USB-C Charger|Yoga Mat,Delivered,16/09/2026,102.9
+ORD18675,CUST1430,Webcam|Desk Lamp|Notebook Set,Shipped,26/09/2026,60.26
+ORD18834,CUST7523,Power Bank|Webcam|Phone Case,Delivered,26/08/2026,67.02
+ORD18907,CUST6194,Coffee Maker|Blender,Delivered,23/09/2026,77.83
+ORD18968,CUST3981,Phone Case,Delivered,28/09/2026,10.33
+ORD18981,CUST9488,Bluetooth Headphones|Power Bank|Phone Case|Running Shoes,Out for Delivery,29/08/2026,153.84
+ORD18993,CUST2292,Screen Protector|Phone Case,Shipped,22/08/2026,17.65
+ORD19016,CUST9740,Screen Protector|Phone Case|Mechanical Keyboard,Shipped,23/08/2026,74.61
+ORD19038,CUST6531,Bluetooth Headphones|Wireless Mouse|Laptop Stand,Processing,21/08/2026,90.38
+ORD19071,CUST5336,Smart Watch|Power Bank,Delivered,30/09/2026,117.98
+ORD19099,CUST9938,Yoga Mat|Water Bottle|Running Shoes,Delivered,19/08/2026,96.09
+ORD19116,CUST8430,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Phone Case,Delivered,18/09/2026,106.27
+ORD19150,CUST3353,Screen Protector|Phone Case|Backpack,Delayed,23/09/2026,57.46
+ORD19171,CUST9437,Yoga Mat|Water Bottle|Running Shoes|USB-C Charger,Shipped,16/09/2026,107.98
+ORD19287,CUST1829,Coffee Maker|Blender,Delivered,21/09/2026,77.35
+ORD19305,CUST6123,Bluetooth Headphones|Power Bank|Phone Case,Delivered,31/08/2026,86.15
+ORD19329,CUST9148,Coffee Maker|Blender,Delayed,18/09/2026,75.63
+ORD19358,CUST1797,Coffee Maker|Blender,Delivered,19/08/2026,74.78
+ORD19359,CUST9793,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Cancelled,08/09/2026,100.59
+ORD19508,CUST6995,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Shipped,27/08/2026,95.93
+ORD19545,CUST7329,Smart Watch|Power Bank,Delivered,23/08/2026,120.13
+ORD19602,CUST2946,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Desk Lamp,Delivered,08/09/2026,123.06
+ORD19710,CUST4261,Coffee Maker|Blender,Processing,23/09/2026,76.6
+ORD19807,CUST8761,Bluetooth Headphones|Power Bank|Phone Case,Delivered,11/09/2026,86.58
+ORD19838,CUST6218,Webcam|Desk Lamp|Notebook Set,Shipped,10/09/2026,63.05
+ORD19862,CUST9351,Screen Protector|Phone Case,Delivered,30/09/2026,17.76
+ORD19880,CUST2795,Blender|Wireless Mouse|Power Bank,Shipped,21/08/2026,83.29
+ORD19961,CUST4728,Webcam|Desk Lamp|Notebook Set,Delivered,23/08/2026,64.73
+ORD20155,CUST7229,Screen Protector|Phone Case|USB-C Charger,Shipped,03/09/2026,32.39
+ORD20322,CUST3481,Bluetooth Headphones|Power Bank|Phone Case,Delivered,01/09/2026,86.09
+ORD20328,CUST2020,Webcam|Desk Lamp|Notebook Set,Delayed,01/09/2026,63.16
+ORD20350,CUST6140,Notebook Set|Desk Lamp,Delivered,19/08/2026,31.84
+ORD20458,CUST5331,Bluetooth Headphones|Power Bank|Phone Case,Shipped,12/09/2026,80.72
+ORD20500,CUST5876,Yoga Mat|Power Bank|Desk Lamp,Delivered,27/08/2026,73.04
+ORD20527,CUST5480,Webcam|Desk Lamp|Notebook Set,Out for Delivery,06/09/2026,65.01
+ORD20543,CUST3399,Yoga Mat|Water Bottle|Running Shoes,Processing,03/09/2026,98.51
+ORD20561,CUST8849,Smart Watch|Power Bank,Delayed,18/08/2026,115.31
+ORD20641,CUST2789,Webcam|Desk Lamp|Notebook Set|Bluetooth Headphones,Delivered,29/08/2026,105.04
+ORD20735,CUST4814,Coffee Maker|Blender|Power Bank,Processing,23/09/2026,97.9
+ORD20745,CUST3587,Coffee Maker|Blender,Shipped,13/09/2026,73.66
+ORD21003,CUST1969,Running Shoes,Delivered,29/09/2026,67.69
+ORD21114,CUST3868,Smart Watch|Power Bank|Bluetooth Headphones,Delayed,06/09/2026,167.69
+ORD21164,CUST4052,Bluetooth Headphones|Wireless Mouse,Shipped,24/08/2026,60.53
+ORD21221,CUST6489,Screen Protector|Phone Case,Delivered,23/09/2026,18.63
+ORD21226,CUST8668,Smart Watch|Power Bank,Delivered,21/08/2026,115.14
+ORD21359,CUST4050,Yoga Mat|Water Bottle|Running Shoes,Delivered,19/09/2026,93.85
+ORD21395,CUST7643,Desk Lamp|Laptop Stand|Water Bottle,Delivered,20/09/2026,61.84
+ORD21542,CUST8822,Bluetooth Headphones|Power Bank|Phone Case|Water Bottle,Shipped,14/09/2026,99.31
+ORD21846,CUST5947,Webcam|Desk Lamp|Notebook Set|Backpack,Delivered,28/09/2026,102.69
+ORD21915,CUST8625,Coffee Maker|Blender,Delayed,17/08/2026,77.02
+ORD21959,CUST2923,Yoga Mat|Water Bottle|Running Shoes,Shipped,23/09/2026,96.79
+ORD21970,CUST8454,Webcam|Desk Lamp|Notebook Set,Delayed,28/08/2026,64.9
+ORD22097,CUST4578,Laptop Stand|Webcam|Screen Protector,Delivered,08/09/2026,62.26
+ORD22156,CUST2838,Webcam|Desk Lamp|Notebook Set,Shipped,28/08/2026,60.79
+ORD22196,CUST6375,USB-C Charger|Yoga Mat,Delivered,31/08/2026,33.57
+ORD22217,CUST9361,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,02/09/2026,98.63
+ORD22224,CUST8575,Yoga Mat|Water Bottle|Running Shoes,Out for Delivery,01/10/2026,99.38
+ORD22240,CUST2196,Yoga Mat|Water Bottle|Running Shoes,Delivered,28/09/2026,101.22
+ORD22280,CUST2130,Bluetooth Headphones|Blender,Delivered,23/09/2026,82.13
+ORD22363,CUST7887,Coffee Maker|Blender,Delayed,07/09/2026,74.07
+ORD22676,CUST9835,Smart Watch|Power Bank,Delayed,06/09/2026,118.34
+ORD22704,CUST4648,Blender,Delivered,28/08/2026,34.73
+ORD22833,CUST7214,Screen Protector,Out for Delivery,14/09/2026,7.75
+ORD22899,CUST2848,Screen Protector|Phone Case,Delivered,30/09/2026,17.53
+ORD22903,CUST2102,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,28/09/2026,95.5
+ORD23006,CUST1724,Bluetooth Headphones|Power Bank|Phone Case,Delivered,28/09/2026,80.01
+ORD23069,CUST5739,Screen Protector|Phone Case,Delivered,19/08/2026,18.57
+ORD23104,CUST4881,Bluetooth Headphones|Power Bank|Phone Case,Delivered,05/09/2026,81.34
+ORD23154,CUST1998,Webcam|Desk Lamp|Notebook Set,Delayed,22/08/2026,64.13
+ORD23173,CUST9120,Yoga Mat|Water Bottle|Running Shoes,Delivered,29/08/2026,95.24
+ORD23176,CUST7821,Yoga Mat|Water Bottle|Running Shoes|Notebook Set,Delivered,17/09/2026,103.89
+ORD23238,CUST3365,Notebook Set,Delivered,05/09/2026,9.05
+ORD23356,CUST3196,Yoga Mat|Water Bottle|Running Shoes|Laptop Stand,Delayed,08/09/2026,117.03
+ORD23396,CUST4120,Coffee Maker|Blender,Delivered,27/09/2026,72.66
+ORD23434,CUST4555,Smart Watch|Power Bank,Out for Delivery,01/10/2026,114.6
+ORD23446,CUST4113,Power Bank,Delayed,18/08/2026,28.29
+ORD23473,CUST4350,Bluetooth Headphones|Power Bank|Phone Case,Delivered,07/09/2026,82.72
+ORD23577,CUST6886,Yoga Mat|Water Bottle|Running Shoes,Delivered,25/09/2026,99.94
+ORD23710,CUST8692,Yoga Mat|Backpack,Out for Delivery,29/09/2026,58.36
+ORD23833,CUST4625,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Phone Case,Shipped,19/09/2026,106.16
+ORD23947,CUST7223,Bluetooth Headphones|Power Bank|Phone Case,Delivered,19/08/2026,81.65
+ORD23970,CUST9005,Power Bank|Screen Protector|Smart Watch,Delivered,09/09/2026,121.83
+ORD24029,CUST9954,Webcam|Desk Lamp|Notebook Set,Delayed,29/08/2026,60.06
+ORD24168,CUST2217,Bluetooth Headphones|Wireless Mouse|Phone Case,Shipped,22/08/2026,71.04
+ORD24208,CUST3474,Webcam|Desk Lamp|Notebook Set,Processing,22/08/2026,64.05
+ORD24322,CUST8916,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Notebook Set,Delivered,30/09/2026,107.31
+ORD24371,CUST5501,Yoga Mat|Water Bottle|Running Shoes|Phone Case,Delivered,20/09/2026,102.8
+ORD24592,CUST2578,Bluetooth Headphones|Power Bank|Phone Case|Webcam,Shipped,09/09/2026,112.32
+ORD24621,CUST7502,Coffee Maker|Blender,Shipped,18/08/2026,72.94
+ORD24662,CUST2320,Smart Watch|Power Bank,Processing,06/09/2026,116.58
+ORD24663,CUST8798,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Processing,04/09/2026,99.42
+ORD24871,CUST6427,Smart Watch|Power Bank,Cancelled,29/09/2026,114.81
+ORD24953,CUST8790,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Shipped,28/08/2026,98.62
+ORD24993,CUST1539,Smart Watch|Power Bank|Yoga Mat,Delivered,17/08/2026,142.43
+ORD25012,CUST2260,Webcam|Desk Lamp|Notebook Set|Water Bottle,Delivered,28/08/2026,73.74
+ORD25014,CUST3292,Laptop Stand|Webcam|Backpack,Processing,04/09/2026,92.46
+ORD25043,CUST2245,Smart Watch|Power Bank,Delivered,11/09/2026,112.45
+ORD25118,CUST5478,Power Bank|Running Shoes,Out for Delivery,07/09/2026,92.37
+ORD25129,CUST7227,Webcam|Desk Lamp|Notebook Set|Running Shoes,Delivered,26/09/2026,125.03
+ORD25157,CUST7225,Screen Protector|Phone Case|Water Bottle,Out for Delivery,25/09/2026,28.77
+ORD25194,CUST6050,Smart Watch|Power Bank|Mechanical Keyboard,Processing,04/09/2026,172.11
+ORD25396,CUST9395,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Notebook Set,Processing,24/08/2026,110.04
+ORD25525,CUST7311,Coffee Maker|Blender|Laptop Stand,Delivered,27/08/2026,104.05
+ORD25670,CUST4977,Bluetooth Headphones|Power Bank|Phone Case,Shipped,14/09/2026,81.35
+ORD25713,CUST9079,Bluetooth Headphones|Power Bank|Phone Case,Delivered,01/09/2026,85.35
+ORD25814,CUST6916,Bluetooth Headphones|Power Bank|Phone Case,Delivered,23/08/2026,80.47
+ORD25860,CUST2752,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Out for Delivery,23/08/2026,96.82
+ORD25866,CUST6399,Coffee Maker|Blender,Cancelled,24/08/2026,72.27
+ORD25906,CUST6253,Screen Protector|Phone Case|Desk Lamp,Shipped,06/09/2026,41.87
+ORD25915,CUST5775,Screen Protector|Phone Case,Delivered,16/09/2026,17.69
+ORD26299,CUST5592,Backpack|USB-C Charger,Delayed,19/09/2026,53.49
+ORD26334,CUST9939,Smart Watch|Power Bank,Delayed,02/09/2026,123.23
+ORD26361,CUST4434,Yoga Mat|Water Bottle|Running Shoes,Processing,05/09/2026,98.68
+ORD26483,CUST3280,Bluetooth Headphones|Power Bank|Phone Case|Mechanical Keyboard,Delivered,07/09/2026,132.12
+ORD26544,CUST8851,Webcam|Desk Lamp|Notebook Set,Delayed,18/08/2026,62.49
+ORD26547,CUST1602,Notebook Set|Laptop Stand,Processing,16/09/2026,34.54
+ORD26551,CUST6816,Webcam|Desk Lamp|Notebook Set|Water Bottle,Delayed,10/09/2026,78.49
+ORD26591,CUST8052,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Webcam,Delivered,27/08/2026,131.05
+ORD26683,CUST4621,Coffee Maker|Blender,Delivered,18/08/2026,75.0
+ORD26704,CUST6651,USB-C Charger|Blender,Delivered,26/09/2026,48.08
+ORD26728,CUST3321,Yoga Mat|Water Bottle|Running Shoes,Shipped,01/09/2026,95.53
+ORD26828,CUST2599,Screen Protector|Phone Case,Processing,29/09/2026,18.56
+ORD27146,CUST2885,Yoga Mat|Water Bottle|Running Shoes,Delivered,21/09/2026,101.17
+ORD27154,CUST4996,Webcam|Desk Lamp|Notebook Set,Delivered,02/09/2026,61.31
+ORD27172,CUST7636,Bluetooth Headphones|Power Bank|Phone Case,Delivered,30/09/2026,84.97
+ORD27342,CUST4232,Coffee Maker|Blender|Yoga Mat,Shipped,17/08/2026,97.93
+ORD27361,CUST2025,Smart Watch|Power Bank,Shipped,11/09/2026,114.43
+ORD27477,CUST2867,Smart Watch|Power Bank,Delayed,11/09/2026,119.14
+ORD27601,CUST7431,Yoga Mat|Water Bottle|Running Shoes|Screen Protector,Delivered,19/08/2026,107.16
+ORD27786,CUST5873,Laptop Stand|Mechanical Keyboard|Desk Lamp,Processing,12/09/2026,98.09
+ORD27892,CUST7116,Webcam|Desk Lamp|Notebook Set|Mechanical Keyboard,Delivered,04/09/2026,114.29
+ORD28131,CUST9804,Screen Protector|Phone Case,Shipped,21/09/2026,17.98
+ORD28136,CUST3298,Smart Watch|Power Bank,Processing,09/09/2026,123.33
+ORD28289,CUST8939,Smart Watch|Power Bank|Notebook Set,Delivered,31/08/2026,125.85
+ORD28301,CUST9056,Smart Watch|Power Bank,Shipped,26/08/2026,112.46
+ORD28373,CUST4613,Yoga Mat|Water Bottle|Running Shoes|Blender,Shipped,02/09/2026,132.87
+ORD28643,CUST9115,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Shipped,28/08/2026,101.17
+ORD28726,CUST7010,Smart Watch|Power Bank|Screen Protector,Delivered,04/09/2026,120.99
+ORD28758,CUST5055,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Out for Delivery,26/09/2026,97.4
+ORD28894,CUST2923,Yoga Mat,Delivered,25/08/2026,20.38
+ORD28958,CUST8015,Bluetooth Headphones|Power Bank|Phone Case,Delivered,28/09/2026,83.58
+ORD29080,CUST9720,Webcam|Desk Lamp|Notebook Set|Blender,Shipped,14/09/2026,102.43
+ORD29313,CUST9428,USB-C Charger|Mechanical Keyboard|Phone Case,Delayed,14/09/2026,82.94
+ORD29342,CUST3078,Bluetooth Headphones|Power Bank|Phone Case|Desk Lamp,Delivered,19/08/2026,103.87
+ORD29410,CUST3329,Yoga Mat|Water Bottle|Running Shoes,Out for Delivery,27/09/2026,98.3
+ORD29476,CUST2525,Screen Protector|Phone Case|Backpack,Delivered,31/08/2026,55.03
+ORD29528,CUST1040,Laptop Stand|Screen Protector|Backpack,Cancelled,28/08/2026,70.27
+ORD29536,CUST8039,Coffee Maker|Desk Lamp,Delivered,10/09/2026,62.29
+ORD29555,CUST3139,Coffee Maker|Blender,Cancelled,28/09/2026,71.59
+ORD29769,CUST8529,Smart Watch|Power Bank|Screen Protector,Processing,04/09/2026,122.25
+ORD29887,CUST3161,Smart Watch|Coffee Maker,Processing,08/09/2026,126.76
+ORD29936,CUST7092,Screen Protector|Phone Case|Water Bottle,Delivered,18/08/2026,30.77
+ORD29973,CUST8032,Screen Protector|Phone Case|Yoga Mat,Delivered,23/09/2026,38.36
+ORD30028,CUST9510,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Desk Lamp,Delivered,04/09/2026,122.33
+ORD30032,CUST8826,Coffee Maker|Blender|USB-C Charger,Processing,08/09/2026,93.43
+ORD30033,CUST3246,Smart Watch|Power Bank,Shipped,19/08/2026,113.79
+ORD30052,CUST9691,Webcam|Desk Lamp|Notebook Set,Delivered,18/09/2026,63.81
+ORD30181,CUST3480,Screen Protector|Yoga Mat|Laptop Stand,Cancelled,23/09/2026,54.34
+ORD30232,CUST7291,Coffee Maker|Blender|Mechanical Keyboard,Shipped,21/08/2026,124.6
+ORD30257,CUST5668,Wireless Mouse|Blender|Yoga Mat,Delivered,30/08/2026,70.73
+ORD30289,CUST7418,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,16/09/2026,97.95
+ORD30374,CUST2847,Screen Protector|Phone Case,Delivered,01/10/2026,18.88
+ORD30379,CUST6185,Smart Watch|Power Bank,Delivered,28/08/2026,120.16
+ORD30517,CUST8717,Wireless Mouse,Delivered,01/10/2026,17.57
+ORD30585,CUST1652,Webcam|Blender,Delivered,30/08/2026,68.79
+ORD30635,CUST7939,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,22/09/2026,95.82
+ORD30676,CUST6077,Bluetooth Headphones|Power Bank|Phone Case,Shipped,11/09/2026,82.09
+ORD30730,CUST2083,Coffee Maker|Blender,Delivered,28/09/2026,73.08
+ORD30758,CUST8118,Webcam|Desk Lamp|Notebook Set,Out for Delivery,20/08/2026,64.52
+ORD30861,CUST2956,Bluetooth Headphones|Power Bank|Phone Case,Shipped,09/09/2026,83.19
+ORD30866,CUST5247,Bluetooth Headphones|Power Bank|Phone Case,Cancelled,24/09/2026,85.25
+ORD30926,CUST1480,Coffee Maker|Blender|Laptop Stand,Shipped,26/08/2026,101.28
+ORD30969,CUST9128,Yoga Mat|Water Bottle|Running Shoes|Smart Watch,Out for Delivery,15/09/2026,192.11
+ORD31079,CUST2889,Webcam|Desk Lamp|Notebook Set|Wireless Mouse,Shipped,01/09/2026,79.9
+ORD31174,CUST3458,Smart Watch|Power Bank|Phone Case,Shipped,16/09/2026,126.93
+ORD31178,CUST6241,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Processing,19/08/2026,101.94
+ORD31299,CUST3938,Webcam|Desk Lamp|Notebook Set,Delayed,27/09/2026,65.38
+ORD31319,CUST5625,Desk Lamp|Laptop Stand,Delivered,01/10/2026,46.38
+ORD31417,CUST5777,Yoga Mat|Water Bottle|Running Shoes,Shipped,08/09/2026,97.89
+ORD31465,CUST9083,Notebook Set,Delivered,16/09/2026,8.69
+ORD31579,CUST7718,Webcam|Desk Lamp|Notebook Set|Wireless Mouse,Delayed,01/10/2026,83.1
+ORD31632,CUST7164,Blender|USB-C Charger|Yoga Mat,Delivered,16/09/2026,69.44
+ORD31643,CUST1981,Coffee Maker,Processing,17/09/2026,41.59
+ORD31747,CUST9515,Yoga Mat|Water Bottle|Running Shoes,Delivered,25/08/2026,93.08
+ORD31798,CUST3187,Coffee Maker|Blender|Bluetooth Headphones,Delivered,23/09/2026,116.84
+ORD31805,CUST5276,Desk Lamp|Notebook Set,Delivered,17/09/2026,29.68
+ORD31992,CUST4321,Smart Watch|Power Bank,Shipped,21/09/2026,117.4
+ORD32241,CUST6145,Webcam|Desk Lamp|Notebook Set|Yoga Mat,Delivered,02/09/2026,81.05
+ORD32280,CUST2964,Smart Watch|Power Bank,Delivered,18/08/2026,119.22
+ORD32431,CUST4522,Mechanical Keyboard|Laptop Stand,Delivered,09/09/2026,79.17
+ORD32782,CUST1802,Yoga Mat|Water Bottle|Running Shoes,Shipped,06/09/2026,100.44
+ORD32810,CUST5093,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Shipped,01/10/2026,93.7
+ORD32946,CUST4641,Smart Watch|Power Bank,Delivered,21/08/2026,113.09
+ORD32962,CUST5240,Wireless Mouse,Delayed,19/09/2026,18.72
+ORD33053,CUST8265,Desk Lamp,Shipped,02/09/2026,21.01
+ORD33086,CUST8096,Power Bank|Wireless Mouse,Out for Delivery,04/09/2026,44.49
+ORD33206,CUST4517,Coffee Maker|Screen Protector,Cancelled,29/09/2026,48.55
+ORD33405,CUST5026,Coffee Maker|Blender,Delivered,28/09/2026,71.91
+ORD33416,CUST7275,Bluetooth Headphones|Power Bank|Phone Case,Delivered,16/09/2026,84.09
+ORD33509,CUST9907,Backpack|Power Bank,Delivered,31/08/2026,64.97
+ORD33519,CUST9231,Yoga Mat|Water Bottle|Running Shoes|Desk Lamp,Delivered,30/09/2026,123.71
+ORD33600,CUST5602,Coffee Maker|Blender,Delivered,17/09/2026,78.55
+ORD33788,CUST2640,Bluetooth Headphones|Power Bank|Phone Case,Delivered,17/09/2026,83.63
+ORD33819,CUST7363,Smart Watch|Power Bank,Shipped,16/09/2026,119.09
+ORD33834,CUST6878,Backpack,Delayed,26/08/2026,36.64
+ORD34050,CUST4084,Notebook Set|Blender,Shipped,29/09/2026,42.2
+ORD34164,CUST4811,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Processing,23/08/2026,95.07
+ORD34267,CUST3137,Bluetooth Headphones|Power Bank|Phone Case,Delivered,11/09/2026,79.34
+ORD34356,CUST3420,Bluetooth Headphones|Power Bank|Phone Case,Delivered,08/09/2026,86.82
+ORD34586,CUST7120,Screen Protector|Phone Case|USB-C Charger,Out for Delivery,11/09/2026,31.8
+ORD34727,CUST3580,Coffee Maker|Blender,Delayed,21/08/2026,73.63
+ORD34890,CUST6846,Webcam|Desk Lamp|Notebook Set,Out for Delivery,18/08/2026,61.71
+ORD34914,CUST3911,Screen Protector|Phone Case,Out for Delivery,26/08/2026,17.16
+ORD34931,CUST6213,Running Shoes|USB-C Charger|Power Bank,Shipped,27/09/2026,105.17
+ORD34957,CUST6234,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,10/09/2026,97.48
+ORD34983,CUST5345,Screen Protector|Phone Case|Coffee Maker,Delivered,01/10/2026,55.38
+ORD35042,CUST8179,Bluetooth Headphones|Power Bank|Phone Case,Delivered,07/09/2026,81.77
+ORD35105,CUST7149,Coffee Maker|Blender,Delivered,19/08/2026,72.94
+ORD35112,CUST8393,Smart Watch|Power Bank|Wireless Mouse,Out for Delivery,25/09/2026,130.21
+ORD35144,CUST3787,Laptop Stand,Delivered,26/09/2026,24.59
+ORD35203,CUST8909,Coffee Maker|Blender,Shipped,04/09/2026,72.43
+ORD35242,CUST2659,Bluetooth Headphones|Power Bank|Phone Case,Delivered,28/08/2026,81.05
+ORD35313,CUST5612,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Notebook Set,Delivered,22/09/2026,102.23
+ORD35443,CUST1062,Yoga Mat|Water Bottle|Running Shoes,Delivered,01/09/2026,94.09
+ORD35485,CUST1421,Screen Protector|Phone Case|Laptop Stand,Delivered,24/09/2026,42.18
+ORD35825,CUST7512,Screen Protector|Phone Case|Notebook Set,Out for Delivery,08/09/2026,28.04
+ORD35928,CUST7052,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Screen Protector,Shipped,14/09/2026,106.68
+ORD35995,CUST3476,USB-C Charger|Laptop Stand|Backpack,Delivered,05/09/2026,81.67
+ORD36062,CUST4727,Smart Watch|Power Bank|Webcam,Delivered,28/08/2026,152.81
+ORD36071,CUST8779,Bluetooth Headphones|Power Bank|Phone Case,Processing,17/08/2026,79.14
+ORD36100,CUST9467,Mechanical Keyboard|USB-C Charger|Screen Protector,Shipped,21/09/2026,81.68
+ORD36130,CUST4157,Coffee Maker|Blender|Phone Case,Shipped,22/08/2026,82.01
+ORD36158,CUST5225,Screen Protector|Phone Case,Processing,07/09/2026,18.1
+ORD36365,CUST6343,Screen Protector|Wireless Mouse|Phone Case,Processing,22/09/2026,34.73
+ORD36680,CUST2641,USB-C Charger|Blender|Backpack,Cancelled,15/09/2026,86.97
+ORD36685,CUST8955,Coffee Maker|Blender,Delivered,23/08/2026,75.81
+ORD36772,CUST7581,Yoga Mat|Water Bottle|Running Shoes,Processing,01/09/2026,101.08
+ORD37110,CUST7102,Smart Watch|Power Bank,Out for Delivery,31/08/2026,122.23
+ORD37235,CUST2609,Mechanical Keyboard,Out for Delivery,03/09/2026,56.51
+ORD37460,CUST6257,Coffee Maker|Blender,Processing,03/09/2026,72.84
+ORD37535,CUST7671,Smart Watch|Power Bank,Out for Delivery,28/09/2026,118.18
+ORD37549,CUST3604,Screen Protector|Phone Case,Shipped,29/08/2026,18.68
+ORD37607,CUST1474,Smart Watch|Power Bank|Bluetooth Headphones,Shipped,02/09/2026,155.67
+ORD37653,CUST6904,Yoga Mat|Water Bottle|Running Shoes|Screen Protector,Delivered,22/08/2026,109.44
+ORD37659,CUST1500,Coffee Maker|Blender,Shipped,01/09/2026,75.65
+ORD37742,CUST6730,Smart Watch|Power Bank,Delivered,18/08/2026,113.17
+ORD37760,CUST1449,Bluetooth Headphones|Power Bank|Phone Case,Delivered,18/09/2026,85.96
+ORD37802,CUST4688,Yoga Mat|Water Bottle|Running Shoes,Delivered,19/08/2026,92.24
+ORD37869,CUST3167,Webcam|Desk Lamp|Notebook Set,Shipped,24/08/2026,64.92
+ORD37938,CUST6004,Screen Protector|Phone Case,Delivered,07/09/2026,18.63
+ORD38010,CUST8520,Coffee Maker|Blender|Webcam,Delivered,06/09/2026,107.9
+ORD38016,CUST1120,Screen Protector|Phone Case,Delivered,27/08/2026,18.27
+ORD38043,CUST5631,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Out for Delivery,14/09/2026,99.38
+ORD38080,CUST5536,Screen Protector|Phone Case,Delivered,19/09/2026,17.37
+ORD38221,CUST4937,Water Bottle|Desk Lamp|Mechanical Keyboard,Delivered,21/08/2026,88.98
+ORD38361,CUST5843,Coffee Maker|Blender,Delivered,25/08/2026,76.56
+ORD38534,CUST4111,Screen Protector|Phone Case|Notebook Set,Delivered,01/09/2026,28.1
+ORD38569,CUST6873,Smart Watch|Power Bank|Notebook Set,Shipped,25/09/2026,126.63
+ORD38657,CUST5237,Webcam|Desk Lamp|Notebook Set,Shipped,19/08/2026,65.52
+ORD38683,CUST2463,Bluetooth Headphones|Power Bank|Phone Case,Out for Delivery,10/09/2026,81.93
+ORD38746,CUST5817,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Cancelled,25/08/2026,98.79
+ORD38760,CUST2166,Bluetooth Headphones|Power Bank|Phone Case,Cancelled,07/09/2026,83.25
+ORD38785,CUST7768,Smart Watch|Power Bank|Yoga Mat,Out for Delivery,26/08/2026,143.42
+ORD38864,CUST8496,Smart Watch|Power Bank,Delivered,31/08/2026,116.03
+ORD38893,CUST3897,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Coffee Maker,Shipped,21/09/2026,139.05
+ORD38906,CUST3595,Smart Watch|Power Bank,Shipped,04/09/2026,119.58
+ORD39045,CUST7609,Coffee Maker|Blender|Bluetooth Headphones,Delivered,08/09/2026,125.4
+ORD39154,CUST6279,Yoga Mat|Wireless Mouse|Webcam,Delivered,16/09/2026,68.08
+ORD39219,CUST6641,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Blender,Shipped,29/09/2026,130.32
+ORD39256,CUST5764,Webcam|Desk Lamp|Notebook Set,Out for Delivery,19/08/2026,66.12
+ORD39389,CUST6615,Backpack|Yoga Mat,Shipped,06/09/2026,55.21
+ORD39444,CUST4675,Bluetooth Headphones|Power Bank|Phone Case|Wireless Mouse,Delivered,21/09/2026,97.19
+ORD39451,CUST1612,Screen Protector|Phone Case|Notebook Set,Delivered,24/08/2026,28.34
+ORD39466,CUST2771,Wireless Mouse|Mechanical Keyboard|Laptop Stand|USB-C Charger,Delivered,07/09/2026,108.75
+ORD39581,CUST5140,Bluetooth Headphones|Power Bank|Phone Case|Wireless Mouse,Out for Delivery,20/08/2026,96.97
+ORD39816,CUST9524,Webcam|Desk Lamp|Notebook Set,Delivered,25/09/2026,63.07
+ORD39817,CUST2928,Smart Watch|Power Bank|Yoga Mat,Delivered,15/09/2026,142.57
+ORD39831,CUST4304,Coffee Maker|Blender|Bluetooth Headphones,Delivered,18/09/2026,122.26
+ORD39871,CUST8875,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delayed,26/08/2026,99.66
+ORD40005,CUST3443,Laptop Stand|USB-C Charger|Coffee Maker,Delivered,02/09/2026,83.91
+ORD40007,CUST5850,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Smart Watch,Cancelled,13/09/2026,185.37
+ORD40021,CUST6123,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Bluetooth Headphones,Processing,23/09/2026,145.34
+ORD40161,CUST3793,Coffee Maker|Blender,Shipped,26/09/2026,74.04
+ORD40217,CUST6615,Coffee Maker|Blender,Delivered,07/09/2026,76.42
+ORD40311,CUST8835,Smart Watch|USB-C Charger|Mechanical Keyboard,Delivered,28/09/2026,167.71
+ORD40340,CUST3611,Webcam|Desk Lamp|Notebook Set,Delivered,03/09/2026,60.99
+ORD40433,CUST7221,Wireless Mouse|Mechanical Keyboard|Power Bank,Delayed,24/09/2026,104.91
+ORD40495,CUST8220,Yoga Mat|Water Bottle|Running Shoes,Processing,19/08/2026,97.24
+ORD40512,CUST4669,Desk Lamp|Webcam|USB-C Charger,Delivered,16/09/2026,68.88
+ORD40595,CUST7305,Smart Watch|Power Bank,Delayed,28/09/2026,112.24
+ORD40613,CUST3571,Coffee Maker|Blender,Cancelled,27/09/2026,76.89
+ORD40735,CUST6253,Yoga Mat|Water Bottle|Running Shoes,Delivered,07/09/2026,96.06
+ORD40771,CUST4850,Coffee Maker|Blender,Delivered,31/08/2026,74.6
+ORD40784,CUST2944,Wireless Mouse|USB-C Charger|Water Bottle,Delivered,27/08/2026,45.22
+ORD40828,CUST2489,Blender|Webcam|Yoga Mat,Delivered,02/09/2026,90.92
+ORD40982,CUST6953,Screen Protector,Out for Delivery,23/08/2026,8.08
+ORD41029,CUST6952,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Running Shoes,Processing,09/09/2026,168.38
+ORD41195,CUST5783,Yoga Mat|Water Bottle|Running Shoes,Processing,21/09/2026,96.93
+ORD41266,CUST7704,Webcam|Desk Lamp|Notebook Set|USB-C Charger,Delayed,06/09/2026,75.78
+ORD41285,CUST4122,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Processing,22/08/2026,101.31
+ORD41300,CUST3018,Screen Protector|Webcam,Shipped,31/08/2026,38.02
+ORD41358,CUST1795,Coffee Maker|Blender,Delivered,30/08/2026,77.11
+ORD41365,CUST3903,Bluetooth Headphones|Power Bank|Phone Case,Shipped,07/09/2026,84.31
+ORD41385,CUST6273,Coffee Maker|Blender,Delivered,18/08/2026,76.97
+ORD41439,CUST5482,Yoga Mat|Water Bottle|Running Shoes,Delivered,23/09/2026,93.49
+ORD41499,CUST9393,Screen Protector|Phone Case,Out for Delivery,27/08/2026,18.24
+ORD41566,CUST4291,Screen Protector|Phone Case|Backpack,Delayed,23/09/2026,58.7
+ORD41571,CUST3913,Screen Protector|Phone Case,Delivered,09/09/2026,18.11
+ORD41635,CUST7839,Smart Watch|Power Bank,Cancelled,04/09/2026,121.64
+ORD41830,CUST9564,Coffee Maker|Blender|Bluetooth Headphones,Shipped,21/09/2026,125.8
+ORD41850,CUST5105,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Shipped,28/08/2026,93.42
+ORD41890,CUST8415,Smart Watch|Power Bank,Delivered,17/09/2026,120.86
+ORD41946,CUST7371,Smart Watch|Power Bank,Delivered,18/08/2026,119.94
+ORD41963,CUST7251,Smart Watch|Power Bank,Out for Delivery,27/08/2026,112.73
+ORD41979,CUST5117,Smart Watch|Power Bank,Cancelled,17/09/2026,122.86
+ORD42007,CUST7025,Yoga Mat|Notebook Set|Blender,Delivered,19/08/2026,61.28
+ORD42018,CUST3847,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Phone Case,Shipped,15/09/2026,104.0
+ORD42087,CUST5178,Coffee Maker|Blender,Shipped,22/09/2026,78.21
+ORD42092,CUST1833,Blender|Power Bank|Backpack,Processing,17/08/2026,99.16
+ORD42098,CUST4603,Laptop Stand|Webcam|Smart Watch,Delivered,28/08/2026,145.58
+ORD42177,CUST6724,Bluetooth Headphones|Power Bank|Phone Case,Out for Delivery,13/09/2026,80.66
+ORD42271,CUST9691,Webcam|Desk Lamp|Notebook Set,Delayed,01/10/2026,60.57
+ORD42325,CUST6668,Screen Protector|Phone Case,Delivered,29/09/2026,18.33
+ORD42406,CUST6258,Smart Watch|Power Bank,Out for Delivery,28/08/2026,120.64
+ORD42411,CUST1404,Webcam|Notebook Set,Delivered,29/09/2026,40.17
+ORD42493,CUST4154,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Shipped,28/08/2026,98.33
+ORD42527,CUST2072,Screen Protector|Phone Case,Cancelled,04/09/2026,18.6
+ORD42530,CUST4368,Screen Protector|Phone Case,Delivered,04/09/2026,18.26
+ORD42591,CUST2181,Bluetooth Headphones|Power Bank|Phone Case|Desk Lamp,Processing,27/09/2026,100.32
+ORD42662,CUST5127,Webcam|Desk Lamp|Notebook Set,Delayed,05/09/2026,62.29
+ORD42706,CUST7626,Wireless Mouse|Mechanical Keyboard|Laptop Stand|USB-C Charger,Delivered,21/08/2026,115.49
+ORD42742,CUST2036,Bluetooth Headphones|Laptop Stand|Backpack,Delayed,25/09/2026,105.73
+ORD42816,CUST5937,Yoga Mat|Water Bottle|Running Shoes,Delivered,06/09/2026,100.12
+ORD42914,CUST1504,Webcam|Desk Lamp|Notebook Set|Water Bottle,Delivered,28/08/2026,73.46
+ORD42951,CUST3360,Smart Watch|Power Bank,Delivered,01/10/2026,118.63
+ORD42953,CUST3316,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Out for Delivery,27/08/2026,102.38
+ORD43065,CUST5992,Screen Protector|Phone Case,Out for Delivery,05/09/2026,18.73
+ORD43082,CUST9397,Bluetooth Headphones|Power Bank|Phone Case|Coffee Maker,Shipped,20/09/2026,125.1
+ORD43092,CUST1891,Screen Protector|Laptop Stand|Blender,Delivered,15/09/2026,65.27
+ORD43289,CUST8982,Mechanical Keyboard|Running Shoes,Processing,23/08/2026,114.84
+ORD43386,CUST4170,Coffee Maker|Blender,Delivered,22/09/2026,75.49
+ORD43586,CUST6971,Smart Watch|Wireless Mouse,Out for Delivery,17/09/2026,110.29
+ORD43862,CUST8145,Yoga Mat|Water Bottle|Running Shoes|Desk Lamp,Cancelled,02/09/2026,118.35
+ORD43972,CUST6004,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,23/09/2026,101.83
+ORD44099,CUST4218,Screen Protector|Phone Case|Laptop Stand,Cancelled,30/08/2026,43.57
+ORD44179,CUST7637,Bluetooth Headphones,Delivered,28/08/2026,46.77
+ORD44237,CUST9842,Smart Watch|Power Bank|Water Bottle,Shipped,25/08/2026,133.03
+ORD44335,CUST5767,Webcam|Desk Lamp|Notebook Set,Out for Delivery,30/08/2026,59.92
+ORD44438,CUST4913,Smart Watch|Webcam|Mechanical Keyboard,Delivered,20/09/2026,178.17
+ORD44522,CUST3395,Coffee Maker|Blender,Processing,31/08/2026,72.99
+ORD44600,CUST5331,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,08/09/2026,96.9
+ORD44664,CUST8448,Desk Lamp,Processing,29/08/2026,22.29
+ORD44671,CUST5480,Notebook Set|Smart Watch,Out for Delivery,07/09/2026,97.67
+ORD44675,CUST2275,Coffee Maker|Blender,Shipped,06/09/2026,73.9
+ORD44687,CUST6653,Coffee Maker|Blender,Processing,23/09/2026,74.55
+ORD44718,CUST4768,Screen Protector|Phone Case|Mechanical Keyboard,Shipped,08/09/2026,73.74
+ORD44737,CUST2938,Coffee Maker|Blender,Delivered,01/09/2026,76.31
+ORD44741,CUST8848,Bluetooth Headphones|Power Bank|Phone Case,Delivered,16/09/2026,79.21
+ORD44760,CUST3639,Webcam|Desk Lamp|Notebook Set|Mechanical Keyboard,Processing,15/09/2026,122.98
+ORD44795,CUST9464,Wireless Mouse|Blender|Laptop Stand,Shipped,24/08/2026,81.84
+ORD44814,CUST8891,Smart Watch|Power Bank,Shipped,25/08/2026,121.78
+ORD44816,CUST3979,Webcam|Desk Lamp|Notebook Set,Delayed,24/08/2026,63.57
+ORD44970,CUST4765,Bluetooth Headphones|Power Bank|Phone Case|Yoga Mat,Delivered,30/08/2026,104.9
+ORD44973,CUST3450,Bluetooth Headphones|Power Bank|Phone Case,Delivered,29/09/2026,86.14
+ORD44993,CUST9706,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delayed,28/08/2026,101.21
+ORD45003,CUST8069,Yoga Mat|Water Bottle|Running Shoes,Delivered,04/09/2026,94.38
+ORD45018,CUST8899,Backpack|USB-C Charger,Delivered,15/09/2026,52.88
+ORD45093,CUST4809,Blender,Delivered,28/08/2026,34.68
+ORD45179,CUST4096,Screen Protector|Phone Case,Delivered,24/09/2026,18.04
+ORD45325,CUST7144,Screen Protector|Phone Case,Delivered,25/09/2026,17.38
+ORD45382,CUST5155,Webcam|Desk Lamp|Notebook Set,Out for Delivery,14/09/2026,66.1
+ORD45400,CUST7511,Notebook Set|Power Bank,Shipped,27/08/2026,37.2
+ORD45509,CUST5157,Backpack|Water Bottle|Mechanical Keyboard,Cancelled,20/08/2026,101.0
+ORD45614,CUST4764,Screen Protector|Phone Case,Processing,30/08/2026,17.82
+ORD45683,CUST6544,Bluetooth Headphones|Smart Watch|Water Bottle,Delayed,01/10/2026,151.47
+ORD45697,CUST3381,Webcam|Desk Lamp|Notebook Set,Processing,17/09/2026,62.19
+ORD45774,CUST1618,Coffee Maker|Blender,Delivered,17/08/2026,78.48
+ORD45838,CUST1941,Power Bank,Delivered,19/09/2026,28.98
+ORD45954,CUST9489,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,18/08/2026,95.37
+ORD45992,CUST3776,Yoga Mat|Water Bottle|Running Shoes|Wireless Mouse,Delayed,26/09/2026,120.71
+ORD46048,CUST7544,Coffee Maker|Blender,Shipped,01/10/2026,76.78
+ORD46208,CUST2124,Blender|Backpack|Webcam,Delayed,14/09/2026,102.13
+ORD46211,CUST4187,Coffee Maker|Blender,Shipped,05/09/2026,75.05
+ORD46241,CUST2185,Yoga Mat|Water Bottle|Running Shoes,Delivered,15/09/2026,100.65
+ORD46265,CUST5098,Coffee Maker|Blender,Delivered,10/09/2026,78.46
+ORD46347,CUST8517,Webcam|Desk Lamp|Notebook Set,Delivered,15/09/2026,60.28
+ORD46421,CUST4610,Bluetooth Headphones|Power Bank|Phone Case,Delivered,09/09/2026,83.14
+ORD46434,CUST1159,Yoga Mat|Water Bottle|Running Shoes|Laptop Stand,Out for Delivery,10/09/2026,116.83
+ORD46458,CUST3924,Yoga Mat|Water Bottle|Running Shoes|Coffee Maker,Shipped,19/08/2026,142.89
+ORD46463,CUST4115,Bluetooth Headphones|Power Bank|Phone Case|Running Shoes,Cancelled,18/09/2026,143.99
+ORD46471,CUST5091,Mechanical Keyboard|USB-C Charger,Processing,26/09/2026,71.23
+ORD46500,CUST9071,Smart Watch|Power Bank,Delayed,01/09/2026,116.48
+ORD46509,CUST6167,Webcam|Desk Lamp|Notebook Set,Delivered,30/08/2026,61.62
+ORD46517,CUST4638,Bluetooth Headphones,Delivered,04/09/2026,44.9
+ORD46559,CUST9859,Yoga Mat|Water Bottle|Running Shoes|Smart Watch,Delivered,24/09/2026,190.71
+ORD46585,CUST8537,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Yoga Mat,Out for Delivery,25/09/2026,115.94
+ORD46655,CUST5254,Yoga Mat|Water Bottle|Running Shoes|Power Bank,Delayed,10/09/2026,123.32
+ORD46930,CUST9171,Coffee Maker|Blender,Out for Delivery,06/09/2026,73.35
+ORD47056,CUST3947,Webcam|Desk Lamp|Notebook Set,Delivered,14/09/2026,64.92
+ORD47072,CUST8081,Mechanical Keyboard,Delivered,22/09/2026,54.85
+ORD47093,CUST1159,Coffee Maker|Blender|Webcam,Delivered,11/09/2026,110.05
+ORD47196,CUST5915,Smart Watch|Power Bank,Out for Delivery,18/08/2026,114.03
+ORD47268,CUST4530,USB-C Charger|Screen Protector,Delivered,15/09/2026,22.68
+ORD47353,CUST5222,Coffee Maker|Blender|Yoga Mat,Delivered,21/08/2026,96.42
+ORD47388,CUST3859,Backpack|Desk Lamp,Delivered,31/08/2026,61.65
+ORD47450,CUST8322,Blender|Screen Protector,Delivered,22/09/2026,44.58
+ORD47606,CUST6527,Webcam|Desk Lamp|Notebook Set,Delivered,27/09/2026,60.35
+ORD47667,CUST6629,Yoga Mat|Water Bottle|Running Shoes,Delivered,24/08/2026,98.4
+ORD47752,CUST5444,Webcam|Screen Protector,Delivered,20/09/2026,41.42
+ORD47762,CUST3048,Screen Protector|Phone Case|Laptop Stand,Shipped,06/09/2026,41.29
+ORD47777,CUST2045,Notebook Set|Bluetooth Headphones,Processing,06/09/2026,54.13
+ORD47828,CUST2363,Webcam|Desk Lamp|Notebook Set|Water Bottle,Out for Delivery,16/09/2026,76.78
+ORD47930,CUST8260,Bluetooth Headphones|Power Bank|Phone Case,Shipped,29/09/2026,84.36
+ORD48175,CUST6328,Notebook Set|Coffee Maker,Delivered,23/09/2026,51.3
+ORD48254,CUST9835,Webcam|Desk Lamp|Notebook Set,Delivered,26/08/2026,62.59
+ORD48290,CUST9745,Yoga Mat|Water Bottle|Running Shoes,Shipped,26/09/2026,96.44
+ORD48427,CUST6992,Bluetooth Headphones|Power Bank|Phone Case|Wireless Mouse,Delivered,23/09/2026,99.42
+ORD48452,CUST8687,Screen Protector|Phone Case,Delayed,01/09/2026,17.64
+ORD48469,CUST8052,Running Shoes|Wireless Mouse|Backpack,Shipped,27/08/2026,120.24
+ORD48566,CUST5094,Screen Protector|Phone Case,Delivered,17/09/2026,17.57
+ORD48752,CUST7917,Webcam|Desk Lamp|Notebook Set,Delayed,18/08/2026,64.16
+ORD48829,CUST5664,Webcam|Desk Lamp|Notebook Set,Delivered,27/09/2026,61.0
+ORD48890,CUST5744,Coffee Maker|Blender,Shipped,23/08/2026,74.94
+ORD48974,CUST6253,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Processing,25/09/2026,95.86
+ORD49117,CUST3048,Screen Protector|Phone Case|Laptop Stand,Shipped,31/08/2026,41.78
+ORD49132,CUST7885,Smart Watch|Power Bank,Out for Delivery,18/08/2026,121.44
+ORD49139,CUST6410,Smart Watch|Power Bank,Processing,06/09/2026,112.94
+ORD49240,CUST8702,Smart Watch|Power Bank|Water Bottle,Delivered,24/09/2026,136.17
+ORD49251,CUST5078,Coffee Maker|Blender|Bluetooth Headphones,Shipped,25/09/2026,120.25
+ORD49321,CUST4415,Screen Protector|Phone Case,Delayed,21/09/2026,18.23
+ORD49363,CUST1691,Webcam|Desk Lamp|Notebook Set,Shipped,22/08/2026,61.73
+ORD49446,CUST6905,Yoga Mat|USB-C Charger|Running Shoes,Delivered,11/09/2026,95.15
+ORD49529,CUST5523,Coffee Maker|Blender,Processing,29/09/2026,75.61
+ORD49618,CUST8786,Bluetooth Headphones|Power Bank|Phone Case|Laptop Stand,Shipped,31/08/2026,103.59
+ORD49651,CUST6544,Bluetooth Headphones|Notebook Set|Backpack,Delivered,18/08/2026,92.33
+ORD49824,CUST2759,Bluetooth Headphones|Power Bank|Phone Case|Notebook Set,Delivered,09/09/2026,94.81
+ORD49829,CUST8187,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Out for Delivery,23/09/2026,95.56
+ORD49857,CUST1646,Coffee Maker|Blender,Delivered,31/08/2026,72.67
+ORD50001,CUST4057,Yoga Mat|Water Bottle|Running Shoes,Shipped,24/08/2026,101.02
+ORD50026,CUST3627,Bluetooth Headphones|Power Bank|Phone Case,Delivered,28/08/2026,81.9
+ORD50135,CUST1011,Water Bottle|Smart Watch|Wireless Mouse,Delivered,08/09/2026,123.31
+ORD50189,CUST4912,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,07/09/2026,94.96
+ORD50306,CUST9151,Blender,Out for Delivery,21/08/2026,34.38
+ORD50319,CUST2577,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Shipped,29/09/2026,95.08
+ORD50404,CUST8952,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,20/08/2026,97.9
+ORD50538,CUST5193,Bluetooth Headphones|Power Bank|Phone Case,Processing,18/09/2026,84.29
+ORD50687,CUST2310,Screen Protector|Phone Case|Notebook Set,Delivered,05/09/2026,27.87
+ORD50730,CUST1955,Webcam|Bluetooth Headphones,Delivered,12/09/2026,73.75
+ORD50768,CUST4537,USB-C Charger,Delivered,28/08/2026,14.83
+ORD50857,CUST4164,Bluetooth Headphones|Power Bank|Phone Case,Delayed,27/08/2026,85.07
+ORD50888,CUST7802,Smart Watch|Power Bank,Out for Delivery,02/09/2026,120.39
+ORD51104,CUST7997,Smart Watch,Delivered,30/08/2026,88.54
+ORD51114,CUST3591,Webcam|Desk Lamp|Notebook Set,Out for Delivery,11/09/2026,63.32
+ORD51145,CUST6319,Phone Case|Desk Lamp,Delivered,26/08/2026,32.15
+ORD51180,CUST7145,Coffee Maker|Backpack|Screen Protector,Delivered,06/09/2026,81.7
+ORD51224,CUST1567,Wireless Mouse|Webcam|Mechanical Keyboard,Delayed,12/09/2026,99.82
+ORD51245,CUST4635,Yoga Mat|Water Bottle|Running Shoes|Coffee Maker,Delayed,30/08/2026,137.77
+ORD51347,CUST3534,Coffee Maker|Blender|Mechanical Keyboard,Shipped,25/08/2026,126.75
+ORD51359,CUST5198,Water Bottle,Delivered,18/09/2026,12.28
+ORD51441,CUST6319,Power Bank,Delivered,18/08/2026,28.57
+ORD51467,CUST2562,Yoga Mat|Water Bottle|Running Shoes,Processing,28/09/2026,101.09
+ORD51505,CUST6478,Smart Watch|Power Bank,Delayed,24/09/2026,122.36
+ORD51588,CUST4714,Smart Watch|Power Bank,Processing,22/08/2026,116.61
+ORD51704,CUST5993,Yoga Mat|Water Bottle|Running Shoes,Shipped,30/08/2026,98.92
+ORD51904,CUST3509,Screen Protector|Phone Case,Delayed,24/08/2026,18.14
+ORD52081,CUST2475,Yoga Mat|Water Bottle|Running Shoes,Shipped,10/09/2026,92.95
+ORD52176,CUST1807,Yoga Mat|Water Bottle|Running Shoes|Webcam,Delivered,18/08/2026,124.23
+ORD52237,CUST3209,Bluetooth Headphones|Power Bank|Phone Case,Delivered,19/09/2026,83.51
+ORD52245,CUST9589,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Phone Case,Out for Delivery,26/08/2026,103.57
+ORD52247,CUST7776,Yoga Mat|Water Bottle|Running Shoes|Backpack,Delivered,30/09/2026,138.64
+ORD52372,CUST3773,Screen Protector|Mechanical Keyboard|Notebook Set,Processing,17/09/2026,69.84
+ORD52487,CUST7124,Screen Protector|Phone Case,Processing,28/09/2026,17.54
+ORD52504,CUST3419,Wireless Mouse|Desk Lamp,Delivered,24/09/2026,39.22
+ORD52516,CUST8719,Bluetooth Headphones|Power Bank|Phone Case,Shipped,28/08/2026,83.19
+ORD52600,CUST5237,Webcam|Desk Lamp|Notebook Set,Shipped,18/08/2026,64.06
+ORD52753,CUST7170,Screen Protector|Phone Case,Shipped,28/09/2026,17.61
+ORD52840,CUST5444,Screen Protector|Phone Case,Processing,20/08/2026,17.59
+ORD52906,CUST6901,Blender,Cancelled,21/08/2026,34.6
+ORD53025,CUST7237,Screen Protector|Phone Case|Desk Lamp,Delivered,24/08/2026,40.13
+ORD53065,CUST4054,Coffee Maker|Blender,Delivered,29/09/2026,73.11
+ORD53228,CUST9673,Coffee Maker|Blender|Smart Watch,Processing,19/08/2026,162.56
+ORD53279,CUST5953,Webcam|Desk Lamp|Notebook Set|Bluetooth Headphones,Delivered,07/09/2026,112.22
+ORD53309,CUST1482,Running Shoes|Mechanical Keyboard,Out for Delivery,06/09/2026,121.88
+ORD53357,CUST2438,Webcam|Desk Lamp|Notebook Set,Delivered,22/08/2026,64.18
+ORD53369,CUST7837,Bluetooth Headphones|Power Bank|Phone Case,Out for Delivery,24/08/2026,81.58
+ORD53404,CUST9883,Screen Protector|Phone Case|Notebook Set,Delivered,19/09/2026,27.98
+ORD53515,CUST6062,Webcam|Desk Lamp|Notebook Set,Delivered,22/09/2026,63.98
+ORD53540,CUST3589,Webcam|Desk Lamp|Notebook Set,Delivered,20/09/2026,61.85
+ORD53573,CUST3384,Smart Watch|Power Bank|Phone Case,Delayed,12/09/2026,127.27
+ORD53687,CUST5485,Bluetooth Headphones|Power Bank|Phone Case|Smart Watch,Processing,23/08/2026,175.02
+ORD53719,CUST4783,Bluetooth Headphones|Power Bank|Phone Case,Out for Delivery,18/08/2026,85.32
+ORD53933,CUST3196,Webcam|Desk Lamp|Notebook Set,Delivered,20/09/2026,65.22
+ORD54020,CUST9051,Bluetooth Headphones|Power Bank|Phone Case,Delivered,01/10/2026,86.53
+ORD54057,CUST7767,Screen Protector|Phone Case,Delivered,27/09/2026,17.42
+ORD54092,CUST8197,Desk Lamp|Screen Protector,Cancelled,04/09/2026,29.71
+ORD54118,CUST1685,Smart Watch|Power Bank|Desk Lamp,Out for Delivery,26/08/2026,141.31
+ORD54236,CUST9605,Screen Protector|Phone Case,Delivered,03/09/2026,17.92
+ORD54313,CUST1694,Webcam,Delivered,29/09/2026,32.18
+ORD54375,CUST9456,Yoga Mat,Shipped,06/09/2026,20.77
+ORD54473,CUST5684,Coffee Maker|Blender|Bluetooth Headphones,Delivered,22/09/2026,119.56
+ORD54548,CUST8400,Webcam|Desk Lamp|Notebook Set,Shipped,05/09/2026,61.89
+ORD54587,CUST1408,Webcam|Desk Lamp|Notebook Set,Cancelled,02/09/2026,60.42
+ORD54597,CUST6309,Screen Protector|Phone Case,Delivered,24/09/2026,17.26
+ORD54608,CUST8362,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Out for Delivery,30/08/2026,99.1
+ORD54657,CUST3619,Coffee Maker|Blender|Smart Watch,Delayed,26/08/2026,171.13
+ORD54725,CUST3459,Bluetooth Headphones|Power Bank|Phone Case,Delivered,12/09/2026,84.91
+ORD54942,CUST8311,Bluetooth Headphones|Power Bank|Phone Case|Mechanical Keyboard,Delayed,01/10/2026,139.69
+ORD55056,CUST5146,Coffee Maker|Blender,Delivered,01/10/2026,75.81
+ORD55082,CUST9084,Webcam|Desk Lamp|Notebook Set,Delivered,03/09/2026,60.35
+ORD55236,CUST1107,Webcam|Desk Lamp|Notebook Set,Delivered,18/09/2026,60.16
+ORD55309,CUST3429,Yoga Mat|Water Bottle|Running Shoes|Bluetooth Headphones,Delivered,24/08/2026,139.14
+ORD55508,CUST2436,Coffee Maker|Blender,Shipped,13/09/2026,75.83
+ORD55607,CUST3906,Backpack|Bluetooth Headphones|Laptop Stand,Delivered,11/09/2026,106.58
+ORD55745,CUST7208,Notebook Set|Laptop Stand,Shipped,23/09/2026,32.71
+ORD55830,CUST5496,Coffee Maker|Blender,Delivered,23/08/2026,71.69
+ORD55870,CUST9666,Blender|Phone Case,Delivered,11/09/2026,43.92
+ORD56025,CUST6797,Power Bank|Webcam|Notebook Set,Delivered,20/09/2026,71.65
+ORD56105,CUST4812,Bluetooth Headphones|Power Bank|Phone Case|Wireless Mouse,Delivered,24/09/2026,103.4
+ORD56112,CUST4396,Phone Case|Bluetooth Headphones,Out for Delivery,27/08/2026,56.68
+ORD56357,CUST4478,Bluetooth Headphones|Power Bank|Phone Case,Shipped,27/09/2026,81.4
+ORD56438,CUST9301,Smart Watch|Power Bank|Desk Lamp,Out for Delivery,26/08/2026,141.62
+ORD56507,CUST1477,Desk Lamp,Delivered,19/08/2026,21.95
+ORD56566,CUST8774,Mechanical Keyboard|Power Bank|Notebook Set,Delivered,28/08/2026,95.64
+ORD56898,CUST8577,Bluetooth Headphones|Webcam,Shipped,19/08/2026,75.58
+ORD56984,CUST9779,Webcam|Desk Lamp|Notebook Set,Delivered,09/09/2026,60.27
+ORD57052,CUST3446,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Water Bottle,Delivered,21/09/2026,110.78
+ORD57301,CUST7382,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,17/08/2026,101.51
+ORD57400,CUST1518,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Shipped,03/09/2026,101.23
+ORD57419,CUST5958,Yoga Mat|Water Bottle|Running Shoes|Backpack,Delivered,19/09/2026,140.58
+ORD57447,CUST8270,Smart Watch|Power Bank,Delivered,19/09/2026,116.11
+ORD57472,CUST8921,Webcam|Desk Lamp|Notebook Set,Shipped,25/09/2026,65.03
+ORD57576,CUST9456,Bluetooth Headphones|Power Bank|Phone Case,Delivered,17/08/2026,86.03
+ORD57739,CUST2897,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,26/09/2026,96.37
+ORD57795,CUST1755,Smart Watch|Power Bank,Out for Delivery,26/08/2026,121.05
+ORD57819,CUST4438,Bluetooth Headphones|Power Bank|Phone Case|Notebook Set,Out for Delivery,03/09/2026,93.57
+ORD58351,CUST5467,Yoga Mat|Water Bottle|Running Shoes|Notebook Set,Delivered,18/09/2026,106.45
+ORD58368,CUST6218,Screen Protector|Phone Case,Delivered,21/09/2026,17.23
+ORD58393,CUST6549,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Power Bank,Delayed,28/09/2026,121.03
+ORD58434,CUST1881,Coffee Maker|Blender|Screen Protector,Delivered,12/09/2026,81.61
+ORD58520,CUST4246,Screen Protector|Phone Case,Processing,02/09/2026,18.12
+ORD58571,CUST2522,Screen Protector|USB-C Charger|Notebook Set,Out for Delivery,21/08/2026,32.67
+ORD58944,CUST8625,Bluetooth Headphones|Power Bank|Phone Case|Coffee Maker,Delayed,06/09/2026,119.11
+ORD59009,CUST6412,Screen Protector|Power Bank,Processing,01/09/2026,34.61
+ORD59131,CUST8842,Bluetooth Headphones|Power Bank|Phone Case|Backpack,Delivered,23/09/2026,121.1
+ORD59192,CUST7646,Desk Lamp,Delivered,27/09/2026,22.64
+ORD59441,CUST9728,Webcam|Desk Lamp|Notebook Set,Delivered,27/08/2026,60.85
+ORD59615,CUST8903,Yoga Mat|Water Bottle|Running Shoes|Phone Case,Delivered,04/09/2026,107.72
+ORD59672,CUST6606,Bluetooth Headphones|Power Bank|Phone Case|Laptop Stand,Delivered,17/08/2026,108.8
+ORD59674,CUST8972,Webcam|Desk Lamp|Notebook Set,Delivered,03/09/2026,60.96
+ORD59689,CUST7648,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,07/09/2026,96.31
+ORD59692,CUST2007,Smart Watch|Power Bank|Wireless Mouse,Delivered,20/08/2026,131.23
+ORD59695,CUST9704,Webcam|Desk Lamp|Notebook Set,Shipped,19/08/2026,65.38
+ORD59735,CUST5910,Screen Protector|Phone Case,Delivered,09/09/2026,18.88
+ORD59797,CUST1133,Webcam|Desk Lamp|Notebook Set,Shipped,13/09/2026,60.24
+ORD59808,CUST9992,Notebook Set,Delivered,09/09/2026,8.65
+ORD59823,CUST5623,Phone Case,Delivered,06/09/2026,10.13
+ORD59856,CUST7271,Coffee Maker|Blender,Delivered,01/09/2026,72.29
+ORD59857,CUST7301,Phone Case|Mechanical Keyboard,Shipped,20/08/2026,62.57
+ORD59968,CUST1190,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Power Bank,Delivered,23/09/2026,120.77
+ORD60019,CUST7813,Phone Case|Smart Watch|Screen Protector,Delivered,27/08/2026,111.46
+ORD60140,CUST7303,Bluetooth Headphones|Power Bank|Phone Case,Processing,31/08/2026,85.88
+ORD60196,CUST4878,Yoga Mat|Water Bottle|Running Shoes,Delivered,08/09/2026,92.47
+ORD60205,CUST1620,Screen Protector|Phone Case|Power Bank,Delayed,26/09/2026,44.35
+ORD60277,CUST9624,Screen Protector|Webcam,Processing,23/08/2026,38.35
+ORD60328,CUST8740,Screen Protector|Phone Case,Processing,22/08/2026,18.07
+ORD60432,CUST6119,Yoga Mat|Water Bottle|Running Shoes,Processing,02/09/2026,97.12
+ORD60488,CUST8687,Yoga Mat|Water Bottle|Running Shoes,Delayed,13/09/2026,94.96
+ORD60604,CUST1578,Webcam|Desk Lamp|Notebook Set,Delivered,26/08/2026,61.49
+ORD60968,CUST8752,Webcam|Desk Lamp|Notebook Set|Blender,Delivered,23/08/2026,93.37
+ORD61049,CUST8942,Webcam|Desk Lamp|Notebook Set|Coffee Maker,Shipped,23/08/2026,100.74
+ORD61116,CUST5209,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delayed,22/09/2026,99.56
+ORD61173,CUST7058,Running Shoes|Power Bank,Shipped,29/08/2026,96.37
+ORD61645,CUST6617,Mechanical Keyboard,Delivered,05/09/2026,56.49
+ORD61856,CUST4898,Screen Protector|Phone Case,Shipped,09/09/2026,17.2
+ORD61876,CUST5331,Bluetooth Headphones,Shipped,06/09/2026,44.89
+ORD61990,CUST8803,Smart Watch|Power Bank,Shipped,19/08/2026,120.43
+ORD62098,CUST8775,Webcam|Desk Lamp|Notebook Set,Processing,03/09/2026,62.26
+ORD62227,CUST6172,Bluetooth Headphones|USB-C Charger|Backpack,Delayed,04/09/2026,99.08
+ORD62296,CUST5466,Yoga Mat|Water Bottle|Running Shoes,Shipped,25/08/2026,95.94
+ORD62350,CUST4961,Webcam|Desk Lamp|Notebook Set,Delivered,19/08/2026,64.2
+ORD62383,CUST3947,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,01/10/2026,97.13
+ORD62386,CUST9605,Coffee Maker|Blender,Shipped,29/09/2026,71.43
+ORD62488,CUST2506,Webcam|Desk Lamp|Notebook Set,Delivered,24/08/2026,63.87
+ORD62521,CUST2965,Webcam|Desk Lamp|Notebook Set|Smart Watch,Cancelled,18/08/2026,148.17
+ORD62565,CUST5826,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delayed,14/09/2026,100.64
+ORD62581,CUST6298,Smart Watch|Power Bank|Bluetooth Headphones,Out for Delivery,10/09/2026,171.08
+ORD62743,CUST5230,Smart Watch|Screen Protector,Processing,19/09/2026,99.08
+ORD62757,CUST3923,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Phone Case,Shipped,21/08/2026,103.75
+ORD62772,CUST8234,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,15/09/2026,100.72
+ORD62923,CUST1307,Wireless Mouse,Delayed,20/08/2026,17.8
+ORD62976,CUST3483,Coffee Maker|Blender,Delivered,31/08/2026,74.84
+ORD62994,CUST7617,Notebook Set,Shipped,07/09/2026,9.41
+ORD63005,CUST8898,Webcam|Desk Lamp|Notebook Set,Out for Delivery,19/08/2026,61.76
+ORD63225,CUST1904,Screen Protector|Phone Case|Notebook Set,Cancelled,10/09/2026,25.87
+ORD63264,CUST8530,Yoga Mat|Smart Watch,Delivered,07/09/2026,111.77
+ORD63269,CUST5896,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Out for Delivery,26/09/2026,101.78
+ORD63271,CUST8175,Bluetooth Headphones|Power Bank|Phone Case|Wireless Mouse,Delivered,25/08/2026,98.36
+ORD63354,CUST7369,Webcam|Desk Lamp|Notebook Set,Delivered,03/09/2026,65.94
+ORD63424,CUST1268,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Bluetooth Headphones,Delivered,18/09/2026,147.39
+ORD63476,CUST9570,Screen Protector|Phone Case,Delivered,25/08/2026,17.52
+ORD63523,CUST2180,Bluetooth Headphones|Power Bank|Phone Case,Processing,23/08/2026,79.23
+ORD63528,CUST3138,Screen Protector|Phone Case|Blender,Delivered,25/09/2026,52.77
+ORD63545,CUST3796,USB-C Charger,Processing,24/08/2026,15.45
+ORD63736,CUST4613,Bluetooth Headphones|Power Bank|Phone Case,Delivered,19/08/2026,82.19
+ORD63841,CUST2979,Notebook Set|Mechanical Keyboard|Desk Lamp,Delivered,18/09/2026,88.27
+ORD63883,CUST3841,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Phone Case,Shipped,08/09/2026,108.58
+ORD63955,CUST8187,Webcam|Desk Lamp|Notebook Set|USB-C Charger,Delivered,22/08/2026,78.88
+ORD63964,CUST3584,Coffee Maker|Blender|Wireless Mouse,Shipped,26/09/2026,94.92
+ORD64008,CUST5648,Smart Watch|Power Bank,Delivered,23/09/2026,114.53
+ORD64040,CUST5439,Coffee Maker|Blender|Smart Watch,Delivered,29/09/2026,166.59
+ORD64165,CUST9190,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,09/09/2026,97.2
+ORD64321,CUST4860,Webcam|Desk Lamp|Notebook Set,Delivered,28/08/2026,63.05
+ORD64377,CUST8605,Yoga Mat|Coffee Maker|Bluetooth Headphones,Shipped,22/09/2026,106.95
+ORD64387,CUST8772,Bluetooth Headphones|Power Bank|Phone Case,Processing,21/08/2026,81.87
+ORD64459,CUST4433,Yoga Mat|Water Bottle|Running Shoes,Cancelled,02/09/2026,92.57
+ORD64496,CUST1859,Smart Watch,Delivered,31/08/2026,90.13
+ORD64548,CUST2160,Screen Protector|Desk Lamp|Phone Case,Shipped,19/08/2026,41.59
+ORD64921,CUST4769,Running Shoes|USB-C Charger,Shipped,05/09/2026,82.96
+ORD64948,CUST7152,Power Bank,Delivered,28/09/2026,29.09
+ORD64987,CUST3374,Webcam|Desk Lamp|Notebook Set,Out for Delivery,23/09/2026,62.73
+ORD65057,CUST4181,Yoga Mat|Water Bottle|Running Shoes|Mechanical Keyboard,Processing,26/08/2026,145.31
+ORD65069,CUST3236,Coffee Maker|Blender,Shipped,10/09/2026,72.9
+ORD65108,CUST5835,Smart Watch|Power Bank,Delayed,21/09/2026,118.92
+ORD65255,CUST4763,Smart Watch|Power Bank,Cancelled,18/09/2026,119.08
+ORD65296,CUST8581,Screen Protector|Phone Case,Cancelled,16/09/2026,17.69
+ORD65302,CUST4643,Mechanical Keyboard|Wireless Mouse|Phone Case,Delayed,29/09/2026,87.08
+ORD65333,CUST9261,Webcam|Desk Lamp|Notebook Set|USB-C Charger,Delivered,16/09/2026,74.75
+ORD65392,CUST1203,Coffee Maker|Blender,Shipped,13/09/2026,73.04
+ORD65444,CUST2486,Screen Protector|Phone Case,Cancelled,25/08/2026,17.14
+ORD65461,CUST8452,Bluetooth Headphones|Power Bank|Phone Case,Delivered,08/09/2026,84.05
+ORD65518,CUST1022,Water Bottle,Cancelled,10/09/2026,12.04
+ORD65519,CUST5859,Yoga Mat|Water Bottle|Running Shoes,Delivered,26/08/2026,99.86
+ORD65723,CUST2326,Yoga Mat|Water Bottle|Running Shoes,Processing,19/08/2026,95.68
+ORD65724,CUST1844,Yoga Mat|Water Bottle|Running Shoes,Processing,08/09/2026,93.85
+ORD65771,CUST2097,Smart Watch|Power Bank|Desk Lamp,Shipped,24/09/2026,142.09
+ORD65933,CUST4437,Desk Lamp,Out for Delivery,14/09/2026,22.01
+ORD66057,CUST7929,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Screen Protector,Delivered,29/08/2026,109.49
+ORD66148,CUST8703,Screen Protector|Phone Case,Cancelled,03/09/2026,18.22
+ORD66155,CUST2075,Coffee Maker|Blender|Water Bottle,Cancelled,13/09/2026,90.99
+ORD66179,CUST2260,Yoga Mat|Water Bottle|Running Shoes|Mechanical Keyboard,Delivered,18/09/2026,152.31
+ORD66207,CUST1371,Screen Protector|Phone Case,Shipped,09/09/2026,17.86
+ORD66333,CUST1351,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Running Shoes,Delivered,29/08/2026,165.36
+ORD66346,CUST7745,Screen Protector|Phone Case,Out for Delivery,25/08/2026,18.3
+ORD66450,CUST9686,Screen Protector|Blender,Delivered,12/09/2026,41.59
+ORD66498,CUST5259,Yoga Mat|Water Bottle|Running Shoes,Delivered,28/09/2026,93.59
+ORD66531,CUST5659,Bluetooth Headphones|Power Bank|Phone Case,Shipped,28/08/2026,81.22
+ORD66626,CUST3873,Mechanical Keyboard|Smart Watch|Running Shoes,Processing,11/09/2026,211.57
+ORD66822,CUST8223,Bluetooth Headphones|Power Bank|Phone Case,Delivered,09/09/2026,80.08
+ORD66881,CUST8347,Bluetooth Headphones|Power Bank|Phone Case,Shipped,30/09/2026,82.21
+ORD66959,CUST9182,Desk Lamp|Mechanical Keyboard,Processing,28/08/2026,80.66
+ORD66985,CUST6427,Yoga Mat|Water Bottle|Running Shoes,Shipped,26/08/2026,98.62
+ORD67080,CUST8243,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delayed,23/09/2026,99.74
+ORD67091,CUST2914,Coffee Maker|Blender,Shipped,09/09/2026,71.94
+ORD67125,CUST1901,Bluetooth Headphones|Power Bank|Phone Case,Shipped,14/09/2026,80.47
+ORD67132,CUST2369,Coffee Maker|Blender,Delayed,30/08/2026,74.21
+ORD67154,CUST9035,Webcam|Desk Lamp|Notebook Set,Processing,20/08/2026,62.12
+ORD67199,CUST3423,Coffee Maker|Blender|Backpack,Processing,09/09/2026,111.32
+ORD67377,CUST8300,Yoga Mat,Delivered,03/09/2026,20.48
+ORD67422,CUST7809,Smart Watch|Phone Case,Delivered,05/09/2026,96.4
+ORD67424,CUST2410,Yoga Mat|Water Bottle|Running Shoes,Cancelled,10/09/2026,92.79
+ORD67433,CUST7156,Coffee Maker|Blender,Shipped,20/09/2026,75.42
+ORD67560,CUST3243,Smart Watch|Power Bank|Notebook Set,Delivered,12/09/2026,131.25
+ORD67654,CUST5979,Screen Protector|Phone Case,Processing,01/10/2026,17.38
+ORD67711,CUST5917,Power Bank|USB-C Charger|Blender,Delivered,31/08/2026,81.17
+ORD67733,CUST5009,Smart Watch|Power Bank|Laptop Stand,Delivered,08/09/2026,144.16
+ORD67905,CUST8144,Power Bank|USB-C Charger|Backpack,Delivered,26/08/2026,77.09
+ORD67912,CUST5252,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Screen Protector,Cancelled,23/09/2026,104.49
+ORD67939,CUST1866,Coffee Maker|Blender,Delayed,28/09/2026,73.42
+ORD67954,CUST9677,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,20/09/2026,100.59
+ORD67963,CUST3738,Smart Watch|Power Bank|Blender,Shipped,18/08/2026,155.88
+ORD68008,CUST2570,Yoga Mat|Water Bottle|Running Shoes,Processing,29/08/2026,94.88
+ORD68028,CUST8944,Bluetooth Headphones|Power Bank|Phone Case|Mechanical Keyboard,Delivered,19/09/2026,142.07
+ORD68082,CUST9612,Notebook Set|USB-C Charger|Phone Case,Delivered,27/09/2026,32.7
+ORD68153,CUST3150,Backpack|Blender,Delivered,23/09/2026,75.31
+ORD68446,CUST9570,Smart Watch|Blender,Processing,24/09/2026,121.53
+ORD68529,CUST3332,Yoga Mat|Water Bottle|Running Shoes|Mechanical Keyboard,Delayed,04/09/2026,154.9
+ORD68743,CUST2830,Smart Watch|Power Bank,Delivered,19/09/2026,113.37
+ORD68800,CUST9412,Coffee Maker|Blender,Processing,12/09/2026,76.26
+ORD68878,CUST2581,Yoga Mat|Notebook Set|Smart Watch,Delivered,30/09/2026,114.13
+ORD68991,CUST5544,Backpack|Smart Watch,Cancelled,23/08/2026,124.7
+ORD69048,CUST2119,Webcam|Desk Lamp|Notebook Set,Delivered,17/08/2026,61.06
+ORD69049,CUST5617,Smart Watch|Power Bank,Delayed,25/09/2026,123.01
+ORD69087,CUST9260,Backpack|Smart Watch,Delivered,25/09/2026,123.91
+ORD69177,CUST6813,Yoga Mat|Webcam,Shipped,24/09/2026,53.36
+ORD69429,CUST6149,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,08/09/2026,100.01
+ORD69470,CUST1665,Coffee Maker|Blender,Delivered,12/09/2026,76.4
+ORD69473,CUST8273,Coffee Maker|Blender|Phone Case,Shipped,27/09/2026,88.36
+ORD69510,CUST8793,Smart Watch|Wireless Mouse,Delayed,31/08/2026,109.86
+ORD69598,CUST7494,Screen Protector|Phone Case,Processing,06/09/2026,17.82
+ORD69614,CUST2666,Bluetooth Headphones|Power Bank|Phone Case|Yoga Mat,Out for Delivery,24/08/2026,106.54
+ORD69638,CUST7623,Smart Watch|Power Bank,Delivered,17/08/2026,121.14
+ORD69682,CUST5472,Water Bottle|Backpack|Power Bank,Delivered,06/09/2026,81.8
+ORD69692,CUST9379,Smart Watch|Power Bank,Shipped,31/08/2026,117.97
+ORD69829,CUST3205,Screen Protector|Phone Case|Laptop Stand,Delivered,30/09/2026,45.03
+ORD69871,CUST7269,Yoga Mat|Water Bottle|Running Shoes|USB-C Charger,Delivered,20/08/2026,114.82
+ORD69890,CUST9064,Blender,Delivered,31/08/2026,35.02
+ORD69929,CUST9887,Smart Watch|Power Bank,Processing,29/09/2026,123.79
+ORD70068,CUST2951,Yoga Mat|Water Bottle|Running Shoes,Delivered,29/09/2026,92.47
+ORD70142,CUST5965,Power Bank,Delivered,12/09/2026,28.6
+ORD70217,CUST8986,Power Bank|Notebook Set|Webcam,Delivered,21/09/2026,69.05
+ORD70258,CUST7412,Webcam|Desk Lamp|Notebook Set,Delivered,09/09/2026,64.68
+ORD70332,CUST5660,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Shipped,08/09/2026,96.52
+ORD70443,CUST1440,Desk Lamp|Water Bottle|USB-C Charger,Delivered,09/09/2026,48.57
+ORD70482,CUST1924,Bluetooth Headphones|Power Bank|Phone Case|Blender,Delivered,18/08/2026,112.87
+ORD70515,CUST5995,Bluetooth Headphones|Power Bank|Phone Case|Desk Lamp,Processing,20/08/2026,108.82
+ORD70552,CUST9433,Wireless Mouse|Power Bank,Delivered,11/09/2026,45.44
+ORD70589,CUST7394,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Processing,19/08/2026,95.12
+ORD70637,CUST9138,Smart Watch|Power Bank,Shipped,12/09/2026,116.39
+ORD70889,CUST8143,Screen Protector|Phone Case,Delivered,28/08/2026,17.49
+ORD70901,CUST5344,Webcam|Desk Lamp|Notebook Set,Shipped,26/09/2026,64.37
+ORD70910,CUST2552,Yoga Mat|Water Bottle|Running Shoes|Webcam,Delivered,18/09/2026,127.03
+ORD70931,CUST2256,Yoga Mat|Water Bottle|Running Shoes,Shipped,20/08/2026,97.39
+ORD70946,CUST4278,Yoga Mat|Water Bottle|Running Shoes,Delivered,27/08/2026,93.9
+ORD70952,CUST1304,Webcam|Desk Lamp|Notebook Set,Delivered,18/09/2026,64.01
+ORD71069,CUST8656,Screen Protector|Phone Case,Delivered,04/09/2026,18.78
+ORD71213,CUST1981,Yoga Mat|Water Bottle|Running Shoes,Shipped,19/08/2026,99.58
+ORD71261,CUST8133,Smart Watch|Power Bank,Processing,18/09/2026,122.08
+ORD71348,CUST5373,Smart Watch|Coffee Maker|Running Shoes,Delivered,24/09/2026,188.17
+ORD71433,CUST1453,Smart Watch|Power Bank,Delivered,04/09/2026,117.08
+ORD71524,CUST1606,Yoga Mat|Water Bottle|Running Shoes|Coffee Maker,Delivered,14/09/2026,139.17
+ORD71537,CUST3883,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,30/09/2026,93.64
+ORD71592,CUST2375,Yoga Mat|Water Bottle|Running Shoes,Delayed,05/09/2026,100.85
+ORD71605,CUST2479,Smart Watch|Power Bank,Shipped,24/09/2026,118.84
+ORD71644,CUST9196,Webcam|Coffee Maker|Power Bank,Cancelled,16/09/2026,101.0
+ORD71669,CUST6134,Webcam|Desk Lamp|Notebook Set,Delivered,16/09/2026,65.74
+ORD71694,CUST4571,Bluetooth Headphones|Power Bank|Phone Case|Coffee Maker,Delivered,15/09/2026,127.46
+ORD71894,CUST1916,Yoga Mat|Water Bottle|Running Shoes,Processing,28/08/2026,96.26
+ORD71953,CUST5036,Backpack,Delivered,08/09/2026,39.22
+ORD71993,CUST1345,Webcam|Desk Lamp|Notebook Set|Bluetooth Headphones,Delivered,20/08/2026,105.19
+ORD72021,CUST7302,Screen Protector|Phone Case|USB-C Charger,Delivered,16/09/2026,34.18
+ORD72031,CUST7364,Coffee Maker|Blender,Delayed,12/09/2026,71.93
+ORD72070,CUST4857,Smart Watch|Power Bank,Delayed,22/08/2026,115.84
+ORD72216,CUST7656,Laptop Stand|Power Bank,Delivered,05/09/2026,55.26
+ORD72277,CUST6451,Smart Watch|Power Bank,Delivered,30/08/2026,112.88
+ORD72296,CUST7895,Smart Watch|Power Bank,Out for Delivery,18/08/2026,112.42
+ORD72402,CUST1853,Bluetooth Headphones|Power Bank|Phone Case,Delivered,23/09/2026,78.88
+ORD72493,CUST4278,Yoga Mat|Water Bottle|Running Shoes,Processing,16/09/2026,97.16
+ORD72518,CUST3131,Phone Case|Desk Lamp|Screen Protector,Delivered,23/09/2026,39.04
+ORD72616,CUST6367,Laptop Stand,Delivered,20/09/2026,24.73
+ORD72746,CUST7182,Running Shoes|Wireless Mouse|Webcam,Delayed,21/08/2026,116.29
+ORD73092,CUST4747,Yoga Mat|Coffee Maker,Delivered,21/09/2026,57.3
+ORD73242,CUST8027,Bluetooth Headphones|Power Bank|Phone Case|Backpack,Shipped,26/08/2026,116.37
+ORD73372,CUST9615,Coffee Maker|Blender,Delivered,17/09/2026,76.6
+ORD73464,CUST4121,Blender|Power Bank,Out for Delivery,04/09/2026,65.24
+ORD73483,CUST4531,Yoga Mat|Phone Case,Shipped,22/09/2026,28.59
+ORD73517,CUST5289,Coffee Maker|Blender,Out for Delivery,19/08/2026,76.1
+ORD73532,CUST2404,Bluetooth Headphones|Power Bank|Phone Case,Delayed,06/09/2026,84.55
+ORD73624,CUST7283,Screen Protector|Phone Case,Processing,27/08/2026,17.21
+ORD73653,CUST6453,Backpack|Bluetooth Headphones,Processing,30/08/2026,83.99
+ORD73654,CUST5956,Backpack|Mechanical Keyboard|Bluetooth Headphones,Delivered,15/09/2026,133.44
+ORD73699,CUST9074,Mechanical Keyboard|Laptop Stand,Out for Delivery,29/08/2026,79.46
+ORD73788,CUST5266,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,14/09/2026,100.43
+ORD73904,CUST8046,Yoga Mat|Water Bottle|Running Shoes,Delivered,15/09/2026,97.16
+ORD73956,CUST8139,Power Bank|Mechanical Keyboard,Delivered,20/08/2026,84.13
+ORD73993,CUST8208,Bluetooth Headphones|Power Bank|Phone Case|Smart Watch,Processing,15/09/2026,167.18
+ORD74032,CUST8653,Coffee Maker|Blender|Backpack,Delayed,27/08/2026,112.83
+ORD74038,CUST9077,Screen Protector|Phone Case,Shipped,26/09/2026,17.47
+ORD74042,CUST5654,Bluetooth Headphones|Power Bank|Phone Case,Delivered,26/08/2026,86.24
+ORD74178,CUST4479,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,05/09/2026,102.12
+ORD74251,CUST5033,USB-C Charger|Desk Lamp|Wireless Mouse,Shipped,19/08/2026,52.92
+ORD74332,CUST7120,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Shipped,26/09/2026,97.61
+ORD74340,CUST8861,Yoga Mat|Water Bottle|Running Shoes,Processing,29/09/2026,98.51
+ORD74451,CUST8423,Screen Protector|Phone Case,Delayed,26/08/2026,17.33
+ORD74454,CUST1797,Desk Lamp|Bluetooth Headphones,Delivered,27/08/2026,70.03
+ORD74686,CUST7248,Yoga Mat|Water Bottle|Running Shoes,Processing,18/09/2026,93.73
+ORD74722,CUST7592,Smart Watch|Power Bank,Shipped,12/09/2026,117.89
+ORD74789,CUST8083,Yoga Mat|Water Bottle|Running Shoes,Delivered,09/09/2026,98.61
+ORD74799,CUST7020,Coffee Maker|Blender,Out for Delivery,14/09/2026,75.47
+ORD74923,CUST7931,Coffee Maker|Blender,Delivered,04/09/2026,75.98
+ORD74942,CUST2522,Yoga Mat|Water Bottle|Running Shoes,Delivered,21/08/2026,98.81
+ORD75230,CUST3540,Webcam|Laptop Stand|Blender,Delivered,26/09/2026,95.75
+ORD75323,CUST8825,Bluetooth Headphones|Power Bank|Phone Case,Out for Delivery,16/09/2026,83.19
+ORD75338,CUST5841,Webcam|Desk Lamp|Notebook Set|Bluetooth Headphones,Delivered,30/08/2026,107.19
+ORD75435,CUST2548,Screen Protector|Phone Case,Shipped,15/09/2026,18.15
+ORD75597,CUST9248,Screen Protector|Phone Case,Shipped,20/09/2026,18.62
+ORD75612,CUST1741,Screen Protector|Phone Case,Delivered,03/09/2026,18.22
+ORD75836,CUST5342,Smart Watch|Power Bank,Shipped,26/09/2026,120.91
+ORD75909,CUST5248,Phone Case,Delivered,01/10/2026,9.89
+ORD76162,CUST1217,Coffee Maker|Blender,Delivered,20/08/2026,78.49
+ORD76237,CUST8974,Smart Watch|Power Bank,Out for Delivery,19/08/2026,123.47
+ORD76244,CUST7471,Mechanical Keyboard,Shipped,19/09/2026,52.87
+ORD76307,CUST1260,Bluetooth Headphones|Power Bank|Phone Case,Shipped,21/08/2026,80.05
+ORD76317,CUST4961,Screen Protector|Phone Case,Delivered,26/09/2026,17.64
+ORD76469,CUST8592,Coffee Maker|Blender|Smart Watch,Delayed,18/08/2026,164.1
+ORD76540,CUST8947,Smart Watch|Power Bank,Shipped,13/09/2026,118.82
+ORD76542,CUST7418,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Phone Case,Delayed,31/08/2026,110.56
+ORD76550,CUST5764,Coffee Maker|Blender,Delivered,23/08/2026,78.26
+ORD76562,CUST8993,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,11/09/2026,98.52
+ORD76616,CUST5388,Power Bank|USB-C Charger,Delivered,21/08/2026,42.34
+ORD76698,CUST8147,Yoga Mat|Water Bottle|Running Shoes,Delivered,03/09/2026,94.4
+ORD76768,CUST4599,Screen Protector|Phone Case,Shipped,13/09/2026,18.4
+ORD76784,CUST7395,Backpack|Power Bank|Smart Watch,Delivered,13/09/2026,158.97
+ORD77000,CUST2412,Bluetooth Headphones|Power Bank|Phone Case|Smart Watch,Delivered,25/09/2026,178.08
+ORD77033,CUST9089,Bluetooth Headphones|Power Bank|Phone Case,Delayed,09/09/2026,86.16
+ORD77391,CUST6849,Bluetooth Headphones|Power Bank|Phone Case,Cancelled,29/09/2026,85.55
+ORD77449,CUST6533,Webcam|Desk Lamp|Notebook Set,Shipped,15/09/2026,66.11
+ORD77561,CUST6820,Coffee Maker|Mechanical Keyboard|USB-C Charger,Delivered,03/09/2026,113.29
+ORD77715,CUST2817,USB-C Charger|Bluetooth Headphones|Notebook Set,Shipped,24/09/2026,71.56
+ORD77839,CUST6925,Yoga Mat|Water Bottle|Running Shoes,Delivered,31/08/2026,99.26
+ORD77889,CUST2626,Yoga Mat|Water Bottle|Running Shoes|Mechanical Keyboard,Shipped,19/09/2026,151.07
+ORD77952,CUST7811,Running Shoes,Delivered,01/09/2026,63.97
+ORD78021,CUST9274,Yoga Mat|Water Bottle|Running Shoes|Phone Case,Out for Delivery,20/08/2026,104.28
+ORD78146,CUST9677,Bluetooth Headphones|Power Bank|Phone Case,Delivered,05/09/2026,86.3
+ORD78327,CUST9456,Wireless Mouse|Screen Protector,Shipped,01/10/2026,26.57
+ORD78386,CUST9476,Desk Lamp,Out for Delivery,21/09/2026,21.85
+ORD78494,CUST7443,Mechanical Keyboard|Bluetooth Headphones|Blender,Delivered,19/08/2026,137.71
+ORD78522,CUST5986,Yoga Mat|Water Bottle|Running Shoes,Processing,14/09/2026,100.88
+ORD78765,CUST3406,Coffee Maker|Blender,Cancelled,23/08/2026,77.16
+ORD78937,CUST8244,Smart Watch|Power Bank,Delivered,19/09/2026,122.5
+ORD79163,CUST2380,Yoga Mat|Water Bottle|Running Shoes|Mechanical Keyboard,Delivered,28/08/2026,148.72
+ORD79329,CUST2520,Yoga Mat|Water Bottle|Running Shoes,Delivered,21/09/2026,92.38
+ORD79352,CUST9846,Bluetooth Headphones|Power Bank|Phone Case,Out for Delivery,04/09/2026,87.04
+ORD79514,CUST2809,Smart Watch|Power Bank|Webcam,Out for Delivery,28/09/2026,153.85
+ORD79588,CUST3043,Webcam|Desk Lamp|Notebook Set,Delivered,16/09/2026,64.92
+ORD79615,CUST9737,Backpack,Shipped,20/08/2026,39.08
+ORD79616,CUST3293,Webcam|Desk Lamp|Notebook Set,Processing,29/08/2026,63.52
+ORD79621,CUST6919,Bluetooth Headphones|Power Bank|Phone Case,Delivered,26/09/2026,79.62
+ORD79822,CUST7961,Yoga Mat|Screen Protector,Processing,19/08/2026,28.07
+ORD79827,CUST9502,Power Bank|Phone Case,Delayed,18/08/2026,39.64
+ORD79942,CUST9020,Coffee Maker|Blender,Shipped,23/09/2026,74.89
+ORD80008,CUST8499,Screen Protector|Phone Case,Delivered,18/08/2026,17.48
+ORD80010,CUST8755,Bluetooth Headphones|Power Bank|Phone Case,Out for Delivery,24/09/2026,83.84
+ORD80236,CUST7694,Yoga Mat|Water Bottle|Running Shoes,Processing,22/09/2026,93.29
+ORD80282,CUST5995,Blender|Power Bank,Processing,22/09/2026,60.75
+ORD80284,CUST7910,Yoga Mat|Water Bottle|Running Shoes,Shipped,31/08/2026,92.17
+ORD80292,CUST9970,Smart Watch|Power Bank,Delivered,26/08/2026,117.44
+ORD80381,CUST6534,Mechanical Keyboard|Notebook Set,Delivered,02/09/2026,65.67
+ORD80468,CUST8357,Screen Protector|Phone Case,Out for Delivery,06/09/2026,17.71
+ORD80539,CUST1750,Coffee Maker|Laptop Stand,Cancelled,17/08/2026,61.91
+ORD80545,CUST6060,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Processing,23/08/2026,98.41
+ORD80575,CUST1866,Yoga Mat|Power Bank|Wireless Mouse,Shipped,28/08/2026,63.89
+ORD80592,CUST1310,Bluetooth Headphones|Power Bank|Phone Case|Screen Protector,Processing,28/08/2026,91.97
+ORD80644,CUST7583,Coffee Maker|Blender,Processing,04/09/2026,72.6
+ORD80678,CUST1394,Water Bottle|Coffee Maker,Processing,25/09/2026,52.22
+ORD80686,CUST5675,Yoga Mat|Water Bottle|Running Shoes,Shipped,05/09/2026,98.73
+ORD80697,CUST1965,Yoga Mat|Water Bottle|Running Shoes|Bluetooth Headphones,Shipped,25/09/2026,139.44
+ORD80702,CUST7763,Water Bottle|USB-C Charger,Processing,16/09/2026,27.68
+ORD80776,CUST4874,Smart Watch|Power Bank,Delayed,14/09/2026,112.82
+ORD80798,CUST8615,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,17/09/2026,102.05
+ORD80855,CUST1305,Webcam|Desk Lamp|Notebook Set,Shipped,27/08/2026,63.95
+ORD80912,CUST3057,Coffee Maker|Blender,Delivered,30/08/2026,72.78
+ORD81066,CUST3332,Bluetooth Headphones|Power Bank|Phone Case,Delivered,04/09/2026,86.83
+ORD81118,CUST8401,Smart Watch|Power Bank,Delivered,13/09/2026,119.81
+ORD81121,CUST3742,Coffee Maker|Blender,Delivered,07/09/2026,78.74
+ORD81200,CUST4485,Webcam|Desk Lamp|Notebook Set|Smart Watch,Delivered,26/08/2026,146.42
+ORD81228,CUST2469,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,14/09/2026,101.71
+ORD81376,CUST4454,Smart Watch|Power Bank|Desk Lamp,Delivered,17/08/2026,139.34
+ORD81426,CUST5029,Yoga Mat|Water Bottle|Running Shoes|Screen Protector,Delayed,10/09/2026,99.92
+ORD81482,CUST3190,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Processing,01/10/2026,99.69
+ORD81511,CUST7769,Screen Protector|Phone Case,Delivered,28/08/2026,17.25
+ORD81582,CUST2270,Smart Watch|Power Bank,Delivered,24/09/2026,116.27
+ORD81810,CUST7166,Water Bottle|Smart Watch,Delivered,18/08/2026,106.93
+ORD81819,CUST3044,Bluetooth Headphones|Power Bank|Phone Case,Shipped,30/09/2026,85.14
+ORD81987,CUST6862,Smart Watch|Power Bank,Out for Delivery,17/08/2026,114.71
+ORD82063,CUST9090,Coffee Maker,Delivered,17/08/2026,40.83
+ORD82102,CUST4425,Smart Watch|Power Bank,Processing,14/09/2026,118.82
+ORD82132,CUST9093,Bluetooth Headphones|Power Bank|Phone Case,Delivered,19/08/2026,83.85
+ORD82140,CUST3875,Bluetooth Headphones|Power Bank|Phone Case,Shipped,26/08/2026,85.95
+ORD82199,CUST9570,Yoga Mat|Water Bottle|Running Shoes|Wireless Mouse,Delayed,18/08/2026,117.04
+ORD82255,CUST5143,Coffee Maker|Blender|Phone Case,Delivered,21/08/2026,81.19
+ORD82309,CUST6292,Coffee Maker|Blender|Webcam,Delivered,08/09/2026,107.18
+ORD82340,CUST1712,Bluetooth Headphones,Shipped,05/09/2026,45.15
+ORD82350,CUST6181,Bluetooth Headphones|Power Bank|Phone Case|Wireless Mouse,Delayed,17/09/2026,105.83
+ORD82357,CUST7943,Yoga Mat,Shipped,12/09/2026,19.13
+ORD82384,CUST2584,Coffee Maker|Blender,Delivered,22/08/2026,78.26
+ORD82420,CUST5102,Coffee Maker|Blender|Desk Lamp,Delivered,10/09/2026,97.19
+ORD82512,CUST4878,Screen Protector|USB-C Charger|Notebook Set,Delivered,26/09/2026,33.52
+ORD82529,CUST1546,Smart Watch|Power Bank,Delivered,28/09/2026,122.95
+ORD82544,CUST8240,Webcam|Desk Lamp|Notebook Set,Processing,19/08/2026,60.2
+ORD82603,CUST1855,Coffee Maker|Blender,Delivered,05/09/2026,73.0
+ORD82667,CUST1173,Coffee Maker|Blender,Cancelled,23/08/2026,72.01
+ORD82692,CUST1425,Yoga Mat|Water Bottle|Running Shoes,Processing,01/10/2026,97.92
+ORD82768,CUST2106,Smart Watch|Power Bank|Mechanical Keyboard,Delivered,15/09/2026,170.5
+ORD82845,CUST8887,Coffee Maker|Blender|Mechanical Keyboard,Delivered,28/09/2026,125.16
+ORD82848,CUST8140,Screen Protector|Phone Case,Out for Delivery,28/08/2026,18.5
+ORD83000,CUST3415,Webcam|Desk Lamp|Notebook Set|Backpack,Delayed,29/08/2026,101.87
+ORD83060,CUST3369,Webcam|Desk Lamp|Notebook Set,Delivered,28/09/2026,62.51
+ORD83147,CUST4201,Yoga Mat|Laptop Stand|Desk Lamp,Shipped,01/09/2026,68.31
+ORD83259,CUST8657,Yoga Mat|Water Bottle|Running Shoes,Delivered,10/09/2026,98.13
+ORD83385,CUST7859,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,29/09/2026,97.96
+ORD83519,CUST1060,Screen Protector|Phone Case|Yoga Mat,Shipped,10/09/2026,39.17
+ORD83563,CUST7158,Bluetooth Headphones|Power Bank|Phone Case,Processing,01/10/2026,79.46
+ORD83579,CUST1491,Bluetooth Headphones|Power Bank|Phone Case|Yoga Mat,Delivered,08/09/2026,98.3
+ORD83772,CUST1486,Yoga Mat|Water Bottle|Running Shoes|Coffee Maker,Delivered,10/09/2026,141.76
+ORD83792,CUST5029,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Coffee Maker,Delayed,30/09/2026,142.57
+ORD83920,CUST3248,Smart Watch|Power Bank,Out for Delivery,18/09/2026,115.7
+ORD83975,CUST4934,Yoga Mat|Water Bottle|Running Shoes,Delayed,23/08/2026,100.7
+ORD84085,CUST2071,Bluetooth Headphones|Power Bank|Phone Case,Shipped,07/09/2026,84.61
+ORD84177,CUST6209,Screen Protector|Phone Case|Bluetooth Headphones,Delivered,25/08/2026,61.04
+ORD84341,CUST9773,Bluetooth Headphones|Power Bank|Phone Case,Delivered,14/09/2026,86.09
+ORD84364,CUST9327,Yoga Mat|Laptop Stand,Delivered,20/08/2026,45.52
+ORD84531,CUST3743,Smart Watch|Power Bank,Delivered,08/09/2026,117.98
+ORD84593,CUST8606,Screen Protector|Phone Case|Power Bank,Delivered,31/08/2026,45.88
+ORD84607,CUST7569,Smart Watch|Power Bank,Processing,17/09/2026,122.66
+ORD84668,CUST8406,Yoga Mat|Blender,Delivered,07/09/2026,55.39
+ORD84691,CUST7129,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Shipped,29/08/2026,96.55
+ORD84847,CUST1674,Webcam|Desk Lamp|Notebook Set|Screen Protector,Delivered,05/09/2026,70.06
+ORD84946,CUST9151,Coffee Maker|Blender|Screen Protector,Shipped,21/08/2026,79.48
+ORD85243,CUST2350,Webcam|Desk Lamp|Notebook Set,Delivered,14/09/2026,65.69
+ORD85392,CUST2612,Yoga Mat|Water Bottle|Running Shoes,Out for Delivery,19/08/2026,95.34
+ORD85454,CUST5959,Smart Watch|Power Bank,Shipped,17/08/2026,119.23
+ORD85456,CUST3258,Notebook Set|Coffee Maker|Wireless Mouse,Delivered,13/09/2026,69.16
+ORD85470,CUST7616,Wireless Mouse|Power Bank|Mechanical Keyboard,Cancelled,17/09/2026,98.24
+ORD85525,CUST4438,Webcam|Desk Lamp|Notebook Set,Delivered,02/09/2026,64.4
+ORD85529,CUST8559,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Yoga Mat,Delivered,18/08/2026,117.03
+ORD85574,CUST8187,Webcam|Desk Lamp|Notebook Set|Mechanical Keyboard,Delivered,23/09/2026,115.71
+ORD85631,CUST1158,Screen Protector|Phone Case,Out for Delivery,05/09/2026,17.87
+ORD85674,CUST7608,Notebook Set|Blender|Desk Lamp,Delivered,26/08/2026,67.88
+ORD85849,CUST3279,Yoga Mat|Water Bottle|Running Shoes,Delivered,24/08/2026,97.72
+ORD85880,CUST7404,Water Bottle,Processing,07/09/2026,11.63
+ORD85914,CUST2779,Coffee Maker|Blender,Out for Delivery,21/09/2026,72.03
+ORD86011,CUST3910,Screen Protector|Phone Case,Processing,19/09/2026,17.23
+ORD86019,CUST7322,Bluetooth Headphones|Power Bank|Phone Case|Webcam,Processing,28/09/2026,113.49
+ORD86099,CUST1180,Smart Watch|Power Bank,Out for Delivery,24/09/2026,113.62
+ORD86225,CUST7855,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Yoga Mat,Shipped,18/09/2026,115.76
+ORD86350,CUST8778,Webcam|Desk Lamp|Notebook Set,Delivered,30/08/2026,64.37
+ORD86435,CUST8519,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,06/09/2026,99.03
+ORD86484,CUST5044,Webcam|Desk Lamp|Notebook Set,Delivered,26/08/2026,60.1
+ORD86503,CUST2492,Coffee Maker|Blender,Out for Delivery,20/09/2026,74.36
+ORD86556,CUST3942,Phone Case|Screen Protector|Water Bottle,Delayed,20/09/2026,30.6
+ORD86569,CUST2565,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Smart Watch,Shipped,22/08/2026,188.71
+ORD86622,CUST2093,Screen Protector|Phone Case,Delayed,05/09/2026,18.89
+ORD86720,CUST2986,USB-C Charger,Delivered,11/09/2026,14.87
+ORD86931,CUST3700,Webcam|Desk Lamp|Notebook Set|Wireless Mouse,Processing,18/08/2026,82.42
+ORD86955,CUST8567,Screen Protector|Phone Case|Yoga Mat,Out for Delivery,01/10/2026,37.05
+ORD87110,CUST3236,Screen Protector|Phone Case,Delivered,26/09/2026,18.09
+ORD87128,CUST4969,Coffee Maker|Blender,Delivered,21/09/2026,77.54
+ORD87139,CUST2646,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Out for Delivery,27/09/2026,99.68
+ORD87236,CUST1183,Bluetooth Headphones|Power Bank|Phone Case,Shipped,17/08/2026,79.14
+ORD87278,CUST9721,Screen Protector|Phone Case|Webcam,Delivered,17/08/2026,50.8
+ORD87304,CUST2684,Yoga Mat|Water Bottle|Running Shoes,Delivered,28/09/2026,99.64
+ORD87356,CUST4305,Running Shoes|Yoga Mat,Processing,05/09/2026,80.99
+ORD87397,CUST1238,Bluetooth Headphones|Power Bank|Phone Case,Processing,25/09/2026,85.46
+ORD87580,CUST3750,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Processing,11/09/2026,96.26
+ORD87607,CUST4105,Webcam|Desk Lamp|Notebook Set|Phone Case,Shipped,18/09/2026,70.12
+ORD87656,CUST6298,Coffee Maker|Blender,Processing,18/09/2026,74.69
+ORD87832,CUST2081,Yoga Mat|Water Bottle|Running Shoes,Out for Delivery,27/09/2026,100.74
+ORD87924,CUST7735,Webcam|Desk Lamp|Notebook Set,Delayed,17/08/2026,63.23
+ORD87992,CUST3809,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delayed,18/08/2026,96.91
+ORD87993,CUST3177,Screen Protector|Phone Case,Delivered,20/08/2026,17.97
+ORD88047,CUST6490,Webcam|Desk Lamp|Notebook Set,Delivered,17/09/2026,63.02
+ORD88104,CUST1217,Webcam|Desk Lamp|Notebook Set,Shipped,16/09/2026,64.5
+ORD88135,CUST4990,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Power Bank,Shipped,22/09/2026,124.43
+ORD88139,CUST1621,Screen Protector|Phone Case,Delayed,10/09/2026,17.34
+ORD88172,CUST6202,Smart Watch|Power Bank|Phone Case,Delivered,13/09/2026,131.21
+ORD88193,CUST4752,Desk Lamp|Running Shoes,Shipped,28/09/2026,90.54
+ORD88222,CUST5068,Running Shoes|Water Bottle|Desk Lamp,Shipped,22/08/2026,94.11
+ORD88385,CUST9055,Bluetooth Headphones|Power Bank|Phone Case|Mechanical Keyboard,Delayed,23/09/2026,132.37
+ORD88504,CUST9992,Running Shoes,Delivered,04/09/2026,66.46
+ORD88561,CUST6103,Bluetooth Headphones|Power Bank|Phone Case|Smart Watch,Delivered,12/09/2026,169.29
+ORD88697,CUST8344,Coffee Maker,Cancelled,01/09/2026,38.32
+ORD88907,CUST6891,Bluetooth Headphones|Power Bank|Phone Case,Delivered,23/08/2026,84.95
+ORD89069,CUST3553,Wireless Mouse|Water Bottle,Delivered,26/09/2026,30.78
+ORD89129,CUST5918,Bluetooth Headphones|Power Bank|Phone Case,Shipped,07/09/2026,82.7
+ORD89131,CUST8431,Webcam|Desk Lamp|Notebook Set,Processing,23/09/2026,64.35
+ORD89276,CUST4206,Bluetooth Headphones|Power Bank|Phone Case|Webcam,Delivered,08/09/2026,114.9
+ORD89415,CUST7812,Backpack|Water Bottle|Power Bank,Out for Delivery,25/08/2026,74.66
+ORD89457,CUST1636,Water Bottle,Delayed,21/09/2026,11.63
+ORD89471,CUST8148,Backpack|Webcam|Power Bank,Delivered,08/09/2026,99.93
+ORD89507,CUST7313,Running Shoes|Notebook Set|Power Bank,Processing,08/09/2026,103.34
+ORD89516,CUST1462,Screen Protector|Phone Case,Delayed,22/09/2026,17.56
+ORD89593,CUST3644,Smart Watch|Power Bank|Water Bottle,Out for Delivery,25/08/2026,136.16
+ORD89806,CUST2316,Bluetooth Headphones|Power Bank|Phone Case,Shipped,04/09/2026,80.95
+ORD89818,CUST5951,Webcam|Desk Lamp|Notebook Set,Out for Delivery,12/09/2026,64.47
+ORD89840,CUST2456,Webcam|Desk Lamp|Notebook Set,Out for Delivery,22/09/2026,61.54
+ORD89887,CUST4432,Blender|Wireless Mouse,Delayed,31/08/2026,50.36
+ORD89905,CUST2144,Webcam|Phone Case,Delivered,04/09/2026,40.62
+ORD89997,CUST7138,Bluetooth Headphones|Power Bank|Phone Case|Smart Watch,Delivered,24/09/2026,172.15
+ORD90120,CUST4482,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,19/09/2026,95.64
+ORD90173,CUST7697,Webcam|Desk Lamp|Notebook Set|Smart Watch,Processing,26/09/2026,151.13
+ORD90301,CUST5534,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,19/08/2026,100.55
+ORD90676,CUST1155,Smart Watch|Power Bank,Delivered,29/09/2026,113.24
+ORD90728,CUST9557,Webcam|Coffee Maker,Delayed,01/09/2026,73.85
+ORD90931,CUST8036,Screen Protector|Phone Case,Delayed,16/09/2026,18.79
+ORD91057,CUST7528,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Cancelled,25/09/2026,93.13
+ORD91070,CUST7583,Bluetooth Headphones|Power Bank|Phone Case|USB-C Charger,Cancelled,14/09/2026,102.42
+ORD91167,CUST5072,Webcam|Desk Lamp|Notebook Set,Cancelled,30/08/2026,62.45
+ORD91183,CUST4079,Screen Protector|Phone Case,Delivered,30/09/2026,18.24
+ORD91226,CUST1749,Desk Lamp|Screen Protector|Running Shoes,Delivered,06/09/2026,97.27
+ORD91351,CUST2333,Coffee Maker|Blender,Cancelled,25/09/2026,76.76
+ORD91399,CUST5814,Screen Protector|Phone Case|Webcam,Cancelled,17/08/2026,50.02
+ORD91416,CUST3094,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Notebook Set,Delayed,02/09/2026,103.45
+ORD91439,CUST8311,Notebook Set|Running Shoes,Shipped,21/09/2026,75.87
+ORD91560,CUST2465,Screen Protector|Phone Case|Desk Lamp,Delayed,14/09/2026,38.88
+ORD91609,CUST5220,Screen Protector|Phone Case|Mechanical Keyboard,Delayed,22/08/2026,74.65
+ORD91678,CUST2481,Running Shoes|Laptop Stand,Delivered,07/09/2026,93.69
+ORD91691,CUST7252,Smart Watch|Power Bank,Cancelled,17/09/2026,114.74
+ORD91927,CUST2895,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Yoga Mat,Delivered,24/09/2026,118.86
+ORD91959,CUST3087,Wireless Mouse|Blender,Processing,28/08/2026,51.36
+ORD91973,CUST7359,Backpack|Mechanical Keyboard,Delivered,24/08/2026,93.84
+ORD91987,CUST2746,Webcam|Desk Lamp|Notebook Set,Out for Delivery,13/09/2026,65.12
+ORD92149,CUST9189,Bluetooth Headphones|Power Bank|Phone Case,Shipped,20/08/2026,85.9
+ORD92155,CUST1562,Yoga Mat|Water Bottle|Running Shoes,Delivered,14/09/2026,101.82
+ORD92213,CUST8836,Bluetooth Headphones|Power Bank|Phone Case,Delivered,07/09/2026,79.34
+ORD92240,CUST6458,Screen Protector|Phone Case|Running Shoes,Delivered,28/09/2026,86.51
+ORD92397,CUST3933,Water Bottle|Blender|Smart Watch,Delayed,27/08/2026,135.52
+ORD92502,CUST7921,Yoga Mat|Water Bottle|Running Shoes,Out for Delivery,29/08/2026,99.2
+ORD92544,CUST5626,Bluetooth Headphones|Power Bank|Phone Case,Delivered,25/09/2026,79.94
+ORD92578,CUST1886,Blender|Screen Protector|Smart Watch,Delivered,03/09/2026,135.61
+ORD92719,CUST5769,Yoga Mat,Delivered,19/09/2026,20.47
+ORD92727,CUST1149,Smart Watch|Power Bank,Delivered,22/09/2026,116.54
+ORD92960,CUST7997,Bluetooth Headphones|Power Bank|Phone Case,Processing,01/09/2026,80.34
+ORD93066,CUST1859,Webcam|Desk Lamp|Notebook Set,Delivered,22/09/2026,63.8
+ORD93130,CUST7619,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Power Bank,Out for Delivery,24/08/2026,131.73
+ORD93136,CUST7150,Laptop Stand|Screen Protector|Water Bottle,Shipped,21/08/2026,44.75
+ORD93202,CUST1190,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Webcam,Shipped,25/08/2026,130.95
+ORD93227,CUST8856,Screen Protector|Phone Case|Smart Watch,Out for Delivery,21/08/2026,110.19
+ORD93307,CUST5888,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Notebook Set,Shipped,18/08/2026,101.86
+ORD93320,CUST9788,Power Bank|Laptop Stand|USB-C Charger,Delivered,18/09/2026,71.17
+ORD93507,CUST2922,Webcam|Desk Lamp|Notebook Set,Processing,03/09/2026,64.89
+ORD93579,CUST3015,Webcam|Desk Lamp|Notebook Set|Smart Watch,Processing,15/09/2026,158.38
+ORD93606,CUST1573,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Out for Delivery,28/08/2026,94.78
+ORD93611,CUST1001,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,13/09/2026,99.56
+ORD93748,CUST8289,Coffee Maker|Blender,Delivered,09/09/2026,75.8
+ORD93810,CUST9365,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Processing,29/09/2026,94.94
+ORD93886,CUST5910,Mechanical Keyboard,Delivered,18/09/2026,55.5
+ORD94012,CUST5544,Webcam|Desk Lamp|Notebook Set,Delivered,15/09/2026,62.26
+ORD94080,CUST3675,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,18/08/2026,94.5
+ORD94246,CUST4338,Screen Protector|Phone Case|Yoga Mat,Delivered,26/08/2026,38.6
+ORD94259,CUST9379,Coffee Maker|Blender,Out for Delivery,04/09/2026,74.09
+ORD94607,CUST5055,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,05/09/2026,93.75
+ORD94659,CUST2457,Yoga Mat|Water Bottle|Running Shoes,Shipped,17/09/2026,94.8
+ORD94696,CUST2604,Bluetooth Headphones|Power Bank|Phone Case|USB-C Charger,Delivered,24/09/2026,94.82
+ORD94874,CUST6022,Smart Watch|Power Bank,Delivered,18/08/2026,118.85
+ORD94886,CUST5620,Webcam|Desk Lamp|Notebook Set|Bluetooth Headphones,Shipped,07/09/2026,104.55
+ORD94896,CUST9711,Smart Watch|Power Bank,Delivered,15/09/2026,112.21
+ORD94939,CUST9414,Screen Protector|Phone Case|Water Bottle,Delivered,14/09/2026,28.66
+ORD95175,CUST7064,Bluetooth Headphones|Power Bank|Phone Case,Delivered,02/09/2026,80.37
+ORD95180,CUST6799,Blender|Coffee Maker|Phone Case,Delivered,17/08/2026,88.24
+ORD95181,CUST4748,Smart Watch|Power Bank|Blender,Delivered,11/09/2026,158.28
+ORD95215,CUST2302,Bluetooth Headphones|Power Bank|Phone Case,Shipped,28/09/2026,79.55
+ORD95256,CUST5683,Coffee Maker|Blender,Processing,04/09/2026,76.33
+ORD95394,CUST3235,Webcam|Desk Lamp|Notebook Set,Delivered,28/08/2026,64.25
+ORD95426,CUST7643,Bluetooth Headphones|Power Bank|Phone Case,Delivered,17/08/2026,82.38
+ORD95461,CUST9754,Bluetooth Headphones|Power Bank|Phone Case,Delivered,29/08/2026,84.53
+ORD95477,CUST1693,Bluetooth Headphones|Power Bank|Phone Case,Cancelled,29/08/2026,86.35
+ORD95649,CUST3864,Smart Watch|Power Bank|Backpack,Delayed,04/09/2026,155.93
+ORD95717,CUST3793,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Running Shoes,Delivered,24/09/2026,159.58
+ORD95813,CUST8915,Bluetooth Headphones|Power Bank|Phone Case|Water Bottle,Shipped,12/09/2026,99.08
+ORD95823,CUST9446,Screen Protector,Cancelled,31/08/2026,7.65
+ORD95909,CUST1096,Yoga Mat|Water Bottle|Running Shoes|USB-C Charger,Processing,20/09/2026,110.9
+ORD95990,CUST1145,Coffee Maker|Blender|Webcam,Delivered,22/09/2026,106.04
+ORD96163,CUST8985,Smart Watch|Power Bank,Shipped,06/09/2026,116.52
+ORD96200,CUST6971,Bluetooth Headphones|Power Bank|Phone Case,Shipped,03/09/2026,84.3
+ORD96356,CUST8198,Yoga Mat|Water Bottle|Running Shoes,Processing,17/08/2026,94.08
+ORD96374,CUST4105,Bluetooth Headphones|Power Bank|Phone Case|Desk Lamp,Delayed,21/09/2026,106.75
+ORD96474,CUST8852,USB-C Charger|Phone Case,Delivered,31/08/2026,25.75
+ORD96499,CUST3087,Smart Watch|Power Bank,Out for Delivery,07/09/2026,113.65
+ORD96511,CUST2767,Mechanical Keyboard,Out for Delivery,01/10/2026,56.47
+ORD96563,CUST4874,Smart Watch|Power Bank|Wireless Mouse,Delivered,13/09/2026,133.04
+ORD96662,CUST2353,Mechanical Keyboard,Delivered,20/09/2026,53.62
+ORD96673,CUST2884,Running Shoes|Phone Case|Yoga Mat,Delivered,25/09/2026,96.91
+ORD96706,CUST9230,Bluetooth Headphones|Power Bank|Phone Case,Delivered,22/08/2026,80.08
+ORD96752,CUST2973,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Yoga Mat,Delayed,04/09/2026,112.31
+ORD96846,CUST4270,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Webcam,Out for Delivery,22/08/2026,136.24
+ORD96900,CUST4633,Coffee Maker|Blender|Phone Case,Delivered,12/09/2026,81.69
+ORD96951,CUST6956,Yoga Mat|Water Bottle|Running Shoes,Shipped,28/09/2026,93.91
+ORD96991,CUST1008,Screen Protector|Phone Case|Blender,Delivered,24/08/2026,50.88
+ORD97012,CUST4028,Coffee Maker|Blender,Processing,20/08/2026,71.35
+ORD97026,CUST3134,Screen Protector|Phone Case,Delivered,25/08/2026,18.05
+ORD97062,CUST7088,Yoga Mat|Water Bottle|Running Shoes,Processing,25/09/2026,93.42
+ORD97153,CUST2971,Screen Protector|Phone Case,Shipped,03/09/2026,18.77
+ORD97410,CUST2226,Desk Lamp|Blender|Power Bank,Delayed,19/09/2026,85.29
+ORD97416,CUST3517,Bluetooth Headphones|Power Bank|Phone Case,Delivered,27/08/2026,86.94
+ORD97500,CUST6996,Screen Protector|Phone Case,Processing,05/09/2026,18.04
+ORD97538,CUST9255,Coffee Maker,Delivered,23/09/2026,39.16
+ORD97580,CUST1996,Yoga Mat|Water Bottle|Power Bank,Delivered,30/08/2026,62.83
+ORD97670,CUST3711,Webcam|Desk Lamp|Notebook Set|Water Bottle,Delivered,14/09/2026,72.8
+ORD97684,CUST1058,Bluetooth Headphones|Power Bank|Phone Case,Processing,30/08/2026,82.63
+ORD97747,CUST9602,Smart Watch|Power Bank|Coffee Maker,Delivered,21/09/2026,153.64
+ORD97782,CUST9741,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delayed,14/09/2026,102.19
+ORD97806,CUST5430,Running Shoes,Delayed,18/09/2026,65.22
+ORD97835,CUST1022,Screen Protector|Phone Case,Out for Delivery,26/09/2026,18.8
+ORD97841,CUST9999,Bluetooth Headphones|Power Bank|Phone Case,Delivered,11/09/2026,87.03
+ORD97900,CUST1170,Coffee Maker,Shipped,30/09/2026,40.15
+ORD98039,CUST2743,Screen Protector|Phone Case|Coffee Maker,Cancelled,22/08/2026,58.61
+ORD98117,CUST4377,Desk Lamp,Shipped,25/08/2026,22.29
+ORD98184,CUST7479,Bluetooth Headphones|Power Bank|Phone Case,Delivered,22/09/2026,86.34
+ORD98259,CUST2535,Coffee Maker|Blender|Smart Watch,Shipped,31/08/2026,172.32
+ORD98381,CUST3955,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Smart Watch,Delivered,19/08/2026,190.03
+ORD98389,CUST2137,Coffee Maker|Blender|Water Bottle,Processing,29/08/2026,83.84
+ORD98501,CUST1193,Coffee Maker|Blender|USB-C Charger,Delivered,21/08/2026,93.91
+ORD98555,CUST3165,Wireless Mouse|Mechanical Keyboard|Laptop Stand,Delivered,01/10/2026,102.48
+ORD98696,CUST2742,Smart Watch|Power Bank|Laptop Stand,Shipped,01/09/2026,146.71
+ORD98777,CUST8279,Desk Lamp|Power Bank,Shipped,28/09/2026,50.22
+ORD98781,CUST5382,Wireless Mouse|Mechanical Keyboard|Laptop Stand|Bluetooth Headphones,Processing,13/09/2026,137.32
+ORD99016,CUST7804,Bluetooth Headphones|Power Bank|Phone Case,Out for Delivery,09/09/2026,84.29
+ORD99065,CUST4700,Water Bottle|USB-C Charger|Power Bank,Shipped,24/09/2026,53.48
+ORD99166,CUST5617,Webcam|Desk Lamp|Notebook Set|Backpack,Delayed,26/09/2026,105.0
+ORD99192,CUST3475,Webcam|Desk Lamp|Notebook Set|Smart Watch,Delivered,22/09/2026,159.01
+ORD99353,CUST5940,Yoga Mat|Water Bottle|Running Shoes|USB-C Charger,Shipped,31/08/2026,113.81
+ORD99364,CUST5348,Laptop Stand|Wireless Mouse|Mechanical Keyboard,Delivered,22/09/2026,96.24
+ORD99399,CUST7399,Smart Watch|Power Bank,Delivered,27/09/2026,113.44
+ORD99539,CUST8003,Mechanical Keyboard|Laptop Stand,Out for Delivery,23/09/2026,77.45
+ORD99593,CUST7308,Coffee Maker|Blender,Delivered,05/09/2026,75.76
+ORD99687,CUST6463,Screen Protector|Phone Case,Out for Delivery,27/08/2026,17.99
+ORD99705,CUST9745,Webcam|Desk Lamp|Notebook Set,Out for Delivery,25/08/2026,64.35
+ORD99733,CUST9633,Screen Protector|Phone Case,Shipped,26/09/2026,17.52
+ORD99974,CUST1046,Smart Watch|Power Bank|Notebook Set,Delivered,23/09/2026,132.35
